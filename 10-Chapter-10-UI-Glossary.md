@@ -1,0 +1,971 @@
+Chapter 10: UI Glossary
+=======================
+
+This is the glossary that will accompany the book. This is an initial scratch file into which I’ll be adding draft content.
+
+
+## 5 Second Test
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## A/B Test
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Accessibility
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Animation Terms (Ease In/Out, etc.)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Behaviors
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Blockframe
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Brand Dictionary
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Breadcrumbs
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Button
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Call to Action (CTA)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Card Sorting
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Cards
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Card Grid (Menu)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Click, Drag, Swipe, etc..
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Colour (Primary, Secondary, Complementary, etc.)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Component
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Conversion Rate
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Corporate Guidelines
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Customer Journey Map
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Design System
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Dialog
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Dropdown (Menu)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Easing
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Element
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Field
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Flat Design
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Flow
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Flyout
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Grid System
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Hamburger (Icon)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## HIG
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Information Architecture (IA)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Icon
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Landing Page
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## MVP
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Macro-Copy; Micro-Copy
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Mask
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Material Design
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Methodologies (Lean, Sprint, Agile, etc.)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Mockup
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Modal Dialog
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Onboarding
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Overlay
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Page
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Pane
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Panel
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Parallax
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Persona
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Popup
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Prototype
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Skeuomorphism
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## States
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Tab
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Tags
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Taxonomies
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Top Tasks
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Transformation
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Transition
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## UI, GUI
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## User Journey
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## User Story
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Variables
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## Wireframe
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+- - -
+
+
+## XD-Specific Terms (Auto Animate, Repeat Grid, etc.)
+
+Definition:
+
+CONTENT
+
+
+See Also:
+
+CONTENT
+
+
+---
+
+
+I hope you find this resource useful. I’m also currently working on a book for the fine folks at Smashing Magazine – ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. It will be published in late 2019.
+
+You might like to [follow me](https://www.twitter.com/fehler) on Twitter for updates on that book and other projects I’m working on.
+
+Copyright · Adobe XD + Mr Murphy Ltd.

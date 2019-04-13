@@ -1,0 +1,279 @@
+Chapter 3: Information Architecture
+===================================
+
+**SCRATCH**
+
+Perhaps in this chapter (if not here, work out where) I should stress Maxim's point (and mine) that – often – you are presenting multiple design artefacts to a client that collectively tell the story of the interface you're designing.
+
+**At the bottom of this file there's extra scratch content that needs to be folded in.**
+
+
+Summary
+-------
+
+In an age of information overload, **establishing a clear information architecture is more critical than ever**. In this chapter, **I’ll explain what information architecture is, introduce the idea of visual hierarchy, and introduce grid systems as a backbone for visual alignment and harmony**.
+
+
+
+Overview
+--------
+
+When we design an interface, it’s important to put some thought into our overall information architecture (IA). Information architecture is focused on **organising, structuring and labelling content in a way that eases users through the overall information presented**.
+
+Our goal as designers is to:
+
+1. **help users find the information they’re looking for**; and
+
+2. **enable them to complete the goals they intend to undertake**.
+
+In order to do this, it’s important to put some thought into **how the different elements fit together as part of the overall system** within which they exist.
+
+To design an effective information architecture, **we need to consider the relationship of elements at a range of different levels**:
+
+Component Level
+Page Level
+Site / App Level
+
+Our components – the content elements that make up our pages, that I explored in the preceding chapter – **will have their own information architecture that we need to consider at the micro-level**.
+
+Similarly, pages will have a page-level information architecture, that relates to the context in which they’re consumed, for example, in a browser in a desktop or mobile context. **How pages are laid out, with a considered hierarchy, will help users achieve their goals.**
+
+At the macro-level, we need to **consider the overall information architecture of the site or application we’re building**. We need to **ensure that we organise our information clearly**, ensuring users understand the overall structure of the site and enabling them to build a ‘mental model’ of how everything is organised.
+
+
+
+Part 1: Element → Component → Page
+----------------------------------
+
+This is a new Part 1, it's about building up from the elements and components we explored in the previous chapter.
+
+Show an example of how a page is built up:
+
++ Element
++ Component
++ Page
+
+Mention design systems (reiterating what I said in the preceding chapter).
+
+
+
+Part 2: The Importance of a Clear Visual Hierarchy
+--------------------------------------------------
+
+We can create hierarchy in a number of ways: through the use of scale or weight; color or tone; or alignment. Hierarchy is important for taking complex, information-heavy material and ordering it so that the user isn’t overwhelmed by the interface.
+
+PICTURE: Clear Visual Hierarchy
+
+**Caption: Above, clockwise from top-left: 1. no hierarchy; 2. hierarchy through scale or weight; 3. hierarchy through color; 4. hierarchy through alignment.**
+
+We can combine these approaches – for example, using scale and colour – to further tease out the hierarchy of our information, but we don’t need to. **Often the best designs are the simplest, the important point is to ensure that we’ve used the principles of design to establish a clear visual hierarchy.**
+
+PICTURE: GOV.UK
+
+**Caption: GOV.UK uses a clear information architecture to ensure users can find out what they need to quickly and easily.**
+
+GOV.UK is a great example of a clear information hierarchy, where a great deal of information is ordered systematically.
+
+At a macro level, the page is clearly organised with prominent, but understated branding (1) at the top of the page. A breadcrumb trail underneath the branding (2) provides users with a clear sense of where the user is in the overall hierarchy:
+
+Home > Money and Tax > Income Tax
+
+The interface is clearly focused on the ‘job to be done’, in this case finding out about how to claim tax relief for work-related expenses (3). Finally, a ‘Contents’ list at the top of the content (4) allows users to jump to the information they need quickly and easily.
+
+The hierarchy is focused on the user’s needs and, as such, it’s no surprise that GOV.UK has won numerous design awards.
+
+The design might look simple, but it’s this simplicity that lies at the heart of the design’s success. This focus on creating a user interface that is uncluttered and highly functional is encapsulated in GOV.UK’s Government Design Principles, specifically Principle 4:
+
+Do the hard work to make it simple.
+
+At GOV.UK users have a clear mental model of the site that they’re using because the information architecture is clearly articulated through:
+
+the site’s simple, yet clearly organised structure;
+the use of breadcrumb navigation, which provides a clear sense of where a user is within the site; and
+the clear use of language, coupled with an uncluttered design.
+
+From a user interface perspective the site might appear simple, but – as I’ve noted above – that simplicity is driven by users’ needs.
+
+It might be tempting to look at this design and imagine ways in which we could add to the interface – perhaps using animation or other ‘enhancements’ – but this would be missing the point, which is to start with user needs and enable users to satisfy these needs as quickly as possible.
+
+PICTURE: Things 3
+
+**Caption: Things – an award-winning personal task manager – demonstrates the importance of a clear information architecture in a mobile context, where space is at a premium.**
+
+Things, an award-winning personal task manager, is a great example of the importance of establishing a clear information architecture in a mobile context, where space is at a premium.
+
+In the iOS app (left) pages are clearly organised: the user’s tasks for ‘Today’ (1) are clearly listed on the page. Tasks that haven’t been allocated to an established category (2) are listed first. Tasks that are categorised follow (3, 4) with a simple pie chart (4) showing the user’s progress through a category. Despite the limited amount of space, everything is organised clearly communicating a maximum of information.
+
+In the watchOS app (right) – where space is even more premium – the same list of tasks is listed with a micro-chart (5) showing how many tasks have been achieved and with a clear list of tasks (6) that can be scrolled through to access the rest of the tasks.
+
+In both examples above – regardless of the context: desktop, mobile or wrist – the focus is on establishing a clear visual hierarchy to help users navigate the information presented.
+
+
+
+Part 3: Blockframes /* Insert this here? */
+--------------------------
+
+If I put blockframes in here, I need to emphasise their role. They're not about designing in the absence of content (which is never a good idea), they're about getting a feel for the overall page and its content hierarchy.
+
+Expand on this by referencing the Medium article:
+
+https://medium.com/ux-power-tools/blockframing-and-31-free-sketch-ready-layouts-using-auto-layout-by-anima-app-1be039007ecf
+
+By Jon Moore. (Also give Jon Moore credit for his UX Power Tools downloadables.)
+
+
+
+Part 4: Relationships
+--------------------------
+
+How our elements are arranged in relationship to each other is also important. As the number of elements in our interfaces increases, we can use the relationships between elements to organise our information architecture. We can organise our components in a variety of ways:
+
+Repetition
+Symmetry / Asymmetry
+Groupings
+Proximity
+
+PICTURE: Relationships (Repetition, Symmetry / Asymmetry, Groupings, proximity.
+
+**Caption: Caption goes here.**
+
+This content will draw from the book Universal Principles of Design, which is absolutely required reading. I’ll cover the principles of repetition, symmetry / asymmetry, groupings and proximity as they’re important for organising information in interfaces.
+
+ADD 'UNIVERSAL PRINCIPLES OF DESIGN' TO FURTHER READING.
+
+
+
+Part 5: Composition and Grid Systems
+------------------------------------
+
+We can also put some thought into how our interface elements are arranged compositionally in relation to the page. Different pages – depending upon context (desktop, mobile, wrist…) – will lend themselves to different compositions.
+
+In a desktop context, for example, we might use white space to draw the user’s eye towards critical information. In a wrist based context – where space is at a premium – we need to orchestrate our content in a different manner.
+
+
+
+Bonus Content
+-------------
+
+I’ve provided a number of swipe files that take you through different user interfaces, exploring how information architecture is established through a clear visual hierarchy.
+
+I’ve also provided a series of ‘Master-Apprentice’ exercises where I’ve deconstructed and rebuilt UI elements. One of the best ways to learn is to take existing files and analyse them, learning as you rebuild different elements and components.
+
+I’ll list these files here, based on the examples I showed you. (There are more examples in the pipeline!)
+
+**Reword the following, it’s from here:**
+
+	https://www.sitepoint.com/swipe-file-for-inspiration/
+
+**The purpose of a swipe file is to provide a jumping point for your projects, help you think outside the box, and streamline your work process. One danger of using a swipe file is becoming too dependent on it so it prevents your own creativity from developing. So you’ll want to use it in moderation and not as a replacement of your own ideas.**
+
+**It also goes without saying that you should make sure you only use your swipe file to get inspired and not copy or duplicate any of the work you collect.**
+
+<!-- Perhaps move this 'Warning, don't steal stuff' comment to the introduction of the whole book? -->
+
+
+
+Further Reading
+---------------
+
+There are many great publications, offline and online, that will help further underpin your understanding of information architecture. I’ve included a few below to start you on your journey.
+
+Usability.gov has an excellent overview of [Information Architecture Basics](#) that’s well worth reading. The site is an excellent resource that – whilst primarily focused on design for government – offers a wide range of resources that are applicable beyond design for the public sector.
+
+Nielsen Norman Group have a comprehensive overview on [Mental Models](#) that is well worth reading. Additionally, they have a wealth of articles exploring the topic of [information architecture](#). <!-- Move this to Chapter 1 if I cover Mental Models there. -->
+
+Finally, Steve Krug’s [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](#) is a timeless book that I’d highly recommend. Whilst focused on usability, it contains a wealth of insights that are applicable when considering information architecture.
+
+
+
+
+
+---
+
+
+
+Chapter 3 - Information Architecture
+
+EXTRA SCRATCH CONTENT
+
+This chapter's all about IA…
+
+Existing Structure:
+
++ Part 1: Element → Component → Page
++ Part 2: The Importance of a Clear Visual Hierarchy
++ Part 3: Iconic Layouts * and Blockframes
++ Part 4: Relationships
++ Part 5: Composition and Grid Systems
+
+
+\* The idea for 'Iconic Layouts' is drawn from April Grieman's 1990 book 'Hybrid Imagery: The Fusion of Technology and Graphic Design'. The world has moved on a great deal since 1990, but one idea that Grieman explored has stuck with me over three decades later…
+
+Grieman referred to her initial digital sketches – for Workspirit Magazine (for Swiss furniture manufacturer Vitra) – as the 'iconic' first stage. As she put it:
+
+> A surprise in producing [the] initial miniature version was that I could see the whole magazine as a kind of 'iconic texture', free from detail.
+
+I've used this approach ever since. By creating 'iconic' layouts – very small layouts, focused on scale, color and tone, the hierarchy of pages can be grasped at a high level (a birds' eye view).
+
+This approach allows you to establish page layouts and get a feel for their flows. 
+
+
+
+Element → Component → Page
+--------------------------
+
+This chapter's about IA so focus less on the flows for now and focus on the IA.
+
+
+
+
+Cards
+-----
+
+**Reword this. (See content below.)**
+
+Focus on the adaptability aspect, i.e. cards can be used as components that can be **reorganised** depending upon screen real estate. For example, in a desktop context we might lay out our cards in a grid, in a mobile context (tablet or phone) – where space is at more of a premium – we might vertically stack cards in a layout that users can scroll down.
+
+A card is a component that’s constructed from smaller elements, for example typographic content, buttons and other elements.
+
+Cards can be used to organise and display logical groupings of information, for example:
+
++ User Profiles
++ Login Components
++ Content Modules
++ Video or Audio Players
++ Payment Information
++ Etc.
+
+In certain applications cards can also be dragged, dropped and re-ordered. For example, Trello….
+
+> As an information container, cards hold all elements such as text, rich media, buttons, etc. Based on this contents, it can adapt its size to that of different devices and screens, balancing user interface and user experience.
+> 
+> Compared to traditional UI design, a simple but intuitive advantage of card UI is that it provides a more personalized user experience, making the entire interface more clear, balanced, aesthetically pleasing, simple and stylish with good usability.
+> 
+> https://www.mockplus.com/blog/post/card-ui-design
+
+### Show and Tell: Dribbble
+
+Look at Dribbble as an example. Cards are used to gather the content that comprises posts:
+
++ Imagery
++ Likes
++ Comments
++ Views
++ Buckets
+
+This design – which has stood the test of time – still functions well and works in both a desktop, mobile and native context.
+
+SHOW A MARKED UP VERSION WITH ANALYSIS, ASK FOR PERMISSION
+
+
+---
+
+
+I hope you find this resource useful. I’m also currently working on a book for the fine folks at Smashing Magazine – ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. It will be published in late 2019.
+
+You might like to [follow me](https://www.twitter.com/fehler) on Twitter for updates on that book and other projects I’m working on.
+
+Copyright · Adobe XD + Mr Murphy Ltd.
+
