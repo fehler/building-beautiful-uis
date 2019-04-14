@@ -224,6 +224,20 @@ Element → Component → Page
 
 This chapter's about IA so focus less on the flows for now and focus on the IA.
 
+Analysing how different interfaces work at different levels of information hierarchy (Elements → Components → Pages) will give you a clearer understanding of how to manage your information architecture.
+
+There's an information architecture at each of these resolutions: components will have their own information architecture, as will pages, which are often created from components.
+
+For example, a simple profile card might have three groupings of information:
+
++ User Profile
++ Social
++ Tags
+
+SHOW THE EXAMPLE FROM XD FILES
+
+
+
 
 
 
