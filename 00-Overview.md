@@ -22,7 +22,7 @@ Use the password:
 
 In addition to the XD Artboards I’ll be providing a series of ‘Master-Apprentice’ exercises. These demonstrate how I learn about user interface design by analysing, deconstructing and reconstructing others’ work.
 
-I use this Master-Apprentice approach in my teaching at Belfast School of Art, and the students who undertake the exercises invariably end up learning much faster (and producing better work, also). I hope you find the examples useful.
+I use this Master-Apprentice approach in my teaching at Belfast School of Art, and the students who undertake the exercises invariably end up learning much faster and producing more refined work as a consequence. I hope you find the examples useful.
 
 The content of the book is structured as follows:
 
@@ -61,7 +61,7 @@ To explore the book’s accompanying digital files, [download a copy of XD](http
 Open Sans
 ---------
 
-I’ve created all of the XD example files using Open Sans. As its name suggests, it’s an open source typeface that you can [download for free](https://fonts.google.com/specimen/Open+Sans). This will allow you to open all of the files without experiencing missing font issues.
+I’ve created all of the XD example files using the typeface Open Sans. As its name suggests, it’s an open source typeface that you can [download for free](https://fonts.google.com/specimen/Open+Sans). This will allow you to open all of the files without experiencing missing font issues.
 
 A humanist sans-serif typeface designed by Steve Matteson of Ascender Fonts, Open Sans was commissioned by Google. Designed and created in 2010, it was released in 2011.
 
@@ -76,36 +76,36 @@ Open Sans can also be activated via [Adobe Fonts](https://fonts.adobe.com/fonts/
 Get Started
 -----------
 
-Get started with [Chapter 1: Designing Interfaces][01], which provides some important history about UIs and includes an exploration of Apple's Human Interface Guidelines and Google's Material Design resources.
+Get started with [Chapter 1: Designing Interfaces][01], which provides some important history about UIs and includes an exploration of Apple’s Human Interface Guidelines and Google’s Material Design resources.
 
 
 ---
 
 
-I hope you find this resource useful. I’m also currently working on a book for the fine folks at Smashing Magazine – ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. It will be published in late 2019.
+I hope you find this resource useful. I’m also currently working on a book for the fine folks at [Smashing Magazine](https://www.smashingmagazine.com) – ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. It will be published in late 2019.
 
-You might like to [follow me](https://www.twitter.com/fehler) on Twitter for updates on that book and other projects I’m working on.
+You might like to [follow me](https://www.twitter.com/fehler) on Twitter for updates on this book, that book and other projects I’m working on.
 
-Copyright · Adobe XD + Mr Murphy Ltd.
+**Copyright · Adobe XD + Mr Murphy Ltd.**
 
 
 
 <!-- Links -->
 
-[01]: https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md "Chapter 1: Designing Interfaces"
+[01]: https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md “Chapter 1: Designing Interfaces”
 
-[02]: https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md "Chapter 2: The Building Blocks of Interfaces"
+[02]: https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md “Chapter 2: The Building Blocks of Interfaces”
 
-[03]: https://github.com/fehler/building-beautiful-uis/blob/master/03-Chapter-3-Information-Architecture.md "Chapter 3: Information Architecture"
+[03]: https://github.com/fehler/building-beautiful-uis/blob/master/03-Chapter-3-Information-Architecture.md “Chapter 3: Information Architecture”
 
-[04]: https://github.com/fehler/building-beautiful-uis/blob/master/04-Chapter-4-Getting-From-A-to-B.md "Chapter 4: Getting From A → B"
+[04]: https://github.com/fehler/building-beautiful-uis/blob/master/04-Chapter-4-Getting-From-A-to-B.md “Chapter 4: Getting From A → B”
 
-[05]: https://github.com/fehler/building-beautiful-uis/blob/master/05-Chapter-5-Designing-Mobile-Interfaces.md "Chapter 5: Designing Mobile Interfaces"
+[05]: https://github.com/fehler/building-beautiful-uis/blob/master/05-Chapter-5-Designing-Mobile-Interfaces.md “Chapter 5: Designing Mobile Interfaces”
 
-[06]: https://github.com/fehler/building-beautiful-uis/blob/master/06-Chapter-6-Designing-Desktop-Interfaces.md "Chapter 6: Designing Desktop Interfaces"
+[06]: https://github.com/fehler/building-beautiful-uis/blob/master/06-Chapter-6-Designing-Desktop-Interfaces.md “Chapter 6: Designing Desktop Interfaces”
 
-[07]: https://github.com/fehler/building-beautiful-uis/blob/master/07-Chapter-7-Animating-Interfaces.md "Chapter 7: Animating Interfaces"
+[07]: https://github.com/fehler/building-beautiful-uis/blob/master/07-Chapter-7-Animating-Interfaces.md “Chapter 7: Animating Interfaces”
 
-[08]: https://github.com/fehler/building-beautiful-uis/blob/master/08-Chapter-8-Project-X-Rays.md "Chapter 8: Project X-Rays"
+[08]: https://github.com/fehler/building-beautiful-uis/blob/master/08-Chapter-8-Project-X-Rays.md “Chapter 8: Project X-Rays”
 
-[09]: https://github.com/fehler/building-beautiful-uis/blob/master/09-Chapter-9-Where-to-from-here-for-UI%3F.md "Chapter 9: Where to from here for UI?"
+[09]: https://github.com/fehler/building-beautiful-uis/blob/master/09-Chapter-9-Where-to-from-here-for-UI%3F.md “Chapter 9: Where to from here for UI?”
