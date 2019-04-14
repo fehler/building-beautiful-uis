@@ -1,8 +1,6 @@
 Chapter 1: Designing Interfaces
 ===============================
 
-<!-- Should this be re-titled 'Designing User Interfaces'? -->
-
 **SCRATCH**
 
 ToC
@@ -13,7 +11,7 @@ ToC
 + Establishing Clear Mental Models
 + Here and Now
 
-<!-- Moved 'Where Next for UI to that chapter. -->
+<!-- I've moved 'Where to from here for UI?' to that chapter. -->
 
 
 
