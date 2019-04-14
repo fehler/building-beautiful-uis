@@ -104,7 +104,7 @@ Copyright · Adobe XD + Mr Murphy Ltd.
 
 [06]: https://github.com/fehler/building-beautiful-uis/blob/master/06-Chapter-6-Designing-Desktop-Interfaces.md "Chapter 6: Designing Desktop Interfaces"
 
-[07]: hhttps://github.com/fehler/building-beautiful-uis/blob/master/07-Chapter-7-Animating-Interfaces.md "Chapter 7: Animating Interfaces"
+[07]: https://github.com/fehler/building-beautiful-uis/blob/master/07-Chapter-7-Animating-Interfaces.md "Chapter 7: Animating Interfaces"
 
 [08]: https://github.com/fehler/building-beautiful-uis/blob/master/08-Chapter-8-Project-X-Rays.md "Chapter 8: Project X-Rays"
 
