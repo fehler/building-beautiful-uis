@@ -38,10 +38,10 @@ The content of the book is structured as follows:
 + [Chapter 8: Project X-Rays][08]
 + [Chapter 9: Where to from here for UI?][09]
 
-Accompanying the book this there are numerous example files provided with practical, hands-on advice:
+In addition to the content above, there are two appendices containing numerous example files with practical, hands-on advice:
 
-+ [Appendix 1: Master-Apprentice Exercises](#)
-+ [Appendix 2: XD Swipe Files](#)
++ [Appendix 1: Master-Apprentice Exercises][A1]
++ [Appendix 2: XD Swipe Files][A2]
 
 Lastly, in addition to the content above, I’m working on a UI Glossary, designed to unravel the wealth of terms you might encounter as a user interface designer. This is currently a work in progress, but it will be published in its finished form when the book launches.
 
@@ -116,3 +116,7 @@ You might like to [follow me](https://www.twitter.com/fehler) on Twitter for upd
 [08]: https://github.com/fehler/building-beautiful-uis/blob/master/08-Chapter-8-Project-X-Rays.md "Chapter 8: Project X-Rays"
 
 [09]: https://github.com/fehler/building-beautiful-uis/blob/master/09-Chapter-9-Where-to-from-here-for-UI%3F.md "Chapter 9: Where to from here for UI?"
+
+[A1]: https://github.com/fehler/building-beautiful-uis/blob/master/10-Appendix-1-Master-Apprentice-Exercises.md "Appendix 1: Master-Apprentice Exercises"
+
+[A2]: https://github.com/fehler/building-beautiful-uis/blob/master/11-Appendix-2-XD-Swipe-Files.md "Appendix 2: XD Swipe Files"
