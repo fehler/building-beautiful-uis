@@ -1,13 +1,19 @@
 Chapter 9: Where to from here for UI?
 =====================================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
-Here I should reiterate that Adobe XD can be used for voice prototyping and has been built with this in mind. This is an important point to stress. There are a few articles from the Adobe Blog that I could point readers towards.
 
-Just because a UI is conversational (whether that's verbal, or a more 'text-like' interface) doesn't mean everything we've covered is irrelevant. We'll need to, for example, consider how a user gets from A to B and that's every bit as important in a conversational UI.
 
-Stress the need for flow diagrams when designing for conversational interfaces. These can be created in XD, of course.
+Chapter Table of Contents
+-------------------------
+
++ XXXX
++ XXXX
++ XXXX
++ XXXX
++ XXXX
+
 
 
 Summary
@@ -20,7 +26,11 @@ Summary
 Overview
 --------
 
-Overview goes here…
+Here I should reiterate that Adobe XD can be used for voice prototyping and has been built with this in mind. This is an important point to stress. There are a few articles from the Adobe Blog that I could point readers towards.
+
+Just because a UI is conversational (whether that's verbal, or a more 'text-like' interface) doesn't mean everything we've covered is irrelevant. We'll need to, for example, consider how a user gets from A to B and that's every bit as important in a conversational UI.
+
+Stress the need for flow diagrams when designing for conversational interfaces. These can be created in XD, of course.
 
 
 

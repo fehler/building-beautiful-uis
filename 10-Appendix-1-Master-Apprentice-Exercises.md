@@ -23,6 +23,9 @@ Desktop
 The desktop examples I’ve included are browser-focused, but the principles apply equally to desktop software.
 
 
+---
+
+
 ![GOV.UK](images/master-apprentice/gov-uk.png)
 
 ### GOV.UK
@@ -30,6 +33,9 @@ The desktop examples I’ve included are browser-focused, but the principles app
 The UK government’s award-winning [GOV.UK](https://www.gov.uk) website is an excellent example of a website that simplifies complex information. It’s user interface is clear and information-focused, which serves its users well. The information hierarchy – at both the site-level and the page-level – is clear, enabling users to navigate the information presented easily.
 
 + [Claim tax relief for your job expenses](https://www.gov.uk/tax-relief-for-employees)
+
+
+---
 
 
 ![If the Moon Were Only 1 Pixel](images/master-apprentice/if-the-moon.png)
@@ -48,6 +54,9 @@ Mobile (Smartphone, Tablet)
 The mobile examples I’ve included are for iOS (because I have an iPhone), but – broadly – the principles of information architecture and user interface design map over to other mobile platforms.
 
 
+---
+
+
 ![Fantastical](images/master-apprentice/fantastical.png)
 
 ### Fantastical
@@ -55,6 +64,9 @@ The mobile examples I’ve included are for iOS (because I have an iPhone), but 
 Fantastical 2 for iOS by [Flexibits](https://flexibits.com) is a lovely example of an mobile application that condenses a great deal of information into a beautifully designed user interface. As a calendar and reminders app it has to fit a great deal into a small space and it does so minimally and elegantly.
 
 + [Fantastical](https://flexibits.com/fantastical-iphone)
+
+
+---
 
 
 ![Things](images/master-apprentice/things.png)
@@ -73,6 +85,9 @@ Wrist
 The wrist examples I’ve included are for Apple’s watchOS (because I have an Apple Watch). If possible – and of course affording every single device is an issue! – it helps to own the devices you’re designing for so you can truly understand them by using them regularly. 
 
 
+---
+
+
 ![Activity](images/master-apprentice/activity.png)
 
 ### Activity
@@ -82,7 +97,10 @@ At its heart the Activity app for the [Apple Watch](https://www.apple.com/uk/wat
 + [Activity](https://www.apple.com/uk/watch/close-your-rings/)
 
 
-![Bear](images/master-apprentice/activity.png)
+---
+
+
+![Bear](images/master-apprentice/bear.png)
 
 ### Bear
 

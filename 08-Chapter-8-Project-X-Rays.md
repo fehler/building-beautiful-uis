@@ -1,63 +1,62 @@
 Chapter 8: Project X-Rays
 =========================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
-I'm thinking of focusing the Project X-Rays down to three people (Vic Bell, Howard Pinsky and Val Head) so that we can get the book finished – and published – more quickly.
 
-Everything's taking a long time to complete and I think we could add a couple more X-Rays once it's published. The beauty of a digital publication is we can update it. I have others I've spoken to who are keen to be included, if there's time we can build them in.
+
+Chapter Table of Contents
+-------------------------
+
++ Vic Bell (Iconography)
++ Howard Pinsky (UI)
++ Val Head (Animating Interfaces)
+
 
 
 Summary
 -------
 
-In this chapter I've interviewed a cross-section of industry professionals who are all working in user interface design.
+In this chapter I’ve interviewed a cross-section of industry professionals who are all working in user interface design.
 
 
 
 Overview
 --------
 
-Overview goes here…
+I’m thinking of focusing the Project X-Rays down to three people (Vic Bell, Howard Pinsky and Val Head) so that we can get the book finished – and published – more quickly.
+
+Everything’s taking a long time to complete and I think we could add a couple more X-Rays once it’s published. The beauty of a digital publication is we can update it. I have others I’ve spoken to who are keen to be included, if there’s time we can build them in.
 
 
 
 Part 1: Vic Bell (Iconography)
 ------------------------------
 
-Part 1 goes here…
+Interview with Vic Bell goes here.
 
 
 
-Part 2:  Howard Pinsky (UI)
----------------------------
-
-Part 2 goes here…
-
-
-
-Part 3: Val Head (Animation)
+Part 2: Howard Pinsky (UI)
 --------------------------
 
-Part 3 goes here…
+Interview with Howard Pinsky goes here.
+
+
+
+Part 3: Val Head (Animating Interfaces)
+---------------------------------------
+
+Interview with Val Head goes here.
 
 
 
 Bonus Content
 -------------
 
-Bonus content goes here…
+I think the bonus content for this chapter will be Master-Apprentice exercises where I get permission from each of the people we interview to explore an example of their work.
 
-I think the bonus content will be Master-Apprentice exercises where I get permission from each of the people we interview to show an example of their work, deconstruct it and then rebuild it in XD.
-
-I've run this past the interviewees.
-
-
-
-Further Reading
----------------
-
-I don't know if there's further reading for this chapter. It seems redundant with the interviews where we'll link to each of our case studies.
+I’ll then analyse, deconstruct and reconstruct it using XD. I’ve run this past the interviewees and it shouldn’t be a problem.
 
 
 ---

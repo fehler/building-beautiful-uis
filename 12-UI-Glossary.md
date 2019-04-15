@@ -1,19 +1,18 @@
 Chapter 10: UI Glossary
 =======================
 
-This is the glossary that will accompany the book. This is an initial scratch file into which I’ll be adding draft content.
+This is the glossary that will accompany the book. This is an initial scratch file gathering terms I’ll be defining, I’ll be adding draft content shortly.
+
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished – in fact this glossary isn’t even started – but I hope it provides some value as I finalise all of the chapter content.**
 
 
 ## 5 Second Test
 
-Definition:
-
-CONTENT
-
+This is a gut reaction test designed to capture first impressions. (As I’ve noted above, this isn’t the finished text, it will be richer!)
 
 See Also:
 
-CONTENT
++ A/B Test
 
 
 - - -
@@ -21,14 +20,11 @@ CONTENT
 
 ## A/B Test
 
-Definition:
-
-CONTENT
-
+An A/B Test is designed to test two variants of a similar design to see which is more effective.
 
 See Also:
 
-CONTENT
++ 5 Second Test
 
 
 - - -
@@ -36,14 +32,11 @@ CONTENT
 
 ## Accessibility
 
-Definition:
-
-CONTENT
-
+Here I should stress the importance of ensuring user interfaces are accessible. This might be achieved in a variety of ways (but starts – on the web – with a solid foundation of semantic markup). It’s important to consider the colors you use, ensuring there is enough contrast between text and the background color.
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -53,12 +46,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -68,12 +61,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -83,12 +76,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -98,12 +91,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -113,12 +106,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -128,12 +121,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -143,12 +136,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -158,12 +151,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -173,12 +166,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -188,12 +181,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -203,12 +196,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -218,12 +211,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -233,12 +226,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -248,12 +241,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -263,12 +256,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -278,12 +271,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -293,12 +286,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -308,12 +301,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -323,12 +316,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -338,12 +331,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -353,12 +346,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -368,12 +361,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -383,12 +376,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -398,12 +391,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -413,12 +406,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -428,12 +421,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -443,12 +436,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -458,12 +451,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -473,12 +466,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -488,12 +481,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -503,12 +496,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -518,12 +511,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -533,12 +526,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -548,12 +541,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -563,12 +556,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -578,12 +571,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -593,12 +586,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -608,12 +601,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -623,12 +616,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -638,12 +631,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -653,12 +646,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -668,12 +661,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -683,12 +676,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -698,12 +691,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -713,12 +706,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -728,12 +721,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -743,12 +736,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -758,12 +751,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -773,12 +766,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -788,12 +781,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -803,12 +796,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -818,12 +811,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -833,12 +826,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -848,12 +841,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -863,12 +856,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -878,12 +871,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -893,12 +886,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -908,12 +901,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -923,12 +916,12 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
@@ -938,27 +931,33 @@ CONTENT
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 - - -
+
+
+XD-Specific Terms
+=================
+
+I think we should separate these from the rest of the entries, but I do think we should include them. Auto Animate, Repeat Grid, etc., are all worth defining.
 
 
 ## XD-Specific Terms (Auto Animate, Repeat Grid, etc.)
 
 Definition:
 
-CONTENT
++ CONTENT
 
 
 See Also:
 
-CONTENT
++ CONTENT
 
 
 ---

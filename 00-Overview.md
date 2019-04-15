@@ -7,6 +7,8 @@ I’ve road-tested everything on my second year Interaction Design students at B
 
 We’re hoping to publish ‘Building Beautiful UIs’ in May or June, 2019. Watch this space for details or [follow me](https://www.twitter.com/fehler) on Twitter to be notified of updates.
 
+**This is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
 
 
 Overview
@@ -36,14 +38,19 @@ The content of the book is structured as follows:
 + [Chapter 8: Project X-Rays][08]
 + [Chapter 9: Where to from here for UI?][09]
 
-In addition to the content above, I’m working on a UI Glossary, designed to unravel the wealth of terms you might encounter as a user interface designer. This is currently a work in progress, but it will be published in its finished form when the book launches.
+Accompanying the book this there are numerous example files provided with practical, hands-on advice:
+
++ [Appendix 1: Master-Apprentice Exercises](#)
++ [Appendix 2: XD Swipe Files](#)
+
+Lastly, in addition to the content above, I’m working on a UI Glossary, designed to unravel the wealth of terms you might encounter as a user interface designer. This is currently a work in progress, but it will be published in its finished form when the book launches.
 
 
 
 Swipe Files and Templates
 -------------------------
 
-As noted above, I’ve provided a wealth of files for you to refer to. Everything’s built using Adobe XD and the files are open source. You can use everything in the course as a starting point for your own projects.
+As noted above, I’ve provided a wealth of files for you to refer to. Everything’s built using Adobe XD and the swipe files are open source. You can use everything in the course as a starting point for your own projects.
 
 If you find the content useful, please spread the word. My goal is to help as many people as possible and if you know of someone who’s an aspiring UI designer, please share the link to this GitHub repo. The more learning, the merrier.
 
