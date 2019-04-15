@@ -23,9 +23,6 @@ Desktop
 The desktop examples I’ve included are browser-focused, but the principles apply equally to desktop software.
 
 
----
-
-
 ![GOV.UK](images/master-apprentice/gov-uk.png)
 
 ### GOV.UK
@@ -47,14 +44,13 @@ A side project by Josh Worth, [If the Moon Were Only 1 Pixel](https://www.joshwo
 + [If the moon were only 1 pixel…](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 
 
+---
+
 
 Mobile (Smartphone, Tablet)
 ---------------------------
 
 The mobile examples I’ve included are for iOS (because I have an iPhone), but – broadly – the principles of information architecture and user interface design map over to other mobile platforms.
-
-
----
 
 
 ![Fantastical](images/master-apprentice/fantastical.png)
@@ -78,14 +74,13 @@ Things 3 for iOS by [Cultured Code](https://culturedcode.com/things/) is an awar
 + [Things 3](https://culturedcode.com/things/whats-new/)
 
 
+---
+
 
 Wrist
 -----
 
 The wrist examples I’ve included are for Apple’s watchOS (because I have an Apple Watch). If possible – and of course affording every single device is an issue! – it helps to own the devices you’re designing for so you can truly understand them by using them regularly. 
-
-
----
 
 
 ![Activity](images/master-apprentice/activity.png)
