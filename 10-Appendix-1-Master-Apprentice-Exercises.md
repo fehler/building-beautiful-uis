@@ -23,7 +23,7 @@ Desktop
 The desktop examples I’ve included are browser-focused, but the principles apply equally to desktop software.
 
 
-![GOV.UK](images/master-apprentice/gov-uk.png)
+<img src="images/master-apprentice/gov-uk.png" width="650">
 
 ### GOV.UK
 
@@ -35,7 +35,7 @@ The UK government’s award-winning [GOV.UK](https://www.gov.uk) website is an e
 ---
 
 
-![If the Moon Were Only 1 Pixel](images/master-apprentice/if-the-moon.png)
+<img src="images/master-apprentice/if-the-moon.png" width="650">
 
 ### If the Moon Were Only 1 Pixel
 
@@ -53,7 +53,7 @@ Mobile (Smartphone, Tablet)
 The mobile examples I’ve included are for iOS (because I have an iPhone), but – broadly – the principles of information architecture and user interface design map over to other mobile platforms.
 
 
-![Fantastical](images/master-apprentice/fantastical.png)
+<img src="images/master-apprentice/fantastical.png" width="650">
 
 ### Fantastical
 
@@ -65,7 +65,7 @@ Fantastical 2 for iOS by [Flexibits](https://flexibits.com) is a lovely example 
 ---
 
 
-![Things](images/master-apprentice/things.png)
+<img src="images/master-apprentice/things.png" width="650">
 
 ### Things 3
 
@@ -83,7 +83,7 @@ Wrist
 The wrist examples I’ve included are for Apple’s watchOS (because I have an Apple Watch). If possible – and of course affording every single device is an issue! – it helps to own the devices you’re designing for so you can truly understand them by using them regularly. 
 
 
-![Activity](images/master-apprentice/activity.png)
+<img src="images/master-apprentice/activity.png" width="650">
 
 ### Activity
 
@@ -95,7 +95,7 @@ At its heart the Activity app for the [Apple Watch](https://www.apple.com/uk/wat
 ---
 
 
-![Bear](images/master-apprentice/bear.png)
+<img src="images/master-apprentice/bear.png" width="650">
 
 ### Bear
 

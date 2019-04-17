@@ -1,13 +1,37 @@
 Chapter 7: Animating Interfaces
 ===============================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
+<!-- At the bottom of this file there's extra scratch content that needs to be folded in. -->
+
+
+
+Chapter Table of Contents
+-------------------------
+
++ XXXX
++ XXXX
++ XXXX
++ XXXX
++ XXXX
+
+<!--
+
+Sections to consider:
+
++ The role that animation plays… communicating.
++ Analysis of an Interaction (Trigger, etc.)
++ Macro-Interactions (Page-Level)
++ Micro-Interactions (Element– and Component-Level)
+
+-->
 
 
 Summary
 -------
 
-**Summary goes here…**
+**We're kicking off this section by explaining the benefits of animation as part of a user interface designer's skillset.**
 
 
 
@@ -53,19 +77,12 @@ Part 5 goes here…
 
 
 
-Bonus Content
--------------
-
-Bonus content goes here…
-
-
-
 Further Reading
 ---------------
 
 Further reading goes here…
 
-+ Item 1
++ Val Head's resources, for sure, should be included here. Also point people towards her newsletter.
 
 + Item 2
 

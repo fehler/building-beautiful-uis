@@ -9,7 +9,7 @@ Chapter Table of Contents
 -------------------------
 
 + Vic Bell (Iconography)
-+ Howard Pinsky (UI)
++ Howard Pinsky (User Iinterface Design)
 + Val Head (Animating Interfaces)
 
 
@@ -17,7 +17,7 @@ Chapter Table of Contents
 Summary
 -------
 
-In this chapter I’ve interviewed a cross-section of industry professionals who are all working in user interface design.
+In this chapter I’ve interviewed a cross-section of industry professionals who are all working in user interface design. I've interviewed three different – and very talented – designers who are working in user interface design in different ways.
 
 
 
@@ -35,12 +35,20 @@ Part 1: Vic Bell (Iconography)
 
 Interview with Vic Bell goes here.
 
+Things to mention…
+
+Vic's work for world-class clients, including Uber, etc..
+
 
 
 Part 2: Howard Pinsky (UI)
 --------------------------
 
 Interview with Howard Pinsky goes here.
+
+Things to mention…
+
+Howard's work on creating tutorials. Also his focus on helping other, in particular through the Adobe XD Slack and Discord groups. Equally, mention his work on Dribbble and how he's undertaking his own Master-Apprentice exercises, analysing, deconstructing and reconstructing others’ work
 
 
 
@@ -49,14 +57,9 @@ Part 3: Val Head (Animating Interfaces)
 
 Interview with Val Head goes here.
 
+Things to mention…
 
-
-Bonus Content
--------------
-
-I think the bonus content for this chapter will be Master-Apprentice exercises where I get permission from each of the people we interview to explore an example of their work.
-
-I’ll then analyse, deconstruct and reconstruct it using XD. I’ve run this past the interviewees and it shouldn’t be a problem.
+Val's workshops, also her newsletter.
 
 
 ---
@@ -67,3 +70,14 @@ I hope you find this resource useful. I’m also currently working on a book for
 You might like to [follow me](https://www.twitter.com/fehler) on Twitter for updates on this book, that book and other projects I’m working on.
 
 **Copyright · Adobe XD + Mr Murphy Ltd.**
+
+
+<!--
+
+Bonus Content
+
+I think the bonus content for this chapter will be Master-Apprentice exercises where I get permission from each of the people we interview to explore an example of their work.
+
+I’ll then analyse, deconstruct and reconstruct it using XD. I’ve run this past the interviewees and it shouldn’t be a problem.
+
+-->

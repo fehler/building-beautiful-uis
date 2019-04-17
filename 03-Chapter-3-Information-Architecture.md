@@ -1,17 +1,29 @@
 Chapter 3: Information Architecture
 ===================================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
-Perhaps in this chapter (if not here, work out where) I should stress Maxim's point (and mine) that – often – you are presenting multiple design artefacts to a client that collectively tell the story of the interface you're designing.
+<!-- At the bottom of this file there's extra scratch content that needs to be folded in. -->
 
-**At the bottom of this file there's extra scratch content that needs to be folded in.**
+
+
+Chapter Table of Contents
+-------------------------
+
++ Element → Component → Page
++ The Importance of a Clear Visual Hierarchy
++ Iconic Layouts and Blockframes
++ Considering Relationships
++ Composition and Grid Systems
+
 
 
 Summary
 -------
 
 In an age of information overload, **establishing a clear information architecture is more critical than ever**. In this chapter, **I’ll explain what information architecture is, introduce the idea of visual hierarchy, and introduce grid systems as a backbone for visual alignment and harmony**.
+
+<!-- Perhaps in this chapter (if not here, work out where) I should stress Maxim's point (and mine) that – often – you are presenting multiple design artefacts to a client that collectively tell the story of the interface you're designing. -->
 
 
 
@@ -110,8 +122,10 @@ In both examples above – regardless of the context: desktop, mobile or wrist �
 
 
 
-Part 3: Blockframes /* Insert this here? */
---------------------------
+Part 3: Iconic Layouts and Blockframes
+--------------------------------------
+
+/* Insert this here? */
 
 If I put blockframes in here, I need to emphasise their role. They're not about designing in the absence of content (which is never a good idea), they're about getting a feel for the overall page and its content hierarchy.
 
@@ -123,8 +137,8 @@ By Jon Moore. (Also give Jon Moore credit for his UX Power Tools downloadables.)
 
 
 
-Part 4: Relationships
---------------------------
+Part 4: Considering Relationships
+---------------------------------
 
 How our elements are arranged in relationship to each other is also important. As the number of elements in our interfaces increases, we can use the relationships between elements to organise our information architecture. We can organise our components in a variety of ways:
 
@@ -152,27 +166,6 @@ In a desktop context, for example, we might use white space to draw the user’s
 
 
 
-Bonus Content
--------------
-
-I’ve provided a number of swipe files that take you through different user interfaces, exploring how information architecture is established through a clear visual hierarchy.
-
-I’ve also provided a series of ‘Master-Apprentice’ exercises where I’ve deconstructed and rebuilt UI elements. One of the best ways to learn is to take existing files and analyse them, learning as you rebuild different elements and components.
-
-I’ll list these files here, based on the examples I showed you. (There are more examples in the pipeline!)
-
-**Reword the following, it’s from here:**
-
-	https://www.sitepoint.com/swipe-file-for-inspiration/
-
-**The purpose of a swipe file is to provide a jumping point for your projects, help you think outside the box, and streamline your work process. One danger of using a swipe file is becoming too dependent on it so it prevents your own creativity from developing. So you’ll want to use it in moderation and not as a replacement of your own ideas.**
-
-**It also goes without saying that you should make sure you only use your swipe file to get inspired and not copy or duplicate any of the work you collect.**
-
-<!-- Perhaps move this 'Warning, don't steal stuff' comment to the introduction of the whole book? -->
-
-
-
 Further Reading
 ---------------
 
@@ -183,9 +176,6 @@ Usability.gov has an excellent overview of [Information Architecture Basics](#) 
 Nielsen Norman Group have a comprehensive overview on [Mental Models](#) that is well worth reading. Additionally, they have a wealth of articles exploring the topic of [information architecture](#). <!-- Move this to Chapter 1 if I cover Mental Models there. -->
 
 Finally, Steve Krug’s [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](#) is a timeless book that I’d highly recommend. Whilst focused on usability, it contains a wealth of insights that are applicable when considering information architecture.
-
-
-
 
 
 ---

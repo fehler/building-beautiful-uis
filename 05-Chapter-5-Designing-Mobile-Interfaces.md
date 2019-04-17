@@ -1,21 +1,27 @@
 Chapter 5: Designing Mobile Interfaces
 ======================================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
-Here we should stress a 'mobile-first' approach and the benefits that this brings. Largely this is about focusing the interface down to the core elements and building from that.
 
-Users are busy, so focus is essential. Your task as a designer is to enable users to get the job done as quickly as possible, ideally:
 
-1. Minimising interruption; and
-2. Maximising delight.
+Chapter Table of Contents
+-------------------------
 
-Delight isn't just about beautiful interactions (animations, for example), it's also about enabling users to get what they need to get done as quickly as possible.
++ XXXX
++ XXXX
++ XXXX
++ XXXX
++ XXXX
 
-We can learn a lot from content-first sites like GOV.UK, where a considerable amount of time is invested in distilling down complex information so that it's easy to parse and act upon.
+<!--
 
-A section needs to be dedicated to tap targets and reachability, which in a mobile context are of primary importance.
+Sections to consider:
 
++ Task-Focused User Interfaces
++ Reachability
+
+-->
 
 
 Summary
@@ -28,7 +34,18 @@ Summary
 Overview
 --------
 
-Overview goes here…
+This chapter should stress the importance of a 'mobile-first' approach and highlight the benefits that this brings. Largely this is about focusing the interface down to the core elements and building from that.
+
+Users are busy, so focus is essential. Your task as a designer is to enable users to get the job done as quickly as possible, ideally:
+
+1. Minimising interruption; and
+2. Maximising delight.
+
+Delight isn't just about beautiful interactions (animations, for example), it's also about enabling users to get what they need to get done as quickly as possible.
+
+We can learn a lot from content-first sites like GOV.UK, where a considerable amount of time is invested in distilling down complex information so that it's easy to parse and act upon.
+
+A section needs to be dedicated to tap targets and reachability, which in a mobile context are of primary importance.
 
 
 
@@ -64,13 +81,6 @@ Part 5: XXXX
 --------------------------
 
 Part 5 goes here…
-
-
-
-Bonus Content
--------------
-
-Bonus content goes here…
 
 
 

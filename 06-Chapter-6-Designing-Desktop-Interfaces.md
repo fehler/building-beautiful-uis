@@ -1,7 +1,29 @@
 Chapter 6: Designing Desktop Interfaces
 =======================================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
+<!-- At the bottom of this file there's extra scratch content that needs to be folded in. -->
+
+
+
+Chapter Table of Contents
+-------------------------
+
++ XXXX
++ XXXX
++ XXXX
++ XXXX
++ XXXX
+
+<!--
+
+Sections to consider:
+
++ Responsive Web Design? (Too much?)
++ What else?
+
+-->
 
 
 Summary
@@ -50,13 +72,6 @@ Part 5: XXXX
 --------------------------
 
 Part 5 goes here…
-
-
-
-Bonus Content
--------------
-
-Bonus content goes here…
 
 
 

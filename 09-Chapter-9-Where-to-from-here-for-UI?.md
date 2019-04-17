@@ -8,11 +8,11 @@ Chapter 9: Where to from here for UI?
 Chapter Table of Contents
 -------------------------
 
-+ XXXX
-+ XXXX
-+ XXXX
-+ XXXX
-+ XXXX
++ Where next for UI?
++ Conversational User Interfaces
++ Voice Interfaces
++ An Augmented Future
++ Heads Up Displays
 
 
 
@@ -35,7 +35,11 @@ Stress the need for flow diagrams when designing for conversational interfaces. 
 
 
 Part 1: Where next for UI?
-------------------
+--------------------------
+
+This section's all about the exciting developments that lie ahead of us. Conversational interfaces are – to a high degree – 'dissolving' what have been until very recently, largely visual interfaces.
+
+The opportunity ahead is exciting and Adobe XD is well-placed to drive these opportunities through its voice prototyping capabilities.
 
 <!--
 
@@ -53,10 +57,12 @@ In this section I'll paint a broad brushstrokes picture of where UI design is he
 
 
 
-Part 2: Conversational UIs
---------------------------
+Part 2: Conversational User Interfaces
+--------------------------------------
 
 The emphasis here is on conversational UIs, with a focus on text-driven interfaces. I'll stress the importance of flows, as covered in Chapter 4, and their role in underpinning how a conversational interface is organised.
+
+Show the lovely (Dan Zomboni?) portfolio site that's conversationally-driven. Break it apart and explain how it's working.
 
 
 
@@ -69,33 +75,30 @@ The focus is on voice-driven interfaces. Whilst voice interfaces clearly depend 
 
 PICTURE: Show Siri's interactions on a phone, for example how an animated status indicator communicates that the device is 'listening'.
 
-
-
-Part 4: XXXX
---------------------------
-
-Part 4 goes here…
+Talk about AirPods and, "Hello, Siri." Explain how this changes things because there's no longer a visual interface per se, but we still need to consider the user's needs and how we communicate in a world of voice-first prototyping.
 
 
 
-Part 5: XXXX
---------------------------
+Part 4: An Augmented Future
+---------------------------
 
-Part 5 goes here…
+This section's all about the rise of Augmented Reality (AR) and the opportunities that it offers. The section should also touch on – and distinguish between – AR and VR experiences.
+
+Apple is leading the way here with its ARKit tools. Similarly, Microsoft's Hololens product is providing a glimpse of what's possible in an augmented future.
 
 
 
-Bonus Content
--------------
+Part 5: Heads Up Displays
+-------------------------
 
-Bonus content goes here…
+This might be rolled into the preceding section. Above all, the point I'm making is that Heads Up Displays (HUDs) are transforming the interaction paradigms of computing.
 
 
 
 Further Reading
 ---------------
 
-Further reading goes here…
+There are some useful Adobe XD tutorials that I could link to here. What else?
 
 + Item 1
 

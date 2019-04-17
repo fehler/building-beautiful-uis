@@ -1,29 +1,27 @@
 Chapter 4: Getting From A → B
 =============================
 
-**SCRATCH**
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
-This chapter is all about the flows through interfaces. We need to stress that flows happen at two levels:
+<!-- At the bottom of this file there's extra scratch content that needs to be folded in. -->
 
-1. page to page; and
-2. within screens.
 
-The second point is important to stress. Increasingly pages are comprised of multiple **states** that we need to consider. I should show an example of this, where we're not moving to a separate screen per se, but we are moving to a different **parts of an interface**.
 
-The 'add a calendar event' shot (Yellow Plus Button – REDRAW THIS) is a nice example. The user is interacting with the page and the page is responding to their actions. This needs to be considered also, as much as a page to page interaction.
+Chapter Table of Contents
+-------------------------
 
-This chapter also needs content on:
-
-+ User Stories and Customer Journey Mapping
-
-Both of these probably need their own sections as they are different, albeit related.
++ Considering Flows
++ Choices and Branches
++ Page-to-Page and State-to-State
++ Customer Journey Mapping
++ Onboarding <!-- ? -->
 
 
 
 Summary
 -------
 
-**Summary goes here…**
+With our pages built – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface. In this chapter, I'll explore designing flows through interfaces, stressing the need to consider flows at different levels: page-to-page, and state-to-state.
 
 
 
@@ -34,45 +32,74 @@ Overview goes here…
 
 
 
-Part 1: XXXX
---------------------------
+Part 1: Considering Flows
+-------------------------
 
-Part 1 goes here…
+With our pages built – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface.
 
+Any application, even the simplest, will feature flows through different screens and states and it’s important that we consider these flows from a user interface perspective. Our job as user interface designers is to ensure the routes through an application are clearly mapped out and signposted to our users.
 
+There are many flow-charting applications you can use to map out your flows, equally you can build these flows (and create a clickable prototype) using Adobe XD.
 
-Part 2: XXXX
---------------------------
-
-Part 2 goes here…
-
-
-
-Part 3: XXXX
---------------------------
-
-Part 3 goes here…
+Before building higher fidelity digital deliverables, it helps to map everything out with Post-It Notes. Post-Its are a useful tool because they allow you to re-organise your flows as you map everything out.
 
 
 
-Part 4: XXXX
---------------------------
+Part 2: Choices and Branches
+----------------------------
 
-Part 4 goes here…
+As you map out your project consider the choices that users will be presented with. For example, when building an application you might offer a sign up feature. As you design this, you’ll need to consider the different flows users will encounter.
+
+A new user – who hasn’t yet signed up – will need to be taken through a sign up flow (which you’ll need to consider and design).
+
+Equally, a returning user – with an existing account – will need to be taken through a different flow that signs them back in.
+
+This simple example gives a glimpse of the potential complexities that we might encounter. Once you begin to map out other user interactions you’ll begin to paint a cleaner picture of your application from a bird’s eye perspective.
+
+It helps to create a standalone flow diagram – in addition to your prototype – to show your stakeholders how everything is organised from a high-level perspective.
+
+Both of these design deliverables serve different purposes: your flow diagram allows you to demonstrate your application’s overall structure; your prototype allows you to demonstrate how the interactions between different pages or states are handled.
 
 
 
-Part 5: XXXX
---------------------------
+Part 3: Page-to-Page and State-to-State
+---------------------------------------
 
-Part 5 goes here…
+As applications become more complex, we’ve begun to develop different design patterns to handle different flows.
+
+In some cases your users will move through your application page-to-page, with different discrete pages handling different points on the journey. In other cases, your users will encounter different states **within** a page (or even at a component and page level).
+
+Your job as a user interface designer is to:
+
+1. Consider these flows;
+2. Consider how you signpost the flows (so users know where their journey can take them); and
+3. Consider how you communicate feedback to the user, so they can build a mental model of your application.
+
+Managing this complexity – and simplifying it for your users – is one of the reasons that interaction design presents challenges. Your role as a designer is to help your users paint a picture of your application’s overall structure and how they can move through it.
+
+This involves establishing a clear information architecture and signposting that throughout your user’s journey through it.
+
+Increasingly pages are comprised of multiple **states** that we need to consider. I should show an example of this, where we're not moving to a separate screen per se, but we are moving to a different **parts of an interface** (perhaps using modals and overlays).
+
+The 'add a calendar event' shot (Yellow Plus Button – REDRAW THIS) is a nice example. The user is interacting with the page and the page is responding to their actions. This needs to be considered also, as much as a page to page interaction.
 
 
 
-Bonus Content
--------------
+Part 4: Customer Journey Mapping
+--------------------------------
 
-Bonus content goes here…
+/* This is all about the bigger picture and considering how your application needs to be considered in relationship to the overall context in which it exists. It's about considering the customer journey and how it can be used to provide an understanding of the application before a user has even used it.
+
+This should cover, for example how you build a site that tells the story of a product… It should also cover the importance of onboarding.
+
+Onboarding might be a section in itself, because it's about telling the story of an application before the user actually starts using it. Show some examples, e.g. Things 3, which is nicely considered. */
+
+
+
+Part 5: Onboarding
+------------------
+
+Explain what onboarding is and show some examples. The examples can be used to explain how a considered onboarding process helps users understand a user interface before they've actually started using it.
 
 
 

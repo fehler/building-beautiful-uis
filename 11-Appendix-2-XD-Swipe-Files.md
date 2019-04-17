@@ -3,6 +3,20 @@ XD Swipe Files
 
 This is an introduction to the XD Swipe Files. Think about what readers need to know to get the most out of them. This doesn't need to be lengthy, it can be focused.
 
+I’ve provided a number of swipe files that take you through different user interfaces, exploring how information architecture is established through a clear visual hierarchy.
+
+I’ll list these files here, based on the examples I showed you. (There are many, many more examples in the pipeline.)
+
+**Reword the following, it’s from here:**
+
+	https://www.sitepoint.com/swipe-file-for-inspiration/
+
+**The purpose of a swipe file is to provide a jumping point for your projects, help you think outside the box, and streamline your work process. One danger of using a swipe file is becoming too dependent on it so it prevents your own creativity from developing. So you’ll want to use it in moderation and not as a replacement of your own ideas.**
+
+**It also goes without saying that you should make sure you only use your swipe file to get inspired and not copy or duplicate any of the work you collect.**
+
+<!-- Perhaps move this 'Warning, don't steal stuff' comment to the introduction of the whole book? -->
+
 
 ---
 

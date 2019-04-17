@@ -12,9 +12,7 @@ Chapter Table of Contents
 + A Little History
 + Desktops and Metaphors
 + Establishing Clear Mental Models
-+ Here and Now
-
-<!-- I've moved 'Where to from here for UI?' to that chapter. -->
++ UI, Here and Now
 
 
 
@@ -70,6 +68,14 @@ Understanding this is critical. The best user interfaces get out of the way and 
 /* Show a screenshot here, perhaps MailChimp’s UI. */
 
 A user wants to send an email to their mailing list, we need to enable them to achieve that task while – as much as possible – getting out of the way.
+
+The context is rapidly changing. We need to consider…
+
++ Desktop (Mouse)
++ Tablet → Smartphone (Finger)
++ Wrist (Finger)
+
+We also need to consider conversational interfaces, both text-driven and voice-driven. Both of these contexts are seeing slowly emerging UI patterns.
 
 
 
@@ -156,8 +162,8 @@ Regardless of what we’re designing, we can embrace fundamental principles of d
 
 
 
-Here and Now
-------------
+UI, Here and Now
+----------------
 
 <!--
 
