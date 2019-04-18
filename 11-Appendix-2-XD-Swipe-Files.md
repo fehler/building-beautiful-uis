@@ -1,6 +1,10 @@
 XD Swipe Files
 ==============
 
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
+
+
 This is an introduction to the XD Swipe Files. Think about what readers need to know to get the most out of them. This doesn't need to be lengthy, it can be focused.
 
 I’ve provided a number of swipe files that take you through different user interfaces, exploring how information architecture is established through a clear visual hierarchy.

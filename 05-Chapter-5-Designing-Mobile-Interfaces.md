@@ -8,6 +8,8 @@ Chapter 5: Designing Mobile Interfaces
 Chapter Table of Contents
 -------------------------
 
+/* This is very rough and needs a day to tidy it all up. I'll Post-It out this chapter and the next chapter when I get to Donegal. */
+
 + XXXX
 + XXXX
 + XXXX
@@ -20,6 +22,7 @@ Sections to consider:
 
 + Task-Focused User Interfaces
 + Reachability
++ Tap Targets
 
 -->
 
@@ -87,9 +90,7 @@ Part 5 goes here…
 Further Reading
 ---------------
 
-Further reading goes here…
-
-+ Item 1
++ Luke W's [Mobile First](#) book – despite being published in XXXX – is still worth reading for its focus on the benefits of a mobile-first approach.
 
 + Item 2
 

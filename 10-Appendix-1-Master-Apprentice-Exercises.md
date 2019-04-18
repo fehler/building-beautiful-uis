@@ -1,6 +1,10 @@
 Master-Apprentice Exercises
 ===========================
 
+**As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
+
+
 You can learn a great deal by looking at others’ work and analysing it. Breaking down existing user interfaces and rebuilding them in XD will teach you how to ‘see through the eyes of others’.
 
 I’ve included some ‘Master-Apprentice’ exercises where I’ve analysed a variety of interfaces in different contexts:

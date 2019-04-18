@@ -8,11 +8,11 @@ Chapter 1: Designing Interfaces
 Chapter Table of Contents
 -------------------------
 
-+ Designing Human Interfaces
-+ A Little History
-+ Desktops and Metaphors
-+ Establishing Clear Mental Models
-+ UI, Here and Now
++ Part 1: Designing Human Interfaces
++ Part 2: A Little History
++ Part 3: Desktops and Metaphors
++ Part 4: Establishing Clear Mental Models
++ Part 5: UI, Here and Now
 
 
 
@@ -32,8 +32,8 @@ Content here…
 
 
 
-Designing Human Interfaces
---------------------------
+Part 1: Designing Human Interfaces
+----------------------------------
 
 <!--
 
@@ -79,8 +79,8 @@ We also need to consider conversational interfaces, both text-driven and voice-d
 
 
 
-A Little History
-----------------
+Part 2: A Little History
+------------------------
 
 <!--
 
@@ -110,8 +110,8 @@ Don’t worry, we’re not going to get too lost in this, but I do think it’s 
 
 
 
-Desktops and Metaphors
-----------------------
+Part 3: Desktops and Metaphors
+------------------------------
 
 <!--
 
@@ -139,8 +139,8 @@ There is lots we can draw from here.
 
 
 
-Establishing Clear Mental Models
---------------------------------
+Part 4: Establishing Clear Mental Models
+----------------------------------------
 
 Whatever the interfaces we design, it’s highly likely that **our users will have experienced other interfaces that will have established a ‘mental model’ in their mind of how things work**. As Jakob Nielsen puts it:
 
@@ -162,8 +162,8 @@ Regardless of what we’re designing, we can embrace fundamental principles of d
 
 
 
-UI, Here and Now
-----------------
+Part 5: UI, Here and Now
+------------------------
 
 <!--
 
@@ -224,6 +224,19 @@ PICTURE
 Lastly, styleguides.io is a very useful roundup of other approaches to developing user interface libraries and style guides. It’s worth bookmarking and offers an insight into how a wide range of companies are moving towards the development of visually consistent user interface libraries.
 
 SHOW SOME DETAILS, PERHAPS? SALESFORCE, MAILCHIMP, ETC..
+
+
+
+Further Reading
+---------------
+
+Further reading goes here…
+
++ HIG, Material Design, Living Language
+
++ Moggridge's book, perhaps?
+
++ Something else that's high-level principles focused.
 
 
 ---

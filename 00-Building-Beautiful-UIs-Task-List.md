@@ -166,3 +166,14 @@ Promotional Images, etc.
     + [ ] Dribbble
     + [X] Slack
 + [ ] Sneezer List
+
+
+
+Housekeeping
+------------
+
++ [ ] Sort ToCs and Cross-Reference to Body
++ [ ] Remove Bonus Material
++ [ ] Add book / URL ideas.
++ [X] Check opening note.
++ [X] Check closing copyright information.

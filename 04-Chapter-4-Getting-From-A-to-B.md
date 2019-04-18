@@ -10,11 +10,11 @@ Chapter 4: Getting From A → B
 Chapter Table of Contents
 -------------------------
 
-+ Considering Flows
-+ Choices and Branches
-+ Page-to-Page and State-to-State
-+ Customer Journey Mapping
-+ Onboarding <!-- ? -->
++ Part 1: Considering User Flows
++ Part 2: Choices and Branches
++ Part 3: Page-to-Page and State-to-State
++ Part 4: Customer Journey Mapping
++ Part 5: Onboarding Users
 
 
 
@@ -32,8 +32,8 @@ Overview goes here…
 
 
 
-Part 1: Considering Flows
--------------------------
+Part 1: Considering User Flows
+------------------------------
 
 With our pages built – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface.
 
@@ -42,6 +42,12 @@ Any application, even the simplest, will feature flows through different screens
 There are many flow-charting applications you can use to map out your flows, equally you can build these flows (and create a clickable prototype) using Adobe XD.
 
 Before building higher fidelity digital deliverables, it helps to map everything out with Post-It Notes. Post-Its are a useful tool because they allow you to re-organise your flows as you map everything out.
+
+This is very good:
+
+https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a
+
+> A user flow is a series of steps a user takes to achieve a meaningful goal.
 
 
 
@@ -96,8 +102,8 @@ Onboarding might be a section in itself, because it's about telling the story of
 
 
 
-Part 5: Onboarding
-------------------
+Part 5: Onboarding Users
+------------------------
 
 Explain what onboarding is and show some examples. The examples can be used to explain how a considered onboarding process helps users understand a user interface before they've actually started using it.
 
@@ -106,9 +112,7 @@ Explain what onboarding is and show some examples. The examples can be used to e
 Further Reading
 ---------------
 
-Further reading goes here…
-
-+ Item 1
++ Alexander Handley's [User Flow Is the New Wireframe](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a) – for UX Collective – is well worth reading, In particular it's emphasis on the different resolution of design deliverables is well worth noting.
 
 + Item 2
 

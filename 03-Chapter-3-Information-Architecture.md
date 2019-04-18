@@ -10,11 +10,11 @@ Chapter 3: Information Architecture
 Chapter Table of Contents
 -------------------------
 
-+ Element → Component → Page
-+ The Importance of a Clear Visual Hierarchy
-+ Iconic Layouts and Blockframes
-+ Considering Relationships
-+ Composition and Grid Systems
++ Part 1: Elements → Components → Pages
++ Part 2: The Importance of a Clear Visual Hierarchy
++ Part 3: Iconic Layouts and Blockframes
++ Part 4: Considering Relationships
++ Part 5: Composition and Grid Systems
 
 
 
@@ -24,6 +24,8 @@ Summary
 In an age of information overload, **establishing a clear information architecture is more critical than ever**. In this chapter, **I’ll explain what information architecture is, introduce the idea of visual hierarchy, and introduce grid systems as a backbone for visual alignment and harmony**.
 
 <!-- Perhaps in this chapter (if not here, work out where) I should stress Maxim's point (and mine) that – often – you are presenting multiple design artefacts to a client that collectively tell the story of the interface you're designing. -->
+
+This chapter's all about IA…
 
 
 
@@ -54,8 +56,8 @@ At the macro-level, we need to **consider the overall information architecture o
 
 
 
-Part 1: Element → Component → Page
-----------------------------------
+Part 1: Elements → Components → Pages
+-------------------------------------
 
 This is a new Part 1, it's about building up from the elements and components we explored in the previous chapter.
 
@@ -66,6 +68,60 @@ Show an example of how a page is built up:
 + Page
 
 Mention design systems (reiterating what I said in the preceding chapter).
+
+This chapter's about IA so focus less on the flows for now and focus on the IA.
+
+Analysing how different interfaces work at different levels of information hierarchy (Elements → Components → Pages) will give you a clearer understanding of how to manage your information architecture.
+
+There's an information architecture at each of these resolutions: components will have their own information architecture, as will pages, which are often created from components.
+
+For example, a simple profile card might have three groupings of information:
+
++ User Profile
++ Social
++ Tags
+
+MENTION THE XD EXAMPLE FILES
+
+
+### Cards
+
+**Reword this. (See content below.)**
+
+Focus on the adaptability aspect, i.e. cards can be used as components that can be **reorganised** depending upon screen real estate. For example, in a desktop context we might lay out our cards in a grid, in a mobile context (tablet or phone) – where space is at more of a premium – we might vertically stack cards in a layout that users can scroll down.
+
+A card is a component that’s constructed from smaller elements, for example typographic content, buttons and other elements.
+
+Cards can be used to organise and display logical groupings of information, for example:
+
++ User Profiles
++ Login Components
++ Content Modules
++ Video or Audio Players
++ Payment Information
++ Etc.
+
+In certain applications cards can also be dragged, dropped and re-ordered. For example, Trello….
+
+> As an information container, cards hold all elements such as text, rich media, buttons, etc. Based on this contents, it can adapt its size to that of different devices and screens, balancing user interface and user experience.
+> 
+> Compared to traditional UI design, a simple but intuitive advantage of card UI is that it provides a more personalized user experience, making the entire interface more clear, balanced, aesthetically pleasing, simple and stylish with good usability.
+> 
+> https://www.mockplus.com/blog/post/card-ui-design
+
+### Show and Tell: Dribbble
+
+Look at Dribbble as an example. Cards are used to gather the content that comprises posts:
+
++ Imagery
++ Likes
++ Comments
++ Views
++ Buckets
+
+This design – which has stood the test of time – still functions well and works in both a desktop, mobile and native context.
+
+SHOW A MARKED UP VERSION WITH ANALYSIS, ASK FOR PERMISSION
 
 
 
@@ -125,7 +181,17 @@ In both examples above – regardless of the context: desktop, mobile or wrist �
 Part 3: Iconic Layouts and Blockframes
 --------------------------------------
 
-/* Insert this here? */
+The idea for 'Iconic Layouts' is drawn from April Grieman's 1990 book 'Hybrid Imagery: The Fusion of Technology and Graphic Design'. The world has moved on a great deal since 1990, but one idea that Grieman explored has stuck with me over three decades later…
+
+Grieman referred to her initial digital sketches – for Workspirit Magazine (for Swiss furniture manufacturer Vitra) – as the 'iconic' first stage. As she put it:
+
+> A surprise in producing [the] initial miniature version was that I could see the whole magazine as a kind of 'iconic texture', free from detail.
+
+I've used this approach ever since. By creating 'iconic' layouts – very small layouts, focused on scale, color and tone, the hierarchy of pages can be grasped at a high level (a birds' eye view).
+
+This approach allows you to establish page layouts and get a feel for their flows.
+
+/* Insert blockframes here? */
 
 If I put blockframes in here, I need to emphasise their role. They're not about designing in the absence of content (which is never a good idea), they're about getting a feel for the overall page and its content hierarchy.
 
@@ -164,6 +230,8 @@ We can also put some thought into how our interface elements are arranged compos
 
 In a desktop context, for example, we might use white space to draw the user’s eye towards critical information. In a wrist based context – where space is at a premium – we need to orchestrate our content in a different manner.
 
+There are whole books written about this. Don't re-invent the wheel, rather signpost readers to helpful content.
+
 
 
 Further Reading
@@ -176,100 +244,6 @@ Usability.gov has an excellent overview of [Information Architecture Basics](#) 
 Nielsen Norman Group have a comprehensive overview on [Mental Models](#) that is well worth reading. Additionally, they have a wealth of articles exploring the topic of [information architecture](#). <!-- Move this to Chapter 1 if I cover Mental Models there. -->
 
 Finally, Steve Krug’s [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](#) is a timeless book that I’d highly recommend. Whilst focused on usability, it contains a wealth of insights that are applicable when considering information architecture.
-
-
----
-
-
-
-Chapter 3 - Information Architecture
-
-EXTRA SCRATCH CONTENT
-
-This chapter's all about IA…
-
-Existing Structure:
-
-+ Part 1: Element → Component → Page
-+ Part 2: The Importance of a Clear Visual Hierarchy
-+ Part 3: Iconic Layouts * and Blockframes
-+ Part 4: Relationships
-+ Part 5: Composition and Grid Systems
-
-
-\* The idea for 'Iconic Layouts' is drawn from April Grieman's 1990 book 'Hybrid Imagery: The Fusion of Technology and Graphic Design'. The world has moved on a great deal since 1990, but one idea that Grieman explored has stuck with me over three decades later…
-
-Grieman referred to her initial digital sketches – for Workspirit Magazine (for Swiss furniture manufacturer Vitra) – as the 'iconic' first stage. As she put it:
-
-> A surprise in producing [the] initial miniature version was that I could see the whole magazine as a kind of 'iconic texture', free from detail.
-
-I've used this approach ever since. By creating 'iconic' layouts – very small layouts, focused on scale, color and tone, the hierarchy of pages can be grasped at a high level (a birds' eye view).
-
-This approach allows you to establish page layouts and get a feel for their flows. 
-
-
-
-Element → Component → Page
---------------------------
-
-This chapter's about IA so focus less on the flows for now and focus on the IA.
-
-Analysing how different interfaces work at different levels of information hierarchy (Elements → Components → Pages) will give you a clearer understanding of how to manage your information architecture.
-
-There's an information architecture at each of these resolutions: components will have their own information architecture, as will pages, which are often created from components.
-
-For example, a simple profile card might have three groupings of information:
-
-+ User Profile
-+ Social
-+ Tags
-
-SHOW THE EXAMPLE FROM XD FILES
-
-
-
-
-
-
-Cards
------
-
-**Reword this. (See content below.)**
-
-Focus on the adaptability aspect, i.e. cards can be used as components that can be **reorganised** depending upon screen real estate. For example, in a desktop context we might lay out our cards in a grid, in a mobile context (tablet or phone) – where space is at more of a premium – we might vertically stack cards in a layout that users can scroll down.
-
-A card is a component that’s constructed from smaller elements, for example typographic content, buttons and other elements.
-
-Cards can be used to organise and display logical groupings of information, for example:
-
-+ User Profiles
-+ Login Components
-+ Content Modules
-+ Video or Audio Players
-+ Payment Information
-+ Etc.
-
-In certain applications cards can also be dragged, dropped and re-ordered. For example, Trello….
-
-> As an information container, cards hold all elements such as text, rich media, buttons, etc. Based on this contents, it can adapt its size to that of different devices and screens, balancing user interface and user experience.
-> 
-> Compared to traditional UI design, a simple but intuitive advantage of card UI is that it provides a more personalized user experience, making the entire interface more clear, balanced, aesthetically pleasing, simple and stylish with good usability.
-> 
-> https://www.mockplus.com/blog/post/card-ui-design
-
-### Show and Tell: Dribbble
-
-Look at Dribbble as an example. Cards are used to gather the content that comprises posts:
-
-+ Imagery
-+ Likes
-+ Comments
-+ Views
-+ Buckets
-
-This design – which has stood the test of time – still functions well and works in both a desktop, mobile and native context.
-
-SHOW A MARKED UP VERSION WITH ANALYSIS, ASK FOR PERMISSION
 
 
 ---
