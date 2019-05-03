@@ -8,8 +8,8 @@ Chapter 1: Designing Interfaces
 Chapter Table of Contents
 -------------------------
 
-+ Part 1: Designing Human Interfaces
-+ Part 2: A Little History
++ Part 1: The ‘UI’ in ‘GUI’
++ Part 2: Designing Human Interfaces
 + Part 3: Desktops and Metaphors
 + Part 4: Establishing Clear Mental Models
 + Part 5: UI, Here and Now
@@ -28,114 +28,161 @@ Summary
 Overview
 --------
 
-Content here…
-
-
-
-Part 1: Designing Human Interfaces
-----------------------------------
-
 <!--
 
-Designing Human Interfaces
+The following should be overview content.
 
-We explain what user interfaces are so that we’re all on the same page. Then we introduce the idea that the term human interface is – in my opinion – better that user interface.
+The InVision lady kicks off with an explanation of the app she’s building and how that’s informed her book. I think we should do the same, but draw on:
 
-We’re dealing with humans – the term ‘users’ is too abstract – and we need to never lose sight of the fact that humans are messy. A human might be using your interface whilst doing other human things: feeding a baby, cooking the dinner, watching TV, so it’s important we build in affordances we design our interfaces.
+1. My last semester of teaching (maybe link to an example student project?); and
+2. My consulting work, in particular with Little Thunder.
 
 -->
 
-STRESS UP FRONT:
+I’m a firm believer in drawing my teaching materials from the real world. As an Associate Senior Lecturer at Belfast School of Art (teaching half-time) I’m fortunate to divide my time between:
 
-	U → H
++ real world design projects for a wide range of clients, large and small; and
 
-WE'RE DESIGNING FOR HUMANS, AND HUMANS ARE MESSY…
++ teaching students on my undergraduate Interaction Design programme.
 
-Firstly, let’s not lose sight of the fact that we’re designing for users, the ‘U’ in ‘UI’. Users have needs and – if we are to serve them well – we need to design our interfaces to accommodate those needs.
+Everything in this book (and its accompanying materials) has been tried and tested. I’ve drawn the examples from research I’ve undertaken, live projects I’ve worked on and – where appropriate – samples of my students’ work.
 
-When we design user interfaces we need to focus on first principles:
+I’ve included my students’ work, because I’m proud of the work they’re doing and – equally importantly - these are relatively young students and they’ve come a long way with their User Interface (UI) design in a relatively short space of time. I hope their work inspires you to do similarly impressive work!
 
-Get out of the way;
-Aim for maximum functionality; and
-Help your users.
+In this first chapter I’ll set the scene, providing a little history and context. If you’re up-to-speed on the history of user interface design, and have an understanding of the importance of metaphors and mental models, you might wish to fast-forward to Chapter 2 where I get into hands-on practicalities.
 
-I’ve merged what was two separate sections here. Essentially we’re saying that ‘users’ are actually ‘humans’ and humans are messy. The word ‘user’ is – in my opinion – a little too abstract.
+UI design stretches back to the early GUIs of the 70s and the emergence of computers as devices that were available beyond the confines of universities and big businesses.
 
-Humans are trying to achieve tasks – perhaps to book a flight, or to buy a book – while juggling other human tasks, for example, feeding a baby.
+The rise of the personal computer – a revolutionary idea in its time – brought with it the need for a way to interact with computers that was as easy, and friendly, as possible.
 
-Understanding this is critical. The best user interfaces get out of the way and help you to get things done with the minimum of fuss.
+This intense period in computing history saw the emergence of the field of Human-Computer Interaction (HCI), focused on the relationship between the design of computer technology and the interaction between humans (users) and computers.
 
-/* Show a screenshot here, perhaps MailChimp’s UI. */
 
-A user wants to send an email to their mailing list, we need to enable them to achieve that task while – as much as possible – getting out of the way.
 
-The context is rapidly changing. We need to consider…
+Part 1: The ‘UI’ in ‘GUI’
+-------------------------
+
+Before I dive into the depths of user interfaces (UIs), I think it’s important to get some definitions out of the way. The term ‘UI’ we know and love today has its origins in the 70s term ‘GUI’, an abbreviation of **graphical user interface**.
+
+UIs might feel commonplace to us today, but when they were first imagined they represented a fundamental shift in how we interacted with computers. Before the emergence of GUIs, working with a computer involved typing arcane commands into it via a text-based terminal.
+
+To work with a computer a user first needed to ‘learn its language’, no small task. The emergence of graphical user interfaces allowed for a much friendlier (and easier to learn) way of interacting with computers. /* Reword the following from Wikipedia, so it’s in my words, because it bridges to Apple. */
+
+> In 1973, Xerox PARC developed the Alto personal computer. It had a bitmapped screen, and was the first computer to demonstrate the desktop metaphor and graphical user interface (GUI).
+
+The Alto’s interface informed the development of the first GUI at Xerox PARC, which used windows, icons and menus and allows the user to open, move and delete files.
+
+One of the best known early GUIs was Apple’s pre-OS X operating system. System 7 (which was the first graphical user interface I started using many, many years ago!) was considerably easier to navigate than issuing commands via a keyboard.
+
+This graphical interface coupled with the use of a mouse changed computing forever. Users could directly interact with the objects within an interface manipulating them directly.
+
+The emergence of the very first iPhone in 20XX took this a small, but important step further. Instead of using a mouse, on your iPhone you were using your fingers to **directly manipulate the interface**.
+
+This shift away from the abstraction, one-step-removed, of a mouse towards physically interacting with objects on a screen underlies our current context. In a desktop context we still use mice, but in an increasingly mobile context we find ourselves interacting directly with the UI, **physically touching objects on a screen**.
+
+Understanding this history might seem like a distraction, but spending a little time familiarising yourself with it helps you understand timeless principles, **still relevant today**, like:
+
++ Information Architecture (IA)
++ Human-Computer Interaction
++ The Use of Metaphor in UI
++ Mental Models
++ …
+
+IMG: Half Terminal; Half System 7; iOS
+
+CAPTION: Half a century of user interface design in an image. On the left, the terminal; in the middle System 7; on the right iOS.
+
+Of course user interfaces have come a long, long way since the early 70s (TK) and we’re now witnessing the rise of non-graphical user interfaces, particularly conversational and voice interfaces. In this book, I’ll focus primarily on graphical user interfaces across a range of contexts:
 
 + Desktop (Mouse)
 + Tablet → Smartphone (Finger)
 + Wrist (Finger)
 
-We also need to consider conversational interfaces, both text-driven and voice-driven. Both of these contexts are seeing slowly emerging UI patterns.
+If conversational and voice interfaces interest you, have no fear, I have you covered. I’ll explore where interfaces are heading in Chapter 9. So I’ll be covering all of the bases!
 
 
 
-Part 2: A Little History
-------------------------
+Part 2: Designing Human Interfaces
+----------------------------------
 
 <!--
 
-A Little History
+I’ve removed the section titled ‘A Little History’. You asked: “Do we want to go this far back.” (To Xerox, etc.) My answer would be a resounding: “Yes!”
 
-We provide a little context. As per my comment above. You asked: “Do we want to go this far back.” My answer would be a resounding: “Yes!”
-
-There is a great deal – desktops and metaphors – that was imagined up in the 80s that’s every bit as relevant today. Many self-taught designers don’t know this history or these principles an I believe our role is to uncover this for them.
+There’s a great deal – desktops and metaphors – that was imagined up in the 70s that’s every bit as relevant today. Many self-taught designers don’t know this history or these principles an I believe our role is to uncover this for them.
 
 -->
 
-AN UNDERSTANDING OF THE PAST WILL HELP YOU TO DESIGN USER INTERFACES THAT ARE INFORMED BY DECADES OF UNDERSTANDING…
+The trouble with the term ‘user interface’ is that it abstracts humans (messy, unpredictable and… human!) into an anonymous category of ‘users’. In fact these users are all different, above all, they’re all **humans**.
 
-STRESS THIS IS IMPORTANT STUFF…
+I’m not going to reinvent the wheel and call this book *Building Beautiful HIs*, but as you read it – and as you design – put some thought into the different humans that will use the designs you create. Consider:
 
-There is a great deal that was designed from the 60s-80s – for example the concept of desktops and metaphors – that’s every bit as relevant today.
++ Age: Young and Old
++ Gender: Male and Female (And everything in between or outside these terms.)
++ Geographical Context: Where in the world these users are.
++ …
 
-Understanding the history of visual interfaces and how they have evolved will serve you well in the here and now.
+It’s critical to consider the above mix so that he UIs we design cater to as wide an audience as possible. Designing for accessibility and inclusivity is important in our increasingly diverse global culture. Let’s factor this in.
 
-Xerox Star (1981)
-Lisa (1983) and The Macintosh (1984)
-The Here and Now
+It’s no surprise to me that Apple chose to name its excellent Human Interface Guidelines (HIG) **Human** Interface Guidelines, not **User** Interface Guidelines. By embracing the term ‘human’, Apple acknowledges that at the receiving end of every interface lies a human, and that human wants to get something done.
 
-Covering this history allows us to introduce key thinkers – for example, Don Norman – who still have a great deal to offer.
+When you’re designing a UI, bear in mind that the user at the receiving end of the interface will very likely be dealing with everyday distractions. As such, it’s important to ensure your UI is easy to understand and distraction free.
 
-Don’t worry, we’re not going to get too lost in this, but I do think it’s important. Plus we can design nice images – documents, folders, etc. – that illustrate what we’re talking about.
+Humans are trying to achieve tasks – perhaps to book a flight, or to buy a book – while juggling other human tasks, for example, feeding a baby. Understanding this is critical. The best user interfaces get out of the way and help you to get things done with the minimum of fuss.
+
+By focusing on first principles you’ll improve your UI:
+
++ get out of the way;
++ aim for maximum functionality; and
++ help your users (preferably minimising opportunities for error).
+
+Few, if any, users will come to your interface without prior knowledge, as such, it’s important to understand ‘received knowledge’ that your users bring to your interface. We all use interfaces day in, day out and – as we use them – we learn conventions, standardised approaches towards particular problems. Before we get into the fundamental of designing UIs, it’s worth mentioning two important concepts:
+
++ Metaphor
++ Mental Models
+
+I’ll explore these in the next two sections. Unless you’re deeply aware of these principles, **I’d strongly recommend you resist the urge to fast-forward to Chapter 2**. Every interface you design will benefit from an understanding of metaphors and mental models so let’s dive in and explore them.
 
 
 
 Part 3: Desktops and Metaphors
 ------------------------------
 
-<!--
+If you’ve ever bought anything from Amazon, you’ll have encountered metaphors. When you add something to your basket at Amazon, there is in fact no ‘basket’. The basket is just a metaphor – drawn from the real world – to help you understand where you store your items.
 
-Desktops and Metaphors
+As you check out and pay for your items, there is (thankfully) no check out line. You simply pay with your credit card and, magically, your purchases are on their way. This is metaphor in action.
 
-With the history – which will be light touch – under our belt we start to explain the idea of metaphors. People expect a ‘shopping cart’ icon, for example, to look like a shopping cart. They expect a ‘document’ or ‘folder’ icon to look like a document or a folder.
+By using everyday models from the ’real’ world, we can design easily understandable UIs that need very little in the way of explanation.
 
-Users have a mental model of the world and – as designers – we should stick, where possible, with that mental model.
+IMG: Baskets (Amazon, iTunes, etc.)
 
--->
+CAPTION: By embracing the basket metaphor, all of these different UIs adhere to a common language. Users understand – thanks to regular use – what a basket stands for. This metaphor eases their use of the UI (a win!).
 
-With the history under our belt – which sets the scene – in this section we explain clearly what we mean by metaphors. How we can use metaphors to make complex concepts understandable.
+Understanding the existing use of metaphors is important. If a convention exists – a shopping basket, for example – it’s best to stick with this metaphor and resist the urge to invent a new one.
 
-In this section we hammer home the idea of ‘mental models’ and explain that users have an understanding of certain concepts that designers then use in interfaces as a kind of ‘shorthand’ for navigation.
+When users navigate a UI that is new to them, they do so with the received knowledge of **every other UI they have ever used**. Even if your UI is for a new product that’s breaking new ground, there will be conventions you can draw upon.
 
-For example, we might introduce:
+Returning to our checkout metaphor, if your product features payments of any kind, your UI will benefit from following pre-existing checkout conventions. Users might:
 
-a ‘cog’ icon that users understand means ‘settings’;
-an ‘envelope’ icon that users understand means ‘email’; or
-a ‘folder’ icon that users understand means a place to organise files.
++ add items to their ‘basket‘;
++ continue browsing the ’store’, before returning to their basket; and
++ finally, ‘checking out‘.
 
-We explain that designers have co-opted real world objects to ‘stand for’ digital objects. When we click on a cog, we know that software that we’re about to adjust the settings for isn’t made up of actual cogs, this is just an idea.
+When Apple launched its System 7 (and earlier) GUIs it used metaphors extensively. By using a ‘desktop metaphor’, users could understand and build a mental model of how everything worked.
 
-There is lots we can draw from here.
+When a user stored a ‘document’ in a ‘folder’, they understood that there was no physical, paper document per se, or even a folder. They understood that these were simply metaphors to help explain what was happening under the hood in an easy to understand manner.
+
+Similarly, when users discarded an item in the ‘trash’ and later ‘emptied the trash’, no trash lorry arrived at their house.
+
+This foundational use of metaphor stretches so far back that it has informed almost every operating since and has mapped over from a desktop context to a mobile context.
+
+By using an ‘iconic’ approach, we can summarise concepts in an easy to follow manner. For example, we might use:
+
++ A ‘cog’ icon that users understand represents ‘settings’.
++ An ‘envelope’ icon that represents ‘email’.
++ Or a ‘folder’ icon that represents a place to organise files.
+
+Designers have co-opted ‘real world’ objects to represent digital objects. When we click on a cog, we know that the settings we’re about to modify aren’t made up of actual cogs, this is just an idea.
 
 
 
@@ -146,97 +193,68 @@ Whatever the interfaces we design, it’s highly likely that **our users will ha
 
 > What users believe they know about a user interface strongly impacts how they use it. […] Mental models are one of the most important concepts in human-computer interaction.
 
-Users have mental models based upon their past experiences and it’s important that we take these mental models on board when considering our information architecture. **A mental model is what the user believes about the system they are using.** Put simply:
+Users have mental models based upon their past experiences and it’s important that we take these mental models on board when considering our user interface design. **A mental model is what the user believes about the system they are using.** Put simply:
 
-1. Mental models are based upon beliefs, not facts: that is they are mental models of what users know – or think they know – about the interface that you’re designing.
++ Mental models are based upon beliefs, not facts: that is they are mental models of what users know – or think they know – about the interface that you’re designing.
 
-2. Individual users have different mental models based upon their own unique past experiences.
++ Individual users have different mental models based upon their own unique past experiences.
 
 One of the biggest problems we run into when designing user interfaces is **the conflict between what we – as the designers of the interface – know about the underlying system and how it works, and how users expect things to work**.
 
 When considering your information architecture, it helps to consider how your interface relates to others’ interfaces. In short: **Users expect sites and applications to act and work alike.** Introducing new models can lead to confusion on the part of the user, resulting in an interface that doesn’t work.
 
-Regardless of what we’re designing, we can embrace fundamental principles of design to ensure that our interfaces benefit from a clear visual hierarchy, ensuring complex information is easy to understand and navigate through.
-
-<!-- We can also rely on tried and tested metaphors that users understand… instead of inventing new approaches. For example: A shopping cart is universally understood, so consider mental models and metaphors that echo what users have experienced elsewhere. -->
+Regardless of what we’re designing, we can embrace fundamental principles of design to ensure that our interfaces benefit from a clear visual hierarchy, ensuring complex information is easy to understand and navigate through, as I’ll explore this in Chapter 3.
 
 
 
 Part 5: UI, Here and Now
 ------------------------
 
-<!--
+Fortunately there are a wealth of resources available to us that can inform our understanding of UI design. Apple’s [Human Interface Guidelines](#), Google’s [Material Design](#), and IBM’s [Living Language](#) all offer lessons we can learn from.
 
-A Three Decade Journey (Renamed to 'Here and Now')
+These provide a useful overview of designing interfaces at a high level and are well worth exploring before we get into analysing how interfaces are built in Chapter 2.
 
-Here we show a clear line for interfaces of the 80s to the interfaces of today. We show Apple’s Human Interface Guidelines and Google’s Material Design language.
-
-We could contrast a System 7 window (with folders and icons) and show how – other than styling, which has evolved – a macOS Mojave window (with folders and icons) looks, in principle, the same.
-
--->
-
-Content here… This is Apple's HIG, Material Design, etc..
-
-I think the fact that Apple provides human interface guidelines – and not user interface guidelines – is an important distinction and it’s one we should tease out. We’re seeing a return to terms like human-centred design (as opposed to UX design) and I think Adobe should lead the way here in reigniting these ‘old’ principles.
+As I noted earlier, I think the fact that Apple provides human interface guidelines – and not user interface guidelines – is an important distinction. We’re seeing a return to terms like human-centred design (as opposed to, say, user experience design) and Apple’s HIG naming is prescient.
 
 Apple is treading a bit of a tightrope, clearly they don’t want to lose sight of their heritage (and their first set of groundbreaking Human Interface Guidelines), but – as you’ll see in the copy on their page – they use both terms human interface and user interface.
 
-PICTURE
+IMG
 
-**Caption: Apple’s Human Interface Guidelines provide in-depth information and resources for designing interfaces that work on Apple’s various operating systems (macOS, iOs and watchOS).**
-
-As Apple note in their iOS guidelines, their approach is underpinned by three guiding principles:
-
-Clarity
-Deference
-Depth
-
-We could dive a little deeper (but not too much) into these principles. There’s background on these principles in Apple’s Design Themes.
-
-I’ll also talk about other systems like Google’s Material Design system and IBM’s Living Language, so that we don’t get lost drinking just Apple’s Kool-Aid. (See below, which I’ll write up shortly.)
-
-At the end of this section I'm going to add an overview of:
-
-Apple’s Human Interface Guidelines
-Google’s Material Design
-IBM’s Living Language
-
-These provide a useful overview of designing interfaces at a high level before we get into analysing how interfaces are built for the next module.
-
-PICTURE
-
-**Caption: Google’s Material Design guidelines provide in-depth information and resources for designing interfaces that work.**
+Caption: Apple’s Human Interface Guidelines provide in-depth information and resources for designing interfaces that work on Apple’s various operating systems (macOS, iOs and watchOS).
 
 Developed in 2014, Google’s Material Design expanding on the ‘card’ motifs that debuted in Google Now. Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
 
-PICTURE
+IMG
 
-**Caption: IBM’s Living Language is described as, “A shared vocabulary for design.” It represents IBM’s move into a design-driven culture and is well worth exploring.**
-
-As IBM put it in their Living Language: “Focus on users’ goals. Design tools that lead people to actionable insights. Be proactive, always anticipating users’ next moves and helping them prepare for change.”
+Caption: Google’s Material Design guidelines provide in-depth information and resources for designing interfaces that work.
 
 IBM’s Living Language – designed to be a shared vocabulary for design – represents IBM’s move into a design-driven culture and is well worth exploring. Currently on v2, IBM are also maintaining an archive of past versions, which offer a great deal of practical advice for designing user interfaces.
 
-PICTURE
+As IBM put it in their Living Language: “Focus on users’ goals. Design tools that lead people to actionable insights. Be proactive, always anticipating users’ next moves and helping them prepare for change.”
 
-**Caption: styleguides.io is also worth bookmarking for a useful overview of how other companies – at a wide range of scales – are handling user interface design.**
+IMG
+
+Caption: IBM’s Living Language is described as, “A shared vocabulary for design.” It represents IBM’s move into a design-driven culture and is well worth exploring.
+
 
 Lastly, styleguides.io is a very useful roundup of other approaches to developing user interface libraries and style guides. It’s worth bookmarking and offers an insight into how a wide range of companies are moving towards the development of visually consistent user interface libraries.
 
-SHOW SOME DETAILS, PERHAPS? SALESFORCE, MAILCHIMP, ETC..
+IMG
+
+Caption: styleguides.io is also worth bookmarking for a useful overview of how other companies – at a wide range of scales – are handling user interface design.
 
 
 
 Further Reading
 ---------------
 
-Further reading goes here…
+There are many great publications, offline and online, that will help further underpin your understanding of user interface design. I’ve included a few below to start you on your journey.
 
-+ HIG, Material Design, Living Language
+I’d strongly suggest starting by exploring Apple’s [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/), Google’s [Material Design](https://www.dropbox.com/s/7t8w7su89ibpt3a/Screenshot%202019-05-03%2015.33.48.png?dl=0) resources, and IBM’s Living Language ([Version 1](https://www.ibm.com/design/v1/language/) and [Version 2](https://www.ibm.com/design/language/)). These provide a useful overview of designing interfaces at a high level and offer an insight into the design vocabularies of different platforms.
 
-+ Moggridge's book, perhaps?
+The Interaction Design Foundation have a useful overview of UI design titled [What is User Interface (UI) Design?](https://www.interaction-design.org/literature/topics/ui-design). It’s well worth a read for a high-level perspective.
 
-+ Something else that's high-level principles focused.
+Lastly, usability.gov have a similarly high-level introduction to [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html). I’d strongly recommend exploring all of usability.gov, an initiative by the US government to champion user experience (UX) and user interface (UI) best practices.
 
 
 ---
