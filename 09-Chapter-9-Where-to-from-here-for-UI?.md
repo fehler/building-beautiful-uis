@@ -5,8 +5,8 @@ Chapter 9: Where to from here for UI?
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 + Where next for UI?
 + Conversational User Interfaces

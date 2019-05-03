@@ -7,8 +7,8 @@ Chapter 4: Getting From A → B
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 + Part 1: Considering User Flows
 + Part 2: Choices and Branches

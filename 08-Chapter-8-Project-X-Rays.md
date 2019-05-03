@@ -5,8 +5,8 @@ Chapter 8: Project X-Rays
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 + Vic Bell (Iconography)
 + Howard Pinsky (User Iinterface Design)

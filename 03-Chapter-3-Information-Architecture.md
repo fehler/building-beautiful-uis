@@ -7,8 +7,8 @@ Chapter 3: Information Architecture
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 + Part 1: Elements → Components → Pages
 + Part 2: The Importance of a Clear Visual Hierarchy

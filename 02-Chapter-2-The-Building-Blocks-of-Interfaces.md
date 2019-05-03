@@ -7,8 +7,8 @@ Chapter 2: The Building Blocks of Interfaces
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 + Part 1: The Basic Building Blocks (Point, Line, Plane)
 + Part 2: Typography

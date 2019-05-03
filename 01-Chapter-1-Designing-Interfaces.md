@@ -5,14 +5,14 @@ Chapter 1: Designing Interfaces
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
-+ Part 1: The ‘UI’ in ‘GUI’
-+ Part 2: Designing Human Interfaces
-+ Part 3: Desktops and Metaphors
-+ Part 4: Establishing Clear Mental Models
-+ Part 5: UI, Here and Now
++ [Part 1: The ‘UI’ in ‘GUI’](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-1-the-ui-in-gui)
++ [Part 2: Designing Human Interfaces](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-2-designing-human-interfaces)
++ [Part 3: Desktops and Metaphors](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-3-desktops-and-metaphors)
++ [Part 4: Establishing Clear Mental Models](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-4-establishing-clear-mental-models)
++ [Part 5: UI, Here and Now](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-5-ui-here-and-now)
 
 
 
@@ -88,9 +88,9 @@ Understanding this history might seem like a distraction, but spending a little 
 + Mental Models
 + …
 
-IMG: Half Terminal; Half System 7; iOS
+**IMG: 1/3 Terminal; 1/3 System 7; 1/3 iOS**
 
-CAPTION: Half a century of user interface design in an image. On the left, the terminal; in the middle System 7; on the right iOS.
+**CAPTION: Half a century of user interface design in an image. On the left, the terminal; in the middle System 7; on the right iOS.**
 
 Of course user interfaces have come a long, long way since the early 70s (TK) and we’re now witnessing the rise of non-graphical user interfaces, particularly conversational and voice interfaces. In this book, I’ll focus primarily on graphical user interfaces across a range of contexts:
 
@@ -154,9 +154,9 @@ As you check out and pay for your items, there is (thankfully) no check out line
 
 By using everyday models from the ’real’ world, we can design easily understandable UIs that need very little in the way of explanation.
 
-IMG: Baskets (Amazon, iTunes, etc.)
+**IMG: Baskets (Amazon, iTunes, etc.)**
 
-CAPTION: By embracing the basket metaphor, all of these different UIs adhere to a common language. Users understand – thanks to regular use – what a basket stands for. This metaphor eases their use of the UI (a win!).
+**CAPTION: By embracing the basket metaphor, all of these different UIs adhere to a common language. Users understand – thanks to regular use – what a basket stands for. This metaphor eases their use of the UI (a win!).**
 
 Understanding the existing use of metaphors is important. If a convention exists – a shopping basket, for example – it’s best to stick with this metaphor and resist the urge to invent a new one.
 
@@ -218,13 +218,13 @@ As I noted earlier, I think the fact that Apple provides human interface guideli
 
 Apple is treading a bit of a tightrope, clearly they don’t want to lose sight of their heritage (and their first set of groundbreaking Human Interface Guidelines), but – as you’ll see in the copy on their page – they use both terms human interface and user interface.
 
-IMG
+![Apple’s Human Interface Guidelines](images/ch1/apple-human-interface-guidelines.png)
 
 Caption: Apple’s Human Interface Guidelines provide in-depth information and resources for designing interfaces that work on Apple’s various operating systems (macOS, iOs and watchOS).
 
 Developed in 2014, Google’s Material Design expanding on the ‘card’ motifs that debuted in Google Now. Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
 
-IMG
+![Google’s Material Design](images/ch1/google-material-design.png)
 
 Caption: Google’s Material Design guidelines provide in-depth information and resources for designing interfaces that work.
 
@@ -232,14 +232,14 @@ IBM’s Living Language – designed to be a shared vocabulary for design – re
 
 As IBM put it in their Living Language: “Focus on users’ goals. Design tools that lead people to actionable insights. Be proactive, always anticipating users’ next moves and helping them prepare for change.”
 
-IMG
+![IBM’s Living Language](images/ch1/ibm-living-language.png)
 
 Caption: IBM’s Living Language is described as, “A shared vocabulary for design.” It represents IBM’s move into a design-driven culture and is well worth exploring.
 
 
 Lastly, styleguides.io is a very useful roundup of other approaches to developing user interface libraries and style guides. It’s worth bookmarking and offers an insight into how a wide range of companies are moving towards the development of visually consistent user interface libraries.
 
-IMG
+![styleguides.io](images/ch1/styleguides-io.png)
 
 Caption: styleguides.io is also worth bookmarking for a useful overview of how other companies – at a wide range of scales – are handling user interface design.
 

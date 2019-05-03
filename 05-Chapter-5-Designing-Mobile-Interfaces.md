@@ -5,8 +5,8 @@ Chapter 5: Designing Mobile Interfaces
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 /* This is very rough and needs a day to tidy it all up. I'll Post-It out this chapter and the next chapter when I get to Donegal. */
 

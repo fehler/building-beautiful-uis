@@ -5,8 +5,8 @@ Chapter 6: Designing Desktop Interfaces
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 /* This is very rough and needs a day to tidy it all up. (In fact, it's threadbare, but I still think a chapter on designing desktop interfaces is worth including.) I'll Post-It out this chapter and the preceding chapter when I get to Donegal. */
 

@@ -5,8 +5,8 @@ Chapter 7: Animating Interfaces
 
 
 
-Chapter Table of Contents
--------------------------
+Table of Contents
+-----------------
 
 + Part 1: Animation Communicates Intent
 + Part 2: Analysis of an Interaction (Trigger, etc.)
