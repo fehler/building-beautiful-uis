@@ -11,6 +11,8 @@ Ross and Caitlín, my son and daughter, are always on hand to offer a down to ea
 
 Amanda Gross Tuft, who commissioned this project, has kept me on my toes throughout the process of organising everything. She’s not afraid to challenge my thinking, encouraging me to clarify the narrative when it’s needed and sharpen up my writing. For that I’m eternally grateful.
 
+Dan Gold – one of my second year Interaction Design students – very kindly pitched in and built a website for the book while I was working on it. This allowed me to share it as I finished chapters. Dan’s a very talented student and his support was very much appreciated.
+
 Finally, I’d like to thank the Adobe XD Slack and Discord community members – in particular Howard Pinsky and Gus Martin at Adobe – who have pitched in with ideas and helped to improve the materials. Thank you to everyone who contributed with their thoughts and encouragement.
 
 

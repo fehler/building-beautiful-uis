@@ -1,11 +1,11 @@
 Building Beautiful UIs Task List
 ================================
 
-This task list provides an overview of the progress I've made so far, so we can begin building towards a deadline of late May.
+This task list provides an overview of the progress I’ve made so far, so we can begin building towards a deadline of late May.
 
-If the content's finished by late May we need to discuss how we're building it. I think you mentioned a website, do you know who is building it? If so, it might be an idea for me to touch base with them so we can ensure file formats, etc., are all fine.
+If the content’s finished by late May we need to discuss how we’re building it. I think you mentioned a website, do you know who is building it? If so, it might be an idea for me to touch base with them so we can ensure file formats, etc., are all fine.
 
-The UI Glossary is structured with all the terms we need to define, but I haven't started it yet. I'll do it last, that way we can add new terms we may have missed as I find them while writing.
+The UI Glossary is structured with all the terms we need to define, but I haven’t started it yet. I’ll do it last, that way we can add new terms we may have missed as I find them while writing.
 
 
 Overview
@@ -20,16 +20,16 @@ Chapter 1: Designing Interfaces
 -------------------------------
 
 + [X] Draft Chapter Content (Text)
-+ [ ] Final Chapter Content (Text)
++ [X] Final Chapter Content (Text)
 + [ ] Illustrations
-+ [ ] XD Swipe Files
+<!-- + [ ] XD Swipe Files -->
 
 
 
 Chapter 2: The Building Blocks of Interfaces
 --------------------------------------------
 
-+ [ ] Draft Chapter Content (Text)
++ [X] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
 + [ ] XD Swipe Files
@@ -145,7 +145,7 @@ Appendix: Master-Apprentice Exercises
     + [ ] Email: Apple
     + [ ] Email: Shiny Frog    
 
-The Master-Apprentice Files are built in Keynote, I need to rebuild them in XD. This should take around a day. (These are the example files I showed you where we discussed seeking permission to feature others' work.)
+The Master-Apprentice Files are built in Keynote, I need to rebuild them in XD. This should take around a day. (These are the example files I showed you where we discussed seeking permission to feature others’ work.)
 
 
 
@@ -153,8 +153,8 @@ Acknowledgements
 ----------------
 
 + [X] Draft Chapter Content (Text)
-+ [ ] Final Chapter Content (Text)
-
++ [X] Final Chapter Content (Text)
++ [ ] Add Becky, and others from Adobe, on completion.
 
 
 Promotional Images, etc.
