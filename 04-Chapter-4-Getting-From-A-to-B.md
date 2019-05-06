@@ -35,19 +35,27 @@ Overview goes here…
 Part 1: Considering User Flows
 ------------------------------
 
-With our pages built – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface.
+<!-- This is all about getting from A-Z. There are many routes through content. Our role is to signpost and help the user. -->
+
+With our pages mapped out – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface.
 
 Any application, even the simplest, will feature flows through different screens and states and it’s important that we consider these flows from a user interface perspective. Our job as user interface designers is to ensure the routes through an application are clearly mapped out and signposted to our users.
 
-There are many flow-charting applications you can use to map out your flows, equally you can build these flows (and create a clickable prototype) using Adobe XD.
+There are many flow-charting applications you can use to map out your flows, equally you can build these flows (and create a clickable prototype) using Adobe XD. **Stress XD more. This should be the other way around (if we're mentioning alternatives to XD at all).**
 
 Before building higher fidelity digital deliverables, it helps to map everything out with Post-It Notes. Post-Its are a useful tool because they allow you to re-organise your flows as you map everything out.
+
+IMG: POST-IT NOTES <!-- Show some faked-up Post-It Notes using a handwriting typeface. -->
+
+CAPTION: Post-It Notes are incredibly useful when mapping out flows…
 
 This is very good:
 
 https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a
 
 > A user flow is a series of steps a user takes to achieve a meaningful goal.
+
+A minor side-note on the power of paper… Briefly mention paper prototypes. They're useful at eery stage, but when you're mapping out flows large sheets of paper and a range of different colored pens will help you get the flows established.
 
 
 
@@ -65,6 +73,8 @@ This simple example gives a glimpse of the potential complexities that we might 
 It helps to create a standalone flow diagram – in addition to your prototype – to show your stakeholders how everything is organised from a high-level perspective.
 
 Both of these design deliverables serve different purposes: your flow diagram allows you to demonstrate your application’s overall structure; your prototype allows you to demonstrate how the interactions between different pages or states are handled.
+
+<!-- A note on **all* of the different design deliverables being orchestrated to provide an overview of the design. -->
 
 
 

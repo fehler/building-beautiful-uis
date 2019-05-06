@@ -16,6 +16,24 @@ Table of Contents
 + Part 4: Considering Relationships
 + Part 5: Composition and Grid Systems
 
+<!--
+
+Look in Simplenote, there's a shit tonne of stuff there. Not least the IA of cards, etc., i.e. IA at a component, 'sub-page' level.
+
+Also, stress that IA will include the architecture of flows, but I'll explore that in the next chapter.
+
+Components' IA
+
+Components will have their own information architecture. Stress this point. For example, a simple profile card might have three groupings of information:
+
++ User Profile
++ Social
++ Tags
+
+SHOW AN ILLUSTRATION OF THIS
+
+-->
+
 
 
 Summary
