@@ -19,13 +19,13 @@ Table of Contents
 Summary
 -------
 
-<!-- This has moved on a lot. It’s less about breaking apart a series of files and more about building from the object up… It’s a little like LEGO. -->
-
 In this module **I’ll introduce the fundamental building blocks that interfaces are made from**: point, line, plane; iconography; typography; tone and color. **I’ll break apart a series of interfaces** – which I’ll also provide as swipe files for reference – **and I’ll analyse how they are constructed from simple building blocks**.
 
 I’ve created a series of PDF scratch files and Adobe XD artboards to accompany this chapter. These walk through the process for more visual learners and can be used in conjunction with the book.
 
 
+
+<!--
 
 Overview
 --------
@@ -34,11 +34,26 @@ Overview goes here…
 
 This is the fundamentals. It’s stressing a need to learn about graphic design principles. At heart our user interfaces are informed by an understanding of graphic design.
 
+In this chapter I’ll explore how different elements and components are created from objects. These relatively simple objects:
+
++ Points
++ Lines
++ Planes
+
+In addition to these building blocks we also use typography to ensure the interfaces we design are legible and readable.
+
+-->
 
 
 
 Part 1: Interfaces Are Like LEGO
 --------------------------------
+
+![LEGO](images/ch2/LEGO.png)
+
+CAPTION: With a mountain of LEGO bricks, we can build virtually anything. We’re limited only by our imagination. User interfaces are the same: Once we’ve created some basic elements – buttons, toggles and tags, for example – we can build any UI we desire.
+
+<small>I wonder if each part should have an opening image? That way, in a single image, I can encapsulate what the part is about.</small>
 
 When you’re starting on your journey as a UI designer it can be intimidating trying to work out how different interfaces are built.
 
@@ -55,14 +70,19 @@ In the 17th century, apprentices's education was undertaken for a minimum of 2-3
 
 The good news is that – in our connected world underpinned by the web – you can embark upon a 'virtual apprenticeship' at relatively little cost. All you need is time and a willingness to work hard and learn. [Dribbble](https://dribbble.com/search?q=UI) is a good place to start. Search for UI, choose something you like and rebuild it.
 
-**IMG: Dan Gold Master-Apprentice**
+![Dan Gold Master-Apprentice](images/ch2/dan-gold-master-apprentice.png)
 
-**CAPTION: Dan Gold, a second year student on my Interaction Design programme at Belfast School of Art, created the above UI Master-Apprentice example during his first year. On the left is the original, by XXXX, on the right is Dan's copy.**
+**CAPTION: Dan Gold, a second year student on my Interaction Design programme at Belfast School of Art, created the above Master-Apprentice exercise. On the left is the original, by Nadia Ivanova, on the right is Dan's exercise.**
 
-To help you on your journey I've provided a series of 'Master-Apprentice' examples so you can see how these exercises work. I've provided examples of desktop, mobile (smartphone, tablet) and wrist UIs so you can begin to develop an understanding across a range of contexts. I created these myself so that I could develop my skills. I might be fast approaching 50 years old, but I'm still learning!
+To help you on your journey I’ve provided a series of ‘Master-Apprentice’ examples in addition to the example above, so you can see how these exercises work. I’ve provided examples of desktop, mobile (smartphone, tablet) and wrist UIs so you can begin to develop an understanding across a range of contexts. I created these myself so that I could develop my skills. I might be fast approaching 50 years old, but I’m still learning.
 
 
 ### LEGO FTW!
+
+One of the reasons that LEGO is such a much-loved product is the fact that from a series of individual blocks you can make almost anything you put your mind to.
+
+Just like LEGO blocks can be built and combined, so, too, interfaces are created from relatively simple elements.
+
 
 This section should maybe not reference the Objects → Elements → Etc. or it'll get too long. Leave that for the next section?
 
@@ -84,12 +104,13 @@ I'LL BE FOCUSING IN THIS CHAPTER ON THE FIRST TWO…
 Part 2: Objects → Elements → Components → Pages → Flows
 -------------------------------------------------------
 
-IMG: Objects → Elements → Components → Pages → Flows
+![Objects → Elements → Components → Pages → Flows](images/ch2/objects-elements.png)
 
 CAPTION: Everything we build is created from relatively simple objects. By combining these objects in different ways we can create different user interface elements, which can then be combined to create components that are then organised on pages. Link these pages together and we have the flows that underpin everything we build.
 
+/* I wonder if each part should have an opening image? That way, in a single image, I can encapsulate what the part is about. */
 
-Explain how everything is broken down…
+Everything we create is built from smaller parts. At the simplest level, a user interface is comprised of the following:
 
 + Objects
 + Elements
@@ -97,13 +118,12 @@ Explain how everything is broken down…
 + Pages
 + Flows
 
-In this chapter I’ll explore how different elements and components are created from objects. These relatively simple objects:
+In this chapter, I'll be focus on elements, demonstrating how they can be built from simple objects. In the next chapter, I'll show how these elements can be combined to create components and pages, which form the backbone of user interfaces.
 
-+ Points
-+ Lines
-+ Planes
+This approach – Objects → Elements → Components → Pages → Flows – is similar to Brad Frost's [Atomic Design](#) methodology. I never studied chemistry, so I find Frost's naming convention (which features 'atoms' and 'molecules'
 
-In addition to these building blocks we also use typography to ensure the interfaces we design are legible and readable.
+
+
 
 IMG: A simple button.
 
