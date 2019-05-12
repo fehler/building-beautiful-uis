@@ -263,7 +263,7 @@ Lastly, usability.gov have a similarly high-level introduction to [User Interfac
 About the Author
 ----------------
 
-![Christopher Murphy|400x400,50%](images/overview/mr-murphy.png)
+![Christopher Murphy](images/overview/mr-murphy.png)
 
 ### Christopher Murphy
 
