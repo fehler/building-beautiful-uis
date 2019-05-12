@@ -50,12 +50,21 @@ Part 2 goes here…
 
 
 
+
+
+
+
+
 Part 3: Lessons From Disney
 ---------------------------
 
 This is about learning from Disney, etc.. Mapping over lessons.
 
 Easing in and out, squash and stretch, etc..
+
+
+
+
 
 
 
@@ -66,10 +75,29 @@ I have lots of examples of this.
 
 When talking about the page-level, talk about page-to-page and states **within** pages. Both offer an opportunity to use well-considered animation to enhance the user's experience.
 
+There are numerous animations we can use…
+
+Transitions, page-to-page…
+
+We might also scroll between parts of a page, for example, on a long page with content that's organised into sections. Without getting lost in detail, talk about smoothscroll.
+
+IMG: Different interactions between pages (page-to-page) and within pages (section-to-section).
+
+
+
+
 
 
 Part 5: Micro-Interactions (Element– and Component-Level)
 ---------------------------------------------------------
+
+In addition to page-level interactions, we can also design interactions at the element-level. For example, when a user interacts with a button on a web page, we might use animations for the button's different states:
+
++ Inactive
++ On Hover
++ On Click…
+
+All of this communicates to the user, providing valuable feedback. 
 
 Build this out…
 

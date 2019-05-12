@@ -11,39 +11,23 @@ Table of Contents
 -----------------
 
 + Part 1: Elements → Components → Pages
-+ Part 2: The Importance of a Clear Visual Hierarchy
-+ Part 3: Iconic Layouts and Blockframes
-+ Part 4: Considering Relationships
-+ Part 5: Composition and Grid Systems
++ Part 2: Typography at the Page Level
++ Part 3: The Importance of a Clear Visual Hierarchy
++ Part 4: Composition and Grid Systems
++ Part 5: Iconic Layouts and Blockframes
 
-<!--
 
-Look in Simplenote, there's a shit tonne of stuff there. Not least the IA of cards, etc., i.e. IA at a component, 'sub-page' level.
 
-Also, stress that IA will include the architecture of flows, but I'll explore that in the next chapter.
 
-Components' IA
-
-Components will have their own information architecture. Stress this point. For example, a simple profile card might have three groupings of information:
-
-+ User Profile
-+ Social
-+ Tags
-
-SHOW AN ILLUSTRATION OF THIS
-
--->
 
 
 
 Summary
 -------
 
-In an age of information overload, **establishing a clear information architecture is more critical than ever**. In this chapter, **I’ll explain what information architecture is, introduce the idea of visual hierarchy, and introduce grid systems as a backbone for visual alignment and harmony**.
+In an age of information overload, **establishing a clear information architecture (IA) is more critical than ever**. In this chapter, **I’ll explain what information architecture is, introduce the idea of visual hierarchy, explore the role that typography plays, and introduce grid systems as a backbone for visual alignment and harmony**.
 
-<!-- Perhaps in this chapter (if not here, work out where) I should stress Maxim's point (and mine) that – often – you are presenting multiple design artefacts to a client that collectively tell the story of the interface you're designing. -->
-
-This chapter's all about IA…
+In short: This chapter's all about IA.
 
 
 
@@ -77,6 +61,21 @@ At the macro-level, we need to **consider the overall information architecture o
 Part 1: Elements → Components → Pages
 -------------------------------------
 
+<!--
+
+It feels like there should be a part that comes before 'Elements → Components → Pages' that deals with the overall concept of signposting. That could use the following, airport content.
+
+-->
+
+As UI designers, our role is to orchestrate the elements on a page and impose some order on it. Whether that page is in a desktop-, a mobile- or a wrist-based context we need to take different elements, components, and groupings of content (words, imagery, video…) and organise it.
+
+This is where information architecture (IA) comes in.
+
+Everything we design is created from content. When we design a UI, we take this content and organise it, enabling the user to navigate it, quickly and easily finding their way.
+
+Our job is to consider the hierarchy of information on a page – and the different pages that are connected together and ensure everything is clearly signposted.
+
+
 This is a new Part 1, it's about building up from the elements and components we explored in the previous chapter.
 
 Show an example of how a page is built up:
@@ -103,6 +102,8 @@ MENTION THE XD EXAMPLE FILES
 
 
 ### Cards
+
+<!-- If I'm going to do this, show something else also. Or can cards be the main focus. After all, Material Design is a further development of the cards metaphor from before and we're seeing this model crop up a lot now. -->
 
 **Reword this. (See content below.)**
 
@@ -141,10 +142,73 @@ This design – which has stood the test of time – still functions well and wo
 
 SHOW A MARKED UP VERSION WITH ANALYSIS, ASK FOR PERMISSION
 
+<!-- This is ending on pages, so it's logical that pages come next. -->
 
 
-Part 2: The Importance of a Clear Visual Hierarchy
+
+Part 3: Typography at the Page Level
+------------------------------------
+
+I won't be covering typography in depth – that could be a standalone book in and of itself – what I'll cover are fundamental principles that you’ll find useful for managing information architecture.
+
+All interfaces will feature language somewhere. In addition to developing an understanding of language, it’s important to develop an awareness of fundamental typographic principles.
+
+
+
+
+As the digital landscape evolves, offering us ever more exciting opportunities – and ever more information – well-structured information design will become more critical than ever. We need to make sense of the sea of information that surrounds us…
+
+As designers we need to consider the role that typography plays…
+
+**IMG: Unstructured Content and Structured Content**
+
+**CAPTION: On the left is a typical piece of unstructured content… On the right, typographic hierarchy helps to tease out meaning.**
+
+In the above example – an exercise from 2008 – I added some information hierarchy for a DVD release being designed by [Alorenz, Vienna](http://www.alorenz.net).
+
+The brief was to look at the information hierarchy and the relationship between the different elements, considering how a minimal typographic palette – coupled with typographic scale and color – could be translated from a physical DVD release to an accompanying website.
+
+Using a range of HTML elements:
+
++ Headings (h1-h3)
++ Classes (.highlight, .smallprint and .copyright)
++ Paragraph Styles
++ Horizontal Rules
++ …
+
+All of the above are at the service of **content hierarchy** through considered semantic markup.
+
+A decade has passed since I designed the above example and yet – thanks to HTML's longevity – I would change very little, other than to use HTML5 elements like `<small>` instead of classes, where possible. The information hierarchy remains the same.
+
+Typeface choice, in this instance, wasn't important (although Georgia is a beautifully designed typeface). What was important was the use of the different typographic elements at a designer's disposal - scale, tone, colour, space, rules... - to establish a clear information hierarchy. Using typography to tease out the underlying meaning of the elements.
+
+
+
+### Macro-Typography
+
+Perhaps typographic scales? Certainly the relationship between different elements… headings, paragraphs and other semantic components, for example, blockquotes and footnotes… (Footnotes isn't really a mobile thing…)
+
+
+### Micro-Typography
+
+Detail in typography… Is that a bit much for this?
+
+
+
+
+
+
+
+Part 3: The Importance of a Clear Visual Hierarchy
 --------------------------------------------------
+
+When we’re in an airport, we find our way around by following the signage provided. This ‘wayfinding’ material allows us to navigate through the airport to find our desired destination.
+
+Designing an interface is similar. Our goal is to ensure the user can get from A to B (both within a page and between pages), ideally in the quickest way possible.
+
+Visual hierarchy is critical for this…
+
+
 
 We can create hierarchy in a number of ways: through the use of scale or weight; color or tone; or alignment. Hierarchy is important for taking complex, information-heavy material and ordering it so that the user isn’t overwhelmed by the interface.
 
@@ -195,8 +259,45 @@ In the watchOS app (right) – where space is even more premium – the same lis
 In both examples above – regardless of the context: desktop, mobile or wrist – the focus is on establishing a clear visual hierarchy to help users navigate the information presented.
 
 
+### CRAP
 
-Part 3: Iconic Layouts and Blockframes
+How our elements are arranged in relationship to each other is also important. As the number of elements in our interfaces increases, we can use the relationships between elements to organise our information architecture. We can organise our components in a variety of ways:
+
++ Repetition
++ Symmetry / Asymmetry
++ Groupings
++ Proximity
+
+PICTURE: Relationships (Repetition, Symmetry / Asymmetry, Groupings, proximity.
+
+**Caption: Caption goes here.**
+
+This content will draw from the book Universal Principles of Design, which is absolutely required reading. I’ll cover the principles of repetition, symmetry / asymmetry, groupings and proximity as they’re important for organising information in interfaces.
+
+ADD 'UNIVERSAL PRINCIPLES OF DESIGN' TO FURTHER READING.
+
+
+
+
+
+
+
+Part 4: Composition and Grid Systems
+------------------------------------
+
+LOTS OF MATEJ LATIN HERE
+
+We can also put some thought into how our interface elements are arranged compositionally in relation to the page. Different pages – depending upon context (desktop, mobile, wrist…) – will lend themselves to different compositions.
+
+In a desktop context, for example, we might use white space to draw the user’s eye towards critical information. In a wrist based context – where space is at a premium – we need to orchestrate our content in a different manner.
+
+There are whole books written about this. Don't re-invent the wheel, rather signpost readers to helpful content.
+
+
+
+
+
+Part 5: Iconic Layouts and Blockframes
 --------------------------------------
 
 The idea for 'Iconic Layouts' is drawn from April Grieman's 1990 book 'Hybrid Imagery: The Fusion of Technology and Graphic Design'. The world has moved on a great deal since 1990, but one idea that Grieman explored has stuck with me over three decades later…
@@ -221,37 +322,6 @@ By Jon Moore. (Also give Jon Moore credit for his UX Power Tools downloadables.)
 
 
 
-Part 4: Considering Relationships
----------------------------------
-
-How our elements are arranged in relationship to each other is also important. As the number of elements in our interfaces increases, we can use the relationships between elements to organise our information architecture. We can organise our components in a variety of ways:
-
-Repetition
-Symmetry / Asymmetry
-Groupings
-Proximity
-
-PICTURE: Relationships (Repetition, Symmetry / Asymmetry, Groupings, proximity.
-
-**Caption: Caption goes here.**
-
-This content will draw from the book Universal Principles of Design, which is absolutely required reading. I’ll cover the principles of repetition, symmetry / asymmetry, groupings and proximity as they’re important for organising information in interfaces.
-
-ADD 'UNIVERSAL PRINCIPLES OF DESIGN' TO FURTHER READING.
-
-
-
-Part 5: Composition and Grid Systems
-------------------------------------
-
-We can also put some thought into how our interface elements are arranged compositionally in relation to the page. Different pages – depending upon context (desktop, mobile, wrist…) – will lend themselves to different compositions.
-
-In a desktop context, for example, we might use white space to draw the user’s eye towards critical information. In a wrist based context – where space is at a premium – we need to orchestrate our content in a different manner.
-
-There are whole books written about this. Don't re-invent the wheel, rather signpost readers to helpful content.
-
-
-
 Further Reading
 ---------------
 
@@ -262,6 +332,24 @@ Usability.gov has an excellent overview of [Information Architecture Basics](#) 
 Nielsen Norman Group have a comprehensive overview on [Mental Models](#) that is well worth reading. Additionally, they have a wealth of articles exploring the topic of [information architecture](#). <!-- Move this to Chapter 1 if I cover Mental Models there. -->
 
 Finally, Steve Krug’s [Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability](#) is a timeless book that I’d highly recommend. Whilst focused on usability, it contains a wealth of insights that are applicable when considering information architecture.
+
+
+
+About the Author
+----------------
+
+![Christopher Murphy](images/overview/mr-murphy.png)
+
+### Christopher Murphy
+
+[@fehler](https://www.twitter.com/fehler)
+
+A designer, writer and speaker based in Belfast, Christopher mentors purpose-driven businesses, helping them to launch and thrive. He encourages small businesses to think big and he enables big businesses to think small.
+
+The author of numerous books, he is currently hard at work on his eighth, ‘Designing Delightful Experiences’, for Smashing Magazine and ninth, ‘Building Beautiful UIs’, for Adobe. Both are accompanied by a wealth of digital resources, and are drawn from Christopher’s 15+ years of experience as a design educator.
+
+As a design strategist he has worked with companies, large and small, to help drive innovation, drawing on his 25+ years of experience working with clients including: Adobe, EA and the BBC.
+
 
 
 ---

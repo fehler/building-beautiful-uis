@@ -16,6 +16,10 @@ Table of Contents
 + XXXX
 + XXXX
 
+Reachability needs to be included here…
+
+Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys…
+
 <!--
 
 Sections to consider:

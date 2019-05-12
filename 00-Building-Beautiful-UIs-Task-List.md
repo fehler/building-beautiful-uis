@@ -29,7 +29,7 @@ Chapter 1: Designing Interfaces
 Chapter 2: The Building Blocks of Interfaces
 --------------------------------------------
 
-+ [X] Draft Chapter Content (Text)
++ [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
 + [ ] XD Swipe Files
@@ -39,7 +39,7 @@ Chapter 2: The Building Blocks of Interfaces
 Chapter 3: Information Architecture
 --------------------------------------------
 
-+ [X] Draft Chapter Content (Text)
++ [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
 + [ ] XD Swipe Files
@@ -115,7 +115,7 @@ Chapter 8: Project X-Rays
 Chapter 9: Where to from here for UI?
 --------------------------------------------
 
-+ [X] Draft Chapter Content (Text)
++ [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
 + [ ] XD Swipe Files
@@ -131,7 +131,7 @@ Appendix: Master-Apprentice Exercises
 + [X] Keynote Example Files
 + [ ] XD Example Files
 + [ ] Permissions Sought
-    + [ ] Email: GOV.UK <!-- escmum@gmail.com -->
+    + [ ] Email: GOV.UK <!-- stephen.mccarthy@digital.cabinet-office.gov.uk -->
     + [ ] Email: Josh Worth <!-- http://www.joshworth.com/contact/ -->
     + [ ] Email: Flexibits <!-- https://flexibits.com/contact -->
     + [ ] Email: Cultured Code <!-- support@culturedcode.com -->

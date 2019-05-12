@@ -10,11 +10,25 @@ Chapter 4: Getting From A → B
 Table of Contents
 -----------------
 
-+ Part 1: Considering User Flows
++ Part 1: Considering User Flows <!-- Merge in Journey Mapping. -->
 + Part 2: Choices and Branches
 + Part 3: Page-to-Page and State-to-State
-+ Part 4: Customer Journey Mapping
++ Part 4: Journey Mapping
 + Part 5: Onboarding Users
+
+/*
+
+If I merge 'Considering User Flows' and 'Journey Mapping', I need to find something else for this chapter. But… I wonder if 'Journey Mapping' could be a separate part, immediately after 'Considering User Flows'.
+
+NN/g have a whole page (and a five step process) for journey maps. It might be substantial enough to merit a part. So:
+
++ Part 1: Considering User Flows
++ Part 2: Journey Mapping
++ Part 3: Choices and Branches
++ Part 4: Page-to-Page and State-to-State
++ Part 5: Onboarding Users
+
+*/
 
 
 
@@ -39,7 +53,17 @@ Part 1: Considering User Flows
 
 With our pages mapped out – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface.
 
-Any application, even the simplest, will feature flows through different screens and states and it’s important that we consider these flows from a user interface perspective. Our job as user interface designers is to ensure the routes through an application are clearly mapped out and signposted to our users.
+Any application, even the simplest, will feature flows through different screens (and, perhaps different states within those screens) and it’s important that we consider these flows from a user interface perspective.
+
+Our job as user interface designers is to ensure the routes through an application are clearly mapped out and signposted to our users. In order to provide clear directions we need to consider the 'journey' users undertake when using the applications or sites we're building.
+
+We can use journey maps to visualise the process that a user goes through in order to accomplish a specific goal. For example, my goal might be to buy a specific book at Amazon's website. At the simplest level, we can compile a series of user actions into a timeline. This might include:
+
++ I search for book;
++ Amazon returns a number of results;
++ I choose one of the options (a paperback, a hardback or an audiobook, for example);
++ I add it to my basket; and
++ I check out.
 
 There are many flow-charting applications you can use to map out your flows, equally you can build these flows (and create a clickable prototype) using Adobe XD. **Stress XD more. This should be the other way around (if we're mentioning alternatives to XD at all).**
 
@@ -62,24 +86,40 @@ A minor side-note on the power of paper… Briefly mention paper prototypes. The
 Part 2: Choices and Branches
 ----------------------------
 
-As you map out your project consider the choices that users will be presented with. For example, when building an application you might offer a sign up feature. As you design this, you’ll need to consider the different flows users will encounter.
+As you map out your project consider the choices that users will be presented with. For example, when building an application you might offer users the opportunity to sign up and create an account, enabling them to log in when they return.
 
-A new user – who hasn’t yet signed up – will need to be taken through a sign up flow (which you’ll need to consider and design).
+As you design this, you’ll need to consider the different flows users will encounter. This is where choices and branches come in. It helps to map out the user journey in diagrammatic form so you can map out the process and identify the different pages you'll need to build.
 
-Equally, a returning user – with an existing account – will need to be taken through a different flow that signs them back in.
+Returning to our sign up example…
 
-This simple example gives a glimpse of the potential complexities that we might encounter. Once you begin to map out other user interactions you’ll begin to paint a cleaner picture of your application from a bird’s eye perspective.
+A new user – who hasn’t yet signed up – will need to be taken through a sign up flow, which you’ll need to consider and design. A returning user – with an existing account – will need to be taken through a different flow that signs them back in. Your user might have forgotten their password and need to reset it, again this will need to be mapped out.
+
+This simple example gives a glimpse of the potential complexities that we might encounter. Once you begin to map out other user interactions you’ll begin to paint a clearer picture of your application from a bird’s eye perspective.
+
+IMG: Flowchart…
+
+CAPTION: This diagram is similar to one of the diagrams I used for the inspo for Gaby. Show that for now. Ideally show sign up and sign in. Maybe a detail of that on – say – Dribbble.
 
 It helps to create a standalone flow diagram – in addition to your prototype – to show your stakeholders how everything is organised from a high-level perspective.
 
-Both of these design deliverables serve different purposes: your flow diagram allows you to demonstrate your application’s overall structure; your prototype allows you to demonstrate how the interactions between different pages or states are handled.
+Both of these design deliverables serve different purposes:
 
-<!-- A note on **all* of the different design deliverables being orchestrated to provide an overview of the design. -->
++ Your flow diagram allows you to demonstrate your application’s overall structure;
+
++ Your prototype allows you to demonstrate how the interactions between different pages or states are handled.
+
+Increasingly when we present to clients we do so using a variety of different design artefacts. As the products we design become more and more complex, so too does the need to develop new ways of presenting our thinking.
+
+A prototype – built in XD, for example – is useful for providing an immersive feel of what you're building. You might augment this with other design deliverables, for example, a 'visual grammar' document that provides an insight into different aesthetic directions.
+
+As designers, we orchestrate these different design artefacts to present a rounded view of the product we're building.
 
 
 
 Part 3: Page-to-Page and State-to-State
 ---------------------------------------
+
+<!-- Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys… -->
 
 As applications become more complex, we’ve begun to develop different design patterns to handle different flows.
 
@@ -101,8 +141,8 @@ The 'add a calendar event' shot (Yellow Plus Button – REDRAW THIS) is a nice e
 
 
 
-Part 4: Customer Journey Mapping
---------------------------------
+Part 4: ????
+------------
 
 /* This is all about the bigger picture and considering how your application needs to be considered in relationship to the overall context in which it exists. It's about considering the customer journey and how it can be used to provide an understanding of the application before a user has even used it.
 

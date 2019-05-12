@@ -5,7 +5,7 @@ I’m super excited to finally share an initial draft of ‘Building Beautiful U
 
 I’ve road-tested everything on my second year Interaction Design students at Belfast School of Art, so everything is well and truly fit for purpose. (I’d like to thank my second year students – a talented cohort – for all of their feedback and help.)
 
-We’re hoping to publish ‘Building Beautiful UIs’ in May or June, 2019. Watch this space for details or [follow me](https://www.twitter.com/fehler) on Twitter to be notified of updates.
+We’re hoping to publish ‘Building Beautiful UIs’ in June or July, 2019. Watch this space for details or [follow me](https://www.twitter.com/fehler) on Twitter to be notified of updates.
 
 **This is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -44,6 +44,32 @@ In addition to the content above, there are two appendices containing numerous e
 + [Appendix 2: XD Swipe Files][A2]
 
 Lastly, in addition to the content above, I’m working on a UI Glossary, designed to unravel the wealth of terms you might encounter as a user interface designer. This is currently a work in progress, but it will be published in its finished form when the book launches.
+
+
+
+Who is this book for?
+---------------------
+
+This ‘course in a book’ is the first of a series of courses – published by Adobe – that are designed to help those who are either: new to user experience design, or who would like to enhance their existing skills.
+
+I’m designing these learning materials to help:
+
++ designers moving from the world of print design to screen design;
+
++ self-taught designers, who have had no formal design education; and
+
++ students who are currently in formal education at university.
+
+I’ve worked as a practising designer for over 25 years and I’ve taught design at Belfast School of Art for over 15 years. This course – and others I’ve begun to develop for this series – represent the culmination of everything I’ve learned over a 25+ year career. I hope others will find them useful.
+
+Future courses will cover a range of subjects broadly focused around user experience design. Courses in the pipeline include:
+
++ User Experience (UX) and Experience Design (XD)
++ Digital Product Design
++ Typography: Macro- and Micro-
++ Language – Verbal and Visual – in UX
+
+You can [follow me](https://www.twitter.com/fehler) on Twitter to be notified when new courses are announced.
 
 
 

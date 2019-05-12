@@ -30,11 +30,11 @@ Overview
 
 <!--
 
-The following should be overview content.
+The following should perhaps be moved to the book overview.
 
-The InVision lady kicks off with an explanation of the app she’s building and how that’s informed her book. I think we should do the same, but draw on:
+InVision’s author – Jane Portman – kicks off with an explanation of the app she’s building and how that’s informed her book. I think we should do the same, but draw on:
 
-1. My last semester of teaching (maybe link to an example student project?); and
+1. My last semester of teaching (maybe link to example student projects?); and
 2. My consulting work, in particular with Little Thunder.
 
 -->
@@ -45,15 +45,15 @@ I’m a firm believer in drawing my teaching materials from the real world. As a
 
 + teaching students on my undergraduate Interaction Design programme.
 
-Everything in this book (and its accompanying materials) has been tried and tested. I’ve drawn the examples from research I’ve undertaken, live projects I’ve worked on and – where appropriate – samples of my students’ work.
+Everything in this book (and its accompanying materials) has been tried and tested. I’ve drawn the examples from research I’ve undertaken, client projects I’ve worked on and – where appropriate – samples of my students’ work.
 
-I’ve included my students’ work, because I’m proud of the work they’re doing and – equally importantly - these are relatively young students and they’ve come a long way with their User Interface (UI) design in a relatively short space of time. I hope their work inspires you to do similarly impressive work!
+I’ve included my students’ work, because I’m proud of the work they’re doing and – equally importantly - these are relatively young students and they’ve come a long way with their User Interface (UI) design in a relatively short space of time. I hope their work inspires you to do similarly impressive work.
 
-In this first chapter I’ll set the scene, providing a little history and context. If you’re up-to-speed on the history of user interface design, and have an understanding of the importance of metaphors and mental models, you might wish to fast-forward to Chapter 2 where I get into hands-on practicalities.
+In this first chapter I’ll set the scene, providing a little history and context. If you’re up-to-speed on the history of user interface design, and have an understanding of the importance of metaphors and mental models, you might wish to fast-forward to [Chapter 2](#) where I get into hands-on practicalities.
 
 UI design stretches back to the early GUIs of the 70s and the emergence of computers as devices that were available beyond the confines of universities and big businesses.
 
-The rise of the personal computer – a revolutionary idea in its time – brought with it the need for a way to interact with computers that was as easy, and friendly, as possible.
+The rise of the personal computer – a revolutionary idea in its time – brought with it the need for a way to interact with computers that was as easy and friendly as possible.
 
 This intense period in computing history saw the emergence of the field of Human-Computer Interaction (HCI), focused on the relationship between the design of computer technology and the interaction between humans (users) and computers.
 
@@ -82,7 +82,7 @@ This shift away from the abstraction, one-step-removed, of a mouse towards physi
 
 Understanding this history might seem like a distraction, but spending a little time familiarising yourself with it helps you understand timeless principles, **still relevant today**, like:
 
-+ Information Architecture (IA)
++ Information Architecture
 + Human-Computer Interaction
 + The Use of Metaphor in UI
 + Mental Models
@@ -98,20 +98,12 @@ Of course user interfaces have come a long, long way since the early 70s (TK) an
 + Tablet → Smartphone (Finger)
 + Wrist (Finger)
 
-If conversational and voice interfaces interest you, have no fear, I have you covered. I’ll explore where interfaces are heading in Chapter 9. So I’ll be covering all of the bases!
+If conversational and voice interfaces interest you, have no fear, I have you covered. I’ll explore where interfaces are heading in Chapter 9. So I’ll be covering all of the bases.
 
 
 
 Part 2: Designing Human Interfaces
 ----------------------------------
-
-<!--
-
-I’ve removed the section titled ‘A Little History’. You asked: “Do we want to go this far back.” (To Xerox, etc.) My answer would be a resounding: “Yes!”
-
-There’s a great deal – desktops and metaphors – that was imagined up in the 70s that’s every bit as relevant today. Many self-taught designers don’t know this history or these principles an I believe our role is to uncover this for them.
-
--->
 
 The trouble with the term ‘user interface’ is that it abstracts humans (messy, unpredictable and… human!) into an anonymous category of ‘users’. In fact these users are all different, above all, they’re all **humans**.
 
@@ -130,15 +122,15 @@ When you’re designing a UI, bear in mind that the user at the receiving end of
 
 Humans are trying to achieve tasks – perhaps to book a flight, or to buy a book – while juggling other human tasks, for example, feeding a baby. Understanding this is critical. The best user interfaces get out of the way and help you to get things done with the minimum of fuss.
 
-By focusing on first principles you’ll improve your UI:
+By focusing on first principles you’ll improve your UI by:
 
-+ get out of the way;
-+ aim for maximum functionality; and
-+ help your users (preferably minimising opportunities for error).
++ getting out of the user’s way;
++ focusing on maximum functionality; and
++ helping your users (preferably minimising opportunities for error).
 
-Few, if any, users will come to your interface without prior knowledge, as such, it’s important to understand ‘received knowledge’ that your users bring to your interface. We all use interfaces day in, day out and – as we use them – we learn conventions, standardised approaches towards particular problems. Before we get into the fundamental of designing UIs, it’s worth mentioning two important concepts:
+Few, if any, users will come to your interface without prior knowledge (of other interfaces), as such, it’s important to understand ‘received knowledge’ that your users bring to your interface. We all use interfaces day in, day out and – as we use them – we learn conventions, standardised approaches towards particular problems. Before we get into the fundamental of designing UIs, it’s worth mentioning two important concepts:
 
-+ Metaphor
++ Metaphors; and
 + Mental Models
 
 I’ll explore these in the next two sections. Unless you’re deeply aware of these principles, **I’d strongly recommend you resist the urge to fast-forward to Chapter 2**. Every interface you design will benefit from an understanding of metaphors and mental models so let’s dive in and explore them.
@@ -203,7 +195,15 @@ One of the biggest problems we run into when designing user interfaces is **the 
 
 When considering your information architecture, it helps to consider how your interface relates to others’ interfaces. In short: **Users expect sites and applications to act and work alike.** Introducing new models can lead to confusion on the part of the user, resulting in an interface that doesn’t work.
 
-Regardless of what we’re designing, we can embrace fundamental principles of design to ensure that our interfaces benefit from a clear visual hierarchy, ensuring complex information is easy to understand and navigate through, as I’ll explore this in Chapter 3.
+Regardless of what we’re designing, we can embrace fundamental principles of design to ensure that our interfaces benefit from a clear visual hierarchy, ensuring complex information is easy to understand and navigate through, as I’ll explore this in [Chapter 3](#).
+
+<!--
+
+This section feels a little short in comparison to the others. Look at NN/g:
+
+https://www.nngroup.com/articles/mental-models/
+
+-->
 
 
 
@@ -214,21 +214,23 @@ Fortunately there are a wealth of resources available to us that can inform our 
 
 These provide a useful overview of designing interfaces at a high level and are well worth exploring before we get into analysing how interfaces are built in Chapter 2.
 
-As I noted earlier, I think the fact that Apple provides human interface guidelines – and not user interface guidelines – is an important distinction. We’re seeing a return to terms like human-centred design (as opposed to, say, user experience design) and Apple’s HIG naming is prescient.
+As I noted earlier, I think the fact that Apple provides human interface guidelines – and not user interface guidelines – is an important distinction. We’re seeing a return to terms like human-centred design (as opposed to, say, user experience design) and Apple’s [Human Interface Guidelines](#) naming is prescient.
 
-Apple is treading a bit of a tightrope, clearly they don’t want to lose sight of their heritage (and their first set of groundbreaking Human Interface Guidelines), but – as you’ll see in the copy on their page – they use both terms human interface and user interface.
+Apple is treading a bit of a tightrope, clearly they don’t want to lose sight of their heritage (and their first set of groundbreaking Human Interface Guidelines), but – as you’ll see in the copy on their page – they use both terms: **human** interface and **user** interface.
 
 ![Apple’s Human Interface Guidelines](images/ch1/apple-human-interface-guidelines.png)
 
 Caption: Apple’s Human Interface Guidelines provide in-depth information and resources for designing interfaces that work on Apple’s various operating systems (macOS, iOs and watchOS).
 
-Developed in 2014, Google’s Material Design expanding on the ‘card’ motifs that debuted in Google Now. Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
+Developed in 2014, Google’s [Material Design] expanded on the ‘card’ motifs that debuted in Google Now. Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
+
+<!-- Check the above paragraph, it feels like it’s from Google’s Material Design copy. -->
 
 ![Google’s Material Design](images/ch1/google-material-design.png)
 
 Caption: Google’s Material Design guidelines provide in-depth information and resources for designing interfaces that work.
 
-IBM’s Living Language – designed to be a shared vocabulary for design – represents IBM’s move into a design-driven culture and is well worth exploring. Currently on v2, IBM are also maintaining an archive of past versions, which offer a great deal of practical advice for designing user interfaces.
+IBM’s [Living Language](#) – designed to be a shared vocabulary for design – represents IBM’s move into a design-driven culture and is well worth exploring. Currently on v2, IBM are also maintaining an archive of past versions, which offer a great deal of practical advice for designing user interfaces.
 
 As IBM put it in their Living Language: “Focus on users’ goals. Design tools that lead people to actionable insights. Be proactive, always anticipating users’ next moves and helping them prepare for change.”
 
@@ -237,7 +239,7 @@ As IBM put it in their Living Language: “Focus on users’ goals. Design tools
 Caption: IBM’s Living Language is described as, “A shared vocabulary for design.” It represents IBM’s move into a design-driven culture and is well worth exploring.
 
 
-Lastly, styleguides.io is a very useful roundup of other approaches to developing user interface libraries and style guides. It’s worth bookmarking and offers an insight into how a wide range of companies are moving towards the development of visually consistent user interface libraries.
+Lastly, [styleguides.io](#) is a very useful roundup of other approaches to developing user interface libraries and style guides. It’s worth bookmarking and offers an insight into how a wide range of companies are moving towards the development of visually consistent user interface libraries.
 
 ![styleguides.io](images/ch1/styleguides-io.png)
 
@@ -255,6 +257,24 @@ I’d strongly suggest starting by exploring Apple’s [Human Interface Guidelin
 The Interaction Design Foundation have a useful overview of UI design titled [What is User Interface (UI) Design?](https://www.interaction-design.org/literature/topics/ui-design). It’s well worth a read for a high-level perspective.
 
 Lastly, usability.gov have a similarly high-level introduction to [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html). I’d strongly recommend exploring all of usability.gov, an initiative by the US government to champion user experience (UX) and user interface (UI) best practices.
+
+
+
+About the Author
+----------------
+
+![Christopher Murphy](images/overview/mr-murphy.png)
+
+### Christopher Murphy
+
+[@fehler](https://www.twitter.com/fehler)
+
+A designer, writer and speaker based in Belfast, Christopher mentors purpose-driven businesses, helping them to launch and thrive. He encourages small businesses to think big and he enables big businesses to think small.
+
+The author of numerous books, he is currently hard at work on his eighth, ‘Designing Delightful Experiences’, for Smashing Magazine and ninth, ‘Building Beautiful UIs’, for Adobe. Both are accompanied by a wealth of digital resources, and are drawn from Christopher’s 15+ years of experience as a design educator.
+
+As a design strategist he has worked with companies, large and small, to help drive innovation, drawing on his 25+ years of experience working with clients including: Adobe, EA and the BBC.
+
 
 
 ---
