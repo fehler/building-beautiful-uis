@@ -29,7 +29,7 @@ Summary
 
 In this chapter **I’ll introduce the fundamental building blocks that interfaces are made from**: Objects, Elements, Components, Pages and Flows. **I’ll break apart a series of interface elements** – which I’ll also provide as swipe files for reference – **and I’ll analyse how everything we use in an interface is constructed from simple building blocks**.
 
-I’ve created a series of supporting files – PDF scratch files and Adobe XD artboards – to accompany this chapter (and many of the other chapters). These walk through the process for more visual learners and can be used alongside the book.
+I’ve created a series of supporting files – PDF scratch files and Adobe XD artboards – to accompany this chapter (and many of the other chapters). **These supporting files walk through the process for more visual learners and can be used alongside the book.**
 
 
 
@@ -42,9 +42,9 @@ In this chapter, ‘The Building Blocks of Interfaces’, I’ll introduce the i
 
 In Chapter 3, ‘Information Architecture’, **I’ll explore how we can combine these elements to create components, out of which we build pages**. These components include familiar design patterns, including ‘cards’, **popularised by Google’s [Material Design](#) principles**. Lastly – as the chapter’s title promises – **I’ll explore the principles of information architecture**.
 
-In Chapter 4, ‘Getting From A → B’, **I’ll tie everything together by introducing the idea of ‘journey mapping’ and ‘user flows’**. By focusing on how pages are connected together I’ll explore the last piece of the user interface jigsaw: considering how users move through an interface, getting from A → B.
+In Chapter 4, ‘Getting From A → B’, **I’ll tie everything together by introducing the idea of ‘journey mapping’ and ‘user flows’**. By focusing on how pages are connected together I’ll explore the last piece of the user interface jigsaw: **considering how users move through an interface**, getting from A → B.
 
-With the context mapped out, let’s get down to business and explore the fundamental building blocks of user interfaces: elements.
+With the Chapter 2-4 context mapped out, let’s get down to business and explore the fundamental building blocks of user interfaces: elements.
 
 
 
@@ -56,44 +56,47 @@ Part 1: Interfaces Are Like LEGO
 **CAPTION: With a mountain of LEGO bricks, we can build virtually anything. We’re limited only by our imagination. User interfaces are the same: Once we’ve created some basic elements – buttons, toggles and tags, for example – we can build any UI we desire.**
 
 
-When you’re starting on your journey as a user interface (UI) designer it can be intimidating trying to work out how different interfaces are built.
+When you’re starting on your journey as a user interface (UI) designer **it can be intimidating trying to work out how different interfaces are built**.
 
-Take any interface, however, and you’ll see that even the most complicated of interfaces is built up of simpler elements and components. By starting with these elements and components you can quickly develop an understanding of how UIs are constructed.
+Take any interface, however, and you’ll see that **even the most complicated of interfaces is built up of simpler elements and components**. By starting with these elements and components you can quickly develop an understanding of how UIs are constructed.
 
-Working with my students at Belfast School of Art, I encourage them to take existing interfaces and break them apart into their constituent parts. By using a [‘Master-Apprentice‘](https://github.com/fehler/building-beautiful-uis/blob/master/10-Appendix-1-Master-Apprentice-Exercises.md) approach – analysing others’ interfaces and rebuilding them – you not only learn about how interfaces are constructed, but you also begin to understand the principles that lie behind good interfaces.
+Working with my students at Belfast School of Art, I encourage them to **take existing interfaces and break them down into their constituent parts**. By using a [‘Master-Apprentice‘](https://github.com/fehler/building-beautiful-uis/blob/master/10-Appendix-1-Master-Apprentice-Exercises.md) approach – analysing others’ interfaces and rebuilding them – **you not only learn about how interfaces are constructed, but you also begin to understand the principles that lie behind good interfaces**.
 
 
 ### The Master-Apprentice Model
 
-The Master-Apprentice model stretches back to the days of painters like [Rembrandt](https://oldmasters.academy/old-masters-academy-art-lessons/who-were-rembrandts-teachers-and-students) and I believe it’s worth revisiting. By focusing on rebuilding others’ interfaces to start with, you learn to ‘train your eye’. This approach also helps you to develop the techniques you need to master before putting them into practice in your own creative work.
+The Master-Apprentice model stretches back to the days of painters like [Rembrandt](https://oldmasters.academy/old-masters-academy-art-lessons/who-were-rembrandts-teachers-and-students) and I believe it’s worth revisiting. **By focusing on rebuilding others’ interfaces to start with, you learn to ‘train your eye’.** This approach also helps you to develop the techniques you need to master before putting them into practice in your own creative work.
 
-In the 17th century, apprentices’s education was undertaken for a minimum of 2-3 years, and – at times – for as many as 7 years. A two year apprenticeship was considered to be the minimum, with guild rules specifying that an apprentice couldn’t leave their master before the term ended. An apprenticeship was an investment, with a total cost of 600-700 guilders, which could buy a small house at that time.
+In the 17th century, apprentices’s education was undertaken for a minimum of 2-3 years, and – at times – for as many as seven years. A two year apprenticeship was considered to be the minimum, with guild rules dictating that an apprentice couldn’t leave their master before their term had ended. An apprenticeship was an investment, with a total cost of 600-700 guilders, which could buy a small house at that time.
 
-The good news is that – in our connected world underpinned by the web – you can embark upon a ‘virtual apprenticeship’ at relatively little cost. All you need is time and a willingness to work hard and learn. [Dribbble](https://dribbble.com/search?q=UI) is a good place to start. Search for UI, choose something you like and rebuild it.
+The good news is that – in our connected world underpinned by the web – **you can embark upon a ‘virtual apprenticeship’ at relatively little cost**. All you need is time and a willingness to work hard and learn. [Dribbble](https://dribbble.com/search?q=UI) is a good place to start. **Search for UI, choose something you like and rebuild it.**
+
 
 ![Dan Gold Master-Apprentice](images/ch2/dan-gold-master-apprentice.png)
 
 **CAPTION: Dan Gold, a second year student on my Interaction Design programme at Belfast School of Art, created the above Master-Apprentice exercise. On the left is the original, by Nadia Ivanova, on the right is Dan’s exercise.**
 
 
-To help you on your journey I’ve provided a series of ‘Master-Apprentice’ examples in addition to the example above, so you can see how these exercises work.
+To help you on your learning journey **I’ve provided a series of ‘Master-Apprentice’ examples** in addition to the example above, so you can see how these exercises work.
 
-I’ve provided examples of desktop, mobile (smartphone, tablet) and wrist UIs so you can begin to develop an understanding across a range of contexts. I created these myself so that I could develop my skills. I might be fast approaching 50 years old, but I’m still learning!
+I’ve provided examples of desktop, mobile (smartphone, tablet) and wrist UIs so **you can begin to develop an understanding across a range of contexts**. I created these myself so that I could develop my skills. I might be fast approaching 50 years old, but I’m still learning!
 
 
 ### LEGO FTW!
 
-One of the reasons that LEGO is such a much-loved product is the fact that from a series of individual building blocks you can make almost anything you put your mind to. You’re limited only by your imagination.
+One of the reasons that LEGO is such a much-loved product is the fact that **from a series of individual building blocks you can make almost anything you put your mind to**. You’re limited only by your imagination.
 
-Just like LEGO blocks can be combined to create relatively complicated constructions, so, too, complex interfaces are created from relatively simple elements.
+Just like LEGO blocks can be combined to create relatively complicated constructions, so, too, **complex interfaces are created from relatively simple elements**.
 
-Break apart any page – whether it’s desktop-, mobile- or wrist-based – and you’ll see that it’s created from a series of elements and components. Mastering how to draw these different elements will put you in a position to create anything you need.
+Break apart any page – whether it’s desktop-, mobile- or wrist-based – and you’ll see that it’s created from a series of elements and components. **Mastering how to draw these different elements and components will put you in a position to create anything your UI requires.**
 
-The temptation when you’re starting out is to dive in at the deep end and try to build something all-encompassing and complicated. This isn’t an approach I’d recommend. It can quickly lead to frustration because you’ve undertaken a challenge that’s far too complicated.
+The temptation when you’re starting out is to dive in at the deep end and try to build something all-encompassing and complicated. This isn’t an approach I’d recommend. **Taking on too big a challenge can quickly lead to frustration because you’ve undertaken a task that’s far too complicated.**
 
-A far better approach – one that LEGO also uses – is to start with something simple and progressively add complexity. Practice makes perfect and as Mr Miyagi – from the film [The Karate Kid](https://www.youtube.com/watch?v=fULNUr0rvEc) says: “Wax on! Wax off!”
+A far better approach – one that LEGO also uses – is to **start with something simple and progressively add complexity**. Practice makes perfect and as Mr Miyagi – from the film [The Karate Kid](https://www.youtube.com/watch?v=fULNUr0rvEc) – says: “Wax on! Wax off!” If you haven’t seen The Karate Kid: firstly, you should (the original, not the terrible remake); secondly, Mr Miyagi’s sage advice is simple: practice, practice, practice.
 
-With that out of the way, let’s take a look at the different constituent parts that comprise an interface and get started.
+In short: **Start with the fundamentals and the rest falls into place.**
+
+With that out of the way, let’s take a look at the different constituent parts that comprise an interface and begin to unravel them.
 
 
 
