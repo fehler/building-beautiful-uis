@@ -1,13 +1,19 @@
 Building Beautiful UIs
 ======================
 
-I’m super excited to finally share an initial draft of ‘Building Beautiful UIs’. I’ve been working on this ‘course in a book’ for a few months now. What started life as a book, has now expanded to include a wealth of additional extras that I’ll be giving away for free in partnership with the Adobe XD team.
+<!-- 1,454 Words -->
+
+I’m super excited to finally share an initial draft of ‘Building Beautiful UIs’. I’ve been working on this ‘course in a book’ for a few months now and it’s slowly, but surely coming together.
+
+What started life as a five chapter book, has now expanded to become ten chapters, double the size. In addition to the book, I’ve also created a wealth of additional extras that I’ll be giving away for free in partnership with the Adobe XD team.
+
+Essentially this is a classroom in downloadable format designed to get you up-and-running as a user interface designer, even if you have zero experience.
 
 I’ve road-tested everything on my second year Interaction Design students at Belfast School of Art, so everything is well and truly fit for purpose. (I’d like to thank my second year students – a talented cohort – for all of their feedback and help.)
 
 We’re hoping to publish ‘Building Beautiful UIs’ in June or July, 2019. Watch this space for details or [follow me](https://www.twitter.com/fehler) on Twitter to be notified of updates.
 
-**This is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+**A small, but important point: This is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
 
 
@@ -24,7 +30,7 @@ Use the password:
 
 In addition to the XD Artboards I’ll be providing a series of ‘Master-Apprentice’ exercises. These demonstrate how I learn about user interface design by analysing, deconstructing and reconstructing others’ work.
 
-I use this Master-Apprentice approach in my teaching at Belfast School of Art, and the students who undertake the exercises invariably end up learning much faster and producing more refined work as a consequence. I hope you find the examples useful.
+I use this Master-Apprentice approach in my teaching at Belfast School of Art – as I explain in Chapter 2 – and the students who undertake the exercises invariably end up learning much faster and producing more refined work as a consequence. I hope you find the examples that I’ve provided useful.
 
 The content of the book is structured as follows:
 
@@ -50,7 +56,7 @@ Lastly, in addition to the content above, I’m working on a UI Glossary, design
 Who is this book for?
 ---------------------
 
-This ‘course in a book’ is the first of a series of courses – published by Adobe – that are designed to help those who are either: new to user experience design, or who would like to enhance their existing skills.
+This ‘course in a book’ is the first of a series of courses – published by the Adobe XD team – that are designed to help those who are either: new to user experience design, or who would like to develop and enhance their existing skills.
 
 I’m designing these learning materials to help:
 
@@ -67,7 +73,6 @@ Future courses will cover a range of subjects broadly focused around user experi
 + User Experience (UX) and Experience Design (XD)
 + Digital Product Design
 + Typography: Macro- and Micro-
-+ Language – Verbal and Visual – in UX
 
 You can [follow me](https://www.twitter.com/fehler) on Twitter to be notified when new courses are announced.
 

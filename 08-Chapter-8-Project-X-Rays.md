@@ -1,6 +1,8 @@
 Chapter 8: Project X-Rays
 =========================
 
+<!-- XXXX Words -->
+
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
 

@@ -1,9 +1,9 @@
 Chapter 10: UI Glossary
 =======================
 
+
+
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished – in fact this glossary isn’t even started – but I hope it provides some value as I finalise all of the chapter content.**
-
-
 
 This is the glossary that will accompany the book. This is an initial scratch file gathering terms I’ll be defining, I’ll be adding draft content shortly.
 

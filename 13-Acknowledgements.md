@@ -13,10 +13,21 @@ Amanda Gross Tuft, who commissioned this project, has kept me on my toes through
 
 Dan Gold – one of my second year Interaction Design students – very kindly pitched in and built a website for the book while I was working on it. This allowed me to share it as I finished chapters. Dan’s a very talented student and his support was very much appreciated.
 
+/*
+
+Also:
+
++ My colleagues at Belfast School of Art: Dr Kyle Boyd, who kindly edited the book; and Paul McCormack, who offered me countless second opinions, drawn from his teaching practice.
++ My studiomates Tim Potter and Gaby Muldoon at Little Thunder, who are always on hand with thoughts and insights.
+
+*/
+
 Finally, I’d like to thank the Adobe XD Slack and Discord community members – in particular Howard Pinsky and Gus Martin at Adobe – who have pitched in with ideas and helped to improve the materials. Thank you to everyone who contributed with their thoughts and encouragement.
 
 
+
 ---
+
 
 
 I hope you find this resource useful. I’m also currently working on a book for the fine folks at [Smashing Magazine](https://www.smashingmagazine.com) – ‘Designing Delightful Experiences’ – which focuses on the user experience design process from start to finish. It will be published in late 2019.
