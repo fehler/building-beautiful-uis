@@ -1,20 +1,34 @@
 Chapter 9: Where to from here for UI?
 =====================================
 
-<!-- XXXX Words -->
+<!-- 1,414 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
+/*
+
+Look at my messages to Neil Cybart. There's thinking in those tweets that is relevant here. I could also copy and paste some of it, e.g. where I refer to AR and future products like AR Apple Glasses, etc.. Think about Hololens, too, it's not all Apple.
+
+Also, think about what's wrong with 'Her'. For one, if everyone's talking to an interface there will be problems. We're already running into some of those problems now with the emergence of smart speakers…
+
+Accidentally triggering a voice assistant, Alexa, Siri…
+
+Uttering a phrase like, "Hey Google!" might trigger in everyday conversation. This is already happening, as noted above. We'll need to start to consider ways around this.
+
+All of that said, as we move into an era defined by wearables – AirPods, etc. – we need to consider how we interact with these kinds of devices when there's no visual interface, as such.
+
+*/
 
 
 
 Table of Contents
 -----------------
 
-+ Where next for UI?
-+ Conversational User Interfaces
-+ Voice Interfaces
-+ An Augmented Future
-+ Heads Up Displays
++ [Section 1: Where next for UI?](#)
++ [Section 2: Conversational User Interfaces](#)
++ [Section 3: Voice Interfaces](#)
++ [Section 4: An Augmented Future](#)
++ [Section 5: Heads Up Displays (HUDs)](#)
 
 
 
@@ -28,7 +42,15 @@ Summary
 Overview
 --------
 
-Here I should reiterate that Adobe XD can be used for voice prototyping and has been built with this in mind. This is an important point to stress. There are a few articles from the Adobe Blog that I could point readers towards.
+/* When I explore conversational UIs, stress that a voice UI is a (for the most part) a conversational UI, but a conversational UI might not necessarily be driven by voice. It could be driven via SMS or other text messaging platforms. Don't conflate the two. */
+
+In this chapter I should emphasise that Adobe XD can be used for conversational <!-- Voice? Check. --> prototyping and has powerful tools that allow you to build non-visual UIs quickly.
+
+**This is an important point to stress. There are a few articles from the Adobe Blog that I could point readers towards.**
+
+It would be nice to build an example of a conversational UI to include in the book's supporting material.
+
+Next point, see above… Don't repeat myself.
 
 Just because a UI is conversational (whether that's verbal, or a more 'text-like' interface) doesn't mean everything we've covered is irrelevant. We'll need to, for example, consider how a user gets from A to B and that's every bit as important in a conversational UI.
 
@@ -36,8 +58,8 @@ Stress the need for flow diagrams when designing for conversational interfaces. 
 
 
 
-Part 1: Where next for UI?
---------------------------
+Section 1: Where next for UI?
+-----------------------------
 
 This section's all about the exciting developments that lie ahead of us. Conversational interfaces are – to a high degree – 'dissolving' what have been until very recently, largely visual interfaces.
 
@@ -59,17 +81,40 @@ In this section I'll paint a broad brushstrokes picture of where UI design is he
 
 
 
-Part 2: Conversational User Interfaces
---------------------------------------
+Section 2: Conversational User Interfaces
+-----------------------------------------
+
+Look at my responses to Neil Cybart on Twitter (14 May) and stress that 'voice interfaces' and 'conversational interfaces' are often used interchangeably and they are not the same thing. Expand on this and hammer home the difference…
+
+Also talk about the emergence of chatbots and how these might be used to lighten the load on visual interfaces. For example, if I'm using a help system, I might answer some questions – using a conversation UI – and then be channeled to a specific visual UI.
+
+I just discovered this patent filing by Google that's worth reading:
+
+https://patents.google.com/patent/US20100205180A1/en
+
+Look at images 1, 3 and 5.
+
+Image 5 especially:
+
+> "I want to change my password."
+
+The abstract is confusing:
+
+> Linguistic analysis is used to identify queries that use different natural language formations to request similar information. Common intent categories are identified for the queries requesting similar information. Intent responses can then be provided that are associated with the identified intent categories. An intent management tool can be used for identifying new intent categories, identifying obsolete intent categories, or refining existing intent categories.
+
+Simplify this. There's good content here, it's just written in patent language.
 
 The emphasis here is on conversational UIs, with a focus on text-driven interfaces. I'll stress the importance of flows, as covered in Chapter 4, and their role in underpinning how a conversational interface is organised.
 
 Show the lovely (Dan Zomboni?) portfolio site that's conversationally-driven. Break it apart and explain how it's working.
 
+Also, bring in XD. There's a lot of interesting work being done here.
 
 
-Part 3: Voice Interfaces
-------------------------
+
+Section 3: Voice Interfaces
+---------------------------
+
 
 The emphasis in this section is on voice interfaces, with an emphasis on devices like Amazon's Echo, Google's Home and Apple's Homepod and underlying Siri technology.
 
@@ -81,19 +126,29 @@ Talk about AirPods and, "Hello, Siri." Explain how this changes things because t
 
 
 
-Part 4: An Augmented Future
----------------------------
+Section 4: An Augmented Future
+------------------------------
 
 This section's all about the rise of Augmented Reality (AR) and the opportunities that it offers. The section should also touch on – and distinguish between – AR and VR experiences.
 
 Apple is leading the way here with its ARKit tools. Similarly, Microsoft's Hololens product is providing a glimpse of what's possible in an augmented future.
 
+There's clearly a lot of exciting opportunities ahead and it's never been a more exciting – if somewhat nerve-wracking! – time to be a UI designer.
 
 
-Part 5: Heads Up Displays
--------------------------
+
+Section 5: Heads Up Displays
+----------------------------
 
 This might be rolled into the preceding section. Above all, the point I'm making is that Heads Up Displays (HUDs) are transforming the interaction paradigms of computing.
+
+HUDs have been around for a while – talk about fighter pilots, for example – and we can learn from the lessons of the past. Clearly there are opportunities ahead where the 'screen' that we're interacting with (and designing for) isn't necessarily a 'traditional' screen: a desktop-, mobile- or wrist-based screen.
+
+Car windscreens are increasingly being co-opted as areas rich in real estate that could be repurposed. Companies like Tesla are re-imagining what a dashboard might look like.
+
+IMG: Tesla iPad 'dashboard'.
+
+
 
 
 

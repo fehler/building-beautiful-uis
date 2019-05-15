@@ -1,36 +1,20 @@
 Chapter 4: Getting From A → B
 =============================
 
-<!-- 1,725 Words -->
+<!-- 2,088 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
-
-<!-- At the bottom of this file there's extra scratch content that needs to be folded in. -->
 
 
 
 Table of Contents
 -----------------
 
-+ Part 1: Considering User Flows <!-- Merge in Journey Mapping. -->
-+ Part 2: Choices and Branches
-+ Part 3: Page-to-Page and State-to-State
-+ Part 4: Journey Mapping
-+ Part 5: Onboarding Users
-
-/*
-
-If I merge 'Considering User Flows' and 'Journey Mapping', I need to find something else for this chapter. But… I wonder if 'Journey Mapping' could be a separate part, immediately after 'Considering User Flows'.
-
-NN/g have a whole page (and a five step process) for journey maps. It might be substantial enough to merit a part. So:
-
-+ Part 1: Considering User Flows
-+ Part 2: Journey Mapping
-+ Part 3: Choices and Branches
-+ Part 4: Page-to-Page and State-to-State
-+ Part 5: Onboarding Users
-
-*/
++ [Section 1: Considering User Flows](#)
++ [Section 2: Choices and Branches](#)
++ [Section 3: Page-to-Page and State-to-State](#)
++ [Section 4: Onboarding Users](#)
++ [Section 5: Empty States](#)
 
 
 
@@ -48,16 +32,41 @@ Overview goes here…
 
 
 
-Part 1: Considering User Flows
-------------------------------
+Section 1: Considering User Flows
+---------------------------------
 
-<!-- This is all about getting from A-Z. There are many routes through content. Our role is to signpost and help the user. -->
+<!--
+
+This is all about getting from A-Z. There are many routes through content. Our role is to signpost and help the user. I've merged journey mapping in here. It should be a sub-section.
+
+This section's more about a high level of flows, introducing the idea that we flow through apps or sites. The next section explains the idea of choices and branches, e.g.
+
++ Sign Up
++ Sign Up
++ Forgot Username / Password
++ Etc.
+
+-->
 
 With our pages mapped out – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface.
 
 Any application, even the simplest, will feature flows through different screens (and, perhaps different states within those screens) and it’s important that we consider these flows from a user interface perspective.
 
 Our job as user interface designers is to ensure the routes through an application are clearly mapped out and signposted to our users. In order to provide clear directions we need to consider the 'journey' users undertake when using the applications or sites we're building.
+
+
+### Journey Maps
+
+<!--
+
+NN/g have a whole page (and a five step process) for journey maps. It might be substantial enough to merit a part.
+
+Maybe sub-sections on:
+
++ Journey Maps
++ User Flows
+
+-->
 
 We can use journey maps to visualise the process that a user goes through in order to accomplish a specific goal. For example, my goal might be to buy a specific book at Amazon's website. At the simplest level, we can compile a series of user actions into a timeline. This might include:
 
@@ -85,8 +94,8 @@ A minor side-note on the power of paper… Briefly mention paper prototypes. The
 
 
 
-Part 2: Choices and Branches
-----------------------------
+Section 2: Choices and Branches
+-------------------------------
 
 As you map out your project consider the choices that users will be presented with. For example, when building an application you might offer users the opportunity to sign up and create an account, enabling them to log in when they return.
 
@@ -118,8 +127,8 @@ As designers, we orchestrate these different design artefacts to present a round
 
 
 
-Part 3: Page-to-Page and State-to-State
----------------------------------------
+Section 3: Page-to-Page and State-to-State
+------------------------------------------
 
 <!-- Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys… -->
 
@@ -142,22 +151,88 @@ Increasingly pages are comprised of multiple **states** that we need to consider
 The 'add a calendar event' shot (Yellow Plus Button – REDRAW THIS) is a nice example. The user is interacting with the page and the page is responding to their actions. This needs to be considered also, as much as a page to page interaction.
 
 
+### State-to-State
 
-Part 4: ????
-------------
-
-/* This is all about the bigger picture and considering how your application needs to be considered in relationship to the overall context in which it exists. It's about considering the customer journey and how it can be used to provide an understanding of the application before a user has even used it.
-
-This should cover, for example how you build a site that tells the story of a product… It should also cover the importance of onboarding.
-
-Onboarding might be a section in itself, because it's about telling the story of an application before the user actually starts using it. Show some examples, e.g. Things 3, which is nicely considered. */
+Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys…
 
 
 
-Part 5: Onboarding Users
-------------------------
+### Modals
+
+Overlays and modals merit a section in themselves. Users will undoubtedly have run into them.
+
+Explain how they work and how they should be designed. By overlaying the content – and greying out what's behind (but **leaving it there**) – users understand that this is a page within a page.
+
+We don't necessarily need to go to another page to do something. We might handle it **on a page itself**. This is more efficient and gives the user a sense of where they are in the flow.
+
+Equally, it draws on users' **existing mental models**, so it's a pattern that doesn't need to be explained.
+
+**This might be the section to include scrims and overlays…**
+
+
+
+
+
+Section 4: Onboarding Users
+---------------------------
+
+This section stresses the importance of onboarding. <!-- I think I should mention CTAs in the desktop or mobile chapters, but mention it here? -->
+
+Before we even get to the onboarding part of the journey, the user needs to have interacted in some way, perhaps:
+
++ Signing up (a flow that we also need to consider); or
++ Downloading an application, via the App Store or Google Play, for example.
+
+With the sign up taken care of, we need to consider how we introduce the user to what's on offer. This is the perfect time to provide some guidance, for example:
+
+1. Explaining how things work at a birds' eye level;
+2. Walking users through various features; and
+3. ????
+
+
+It's about telling the story of an application – web or native – before the user actually starts using it.
 
 Explain what onboarding is and show some examples. The examples can be used to explain how a considered onboarding process helps users understand a user interface before they've actually started using it.
+
+Apple is very good at this, with little modal overlays that explain what's happening and how to use things.
+
+<!-- Somewhere I need to explain what a modal is! -->
+
+Show some examples, e.g. Things 3, which is nicely considered. I have **lots of examples** in my Components deck.
+
+
+
+It's not about a sign up, for example, that will have happened before we get to this point. (Or we'll have downloaded an app, e.g.)
+
+
+
+Section 5: Empty States
+-----------------------
+
+After the user's completed the onboarding they may face an empty state…
+
+Explain what an empty state is.
+
+X
+Y
+Z
+
+Google has some great examples in their [Material Design](https://material.io/design/communication/empty-states.html) guidelines.
+
+
+Empty states are important because – unless you consider them – your users can – confronted with a need to do something (and perhaps confused) – they may never return.
+
+A better approach is to ease a user in, perhaps providing some guidance. Indie Hackers' approach to this is lovely. Once the user has signed up, they encourage the user to:
+
++ Follow some other users to kickstart their community;
++ Add a name, city, etc..
+
+The short bio screen is particularly nice. The copy provided is a touch humorous, but it clearly points users in the right direction and – just as importantly – gives them a sense of how much content works.
+
+THERE'S MUCH MORE ON ENPTY STATES
+
+
+
 
 
 

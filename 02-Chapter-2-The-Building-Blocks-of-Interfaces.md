@@ -1,13 +1,24 @@
 Chapter 2: The Building Blocks of Interfaces
 ============================================
 
-<!-- 2,246 Words -->
+<!-- 2,534 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
 <!--
 
 Note to self: Should each chapter spell out user interface in full before subsequently using UI? I think each chapter should kick off with user interface in full, that way folks who have skipped Chapter 1, or who have dived right into a later chapter, get the term spelled out in full before the acronym.
+
+
+I’ve used a naming convention in Chapters 2–4 (and later) that’s as follows:
+
+Objects → Elements → Components → Pages → Flows
+
+The ‘Components’ in the new XD are what I call ‘Elements’. Gah! I’m going to go back over everything and change to:
+
+Objects → Components → Modules → Pages → Flows
+
+Modules, or Units? (I prefer Modules.)
 
 -->
 
@@ -16,11 +27,11 @@ Note to self: Should each chapter spell out user interface in full before subseq
 Table of Contents
 -----------------
 
-+ [Part 1: Interfaces Are Like LEGO](#)
-+ [Part 2: Objects → Elements → Components → Pages → Flows](#)
-+ [Part 3: A Library of Elements](#)
-+ [Part 4: The Wonderful World of Icons](#)
-+ [Part 5: Design Systems](#)
++ [Section 1: Interfaces Are Like LEGO](#)
++ [Section 2: Objects → Elements → Components → Pages → Flows](#)
++ [Section 3: A Library of Elements](#)
++ [Section 4: The Wonderful World of Icons](#)
++ [Section 5: Design Systems](#)
 
 
 
@@ -48,8 +59,8 @@ With the Chapter 2-4 context mapped out, let’s get down to business and explor
 
 
 
-Part 1: Interfaces Are Like LEGO
---------------------------------
+Section 1: Interfaces Are Like LEGO
+-----------------------------------
 
 ![LEGO](images/ch2/lego-placeholder.png)
 
@@ -90,24 +101,31 @@ Just like LEGO blocks can be combined to create relatively complicated construct
 
 Break apart any page – whether it’s desktop-, mobile- or wrist-based – and you’ll see that it’s created from a series of elements and components. **Mastering how to draw these different elements and components will put you in a position to create anything your UI requires.**
 
+
+![Placeholder](images/ch2/ui-markup-placeholder.png)
+
+**CAPTION: Break apart any page and you’ll see it’s create from elements and components. Mastering how to draw these building blocks is what will establish a firm foundation on which to build.**
+
+
 The temptation when you’re starting out is to dive in at the deep end and try to build something all-encompassing and complicated. This isn’t an approach I’d recommend. **Taking on too big a challenge can quickly lead to frustration because you’ve undertaken a task that’s far too complicated.**
 
 A far better approach – one that LEGO also uses – is to **start with something simple and progressively add complexity**. Practice makes perfect and as Mr Miyagi – from the film [The Karate Kid](https://www.youtube.com/watch?v=fULNUr0rvEc) – says: “Wax on! Wax off!” If you haven’t seen The Karate Kid: firstly, you should (the original, not the terrible remake); secondly, Mr Miyagi’s sage advice is simple: practice, practice, practice.
 
-In short: **Start with the fundamentals and the rest falls into place.**
+In short: **Master the fundamentals and the rest falls into place.**
 
 With that out of the way, let’s take a look at the different constituent parts that comprise an interface and begin to unravel them.
 
 
 
-Part 2: Objects → Elements → Components → Pages → Flows
--------------------------------------------------------
+Section 2: Objects → Elements → Components → Pages → Flows
+----------------------------------------------------------
 
 ![Objects → Elements → Components → Pages → Flows](images/ch2/objects-elements.png)
 
 **CAPTION: Everything we build is created from relatively simple objects. By combining these objects in different ways we can create different user interface elements, which can then be combined to create components that are then organised on pages. Link these pages together and we have the flows that underpin everything we build.**
 
-Everything we create is built from smaller parts. At the simplest level, a user interface is comprised of the following:
+
+Everything we create is built from smaller parts. At the simplest level, user interfaces are comprised of the following:
 
 + Objects
 + Elements
@@ -115,20 +133,33 @@ Everything we create is built from smaller parts. At the simplest level, a user 
 + Pages
 + Flows
 
-In this chapter, I'll be focusing on elements, demonstrating how they can be built from simple objects. In the next chapter, I'll show how these elements can be combined to create components and pages, which form the backbone of user interfaces.
+In this chapter, **I'll be focusing on elements, demonstrating how they can be built from simple objects**.
+
+In the next chapter, I'll show how these **elements can be combined to create components and pages**, which form the backbone of user interfaces. In the following chapter, I'll explore how we tie these separate pages together in flows.
 
 This approach – Objects → Elements → Components → Pages → Flows – is similar to Brad Frost's [Atomic Design](http://atomicdesign.bradfrost.com/chapter-2/) methodology. I never studied chemistry, so I find Frost's naming convention – which features 'atoms' and 'molecules' from the world of chemistry, and 'organisms' from the world of biology – a little confusing.
 
-Frost's methodology is also directed primarily at front-end designers who are using HTML, CSS and JavaScript. Designing interfaces in a tool like Adobe XD is increasingly separated from the world of code. As such I believe there's a need for a different naming convention.
+<!-- Image: Brad Frost's Atomic Design? Or is this too confusing given my methodology. -->
+
+Frost's methodology is also directed primarily at front-end designers who are using HTML, CSS and JavaScript. Designing interfaces in a tool like Adobe XD is increasingly separated from the world of code. (Although – to be clear, in case I spark the 'designers should know how to code' debate – it helps to at least have an understanding of code!)  Given the specialism we're seeing emerging, I believe there's a need for a different naming convention.
 
 Looking at the illustration at the beginning of this section, I prefer the labels: objects, elements, components, pages and flows. I find these labels easier to grasp and they should, I feel, need no explanation.
+
+
+### Objects → Elements 
+
+This section is the heart of everything, it’s about how elements – the fundamental units from which we build interfaces – are created.
+
+The emphasis on this chapter is that everything we encounter in a user interface – an element, a component or a page – is comprised of other, simpler elements.
+
+Understanding how the basic building blocks of interfaces work – as a simple, element level – helps us to develop a language of elements that we can build into complex interfaces.
 
 <!-- This section feels short, but I'm struggling to think about what else I can add to it. Revisit this with a clear head. -->
 
 
 
-Part 3: Objects  → Elements
----------------------------
+Section 3: Objects  → Elements /* THIS HAS MAYBE CHANGED? */
+------------------------------
 
 This section is the heart of everything, it’s about how elements – the fundamental units from which we build interfaces – are created.
 
@@ -143,8 +174,8 @@ Understanding how the basic building blocks of interfaces work – as a simple, 
 
 
 
-Part 4: A Library of Elements
------------------------------
+Section 4: A Library of Elements
+--------------------------------
 
 This isn’t an exhaustive list, but it does provide an overview of some typical elements you’ll need to consider.
 
@@ -181,8 +212,8 @@ Providing user feedback is essential and tool tips are a helpful way to do this,
 
 
 
-Part 5: Overlays and Scrims
----------------------------
+Section 5: Overlays and Scrims /* THIS HAS CHANGED */
+------------------------------
 
 This feels a little weak if it’s just overlays and scrims, perhaps widen the scope of this section to stress the need to legibility and accessibility.
 

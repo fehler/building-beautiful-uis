@@ -1,7 +1,7 @@
 Chapter 6: Designing Desktop Interfaces
 =======================================
 
-<!-- XXXX Words -->
+<!-- 880 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -10,22 +10,22 @@ Chapter 6: Designing Desktop Interfaces
 Table of Contents
 -----------------
 
-/* This is very rough and needs a day to tidy it all up. (In fact, it's threadbare, but I still think a chapter on designing desktop interfaces is worth including.) I'll Post-It out this chapter and the preceding chapter when I get to Donegal. */
+/* This is very rough and needs a day to tidy it all up. I'll Post-It out this chapter and the preceding chapter when I get to Donegal this weekend. [15 May, 2019] */
 
-+ XXXX
-+ XXXX
-+ XXXX
-+ XXXX
-+ XXXX
++ [Section 1: A Different Interaction Paradigm](#)
++ [Section 1: The Importance of Clear Calls to Action](#)
++ [Section 1: A Hierarchy of Needs](#)
++ [Section 1: The Importance of Clear Calls to Action](#)
++ [Section 1: Anatomy of a CTA](#)
 
-<!--
+/*
 
-Sections to consider:
+This is worth reading:
 
-+ Responsive Web Design? (Too much?)
-+ What else?
+https://gameanalytics.com/blog/mobile-desktop-ui-design.html
 
--->
+*/
+
 
 
 Summary
@@ -42,38 +42,64 @@ Overview goes here…
 
 
 
-Part 1: XXXX
---------------------------
+Section 1: A Different Interaction Paradigm
+-------------------------------------------
 
-Part 1 goes here…
+Designing for desktop contexts is fundamentally different to designing for the considerably more constrained space of mobile interfaces. Certainly we need to discuss how desktop contexts require a different approach.
 
+There's more space in a desktop context, but that doesn't mean we should fill every ounce of space. A subsection on white space would be useful. I often see students filling space with content and with additional UI elements, e.g. navigation or other components and modules.
 
+White space helps the user, it draws the eye to the content that matters. In addition to the need for hierarchy that I explored in Chapter 3, desktop contexts 
 
-Part 2: XXXX
---------------------------
+How a user reaches a button, for example, with a mouse… This is different in a desktop context. Tap targets can be smaller (button sizes, etc.) because users are employing a mouse, which is considerably more granular.
 
-Part 2 goes here…
-
-
-
-Part 3: XXXX
---------------------------
-
-Part 3 goes here…
+Similarly, users have a keyboard at their disposal and we can provide supplementary controls through the use of keyboard shortcuts.
 
 
 
-Part 4: XXXX
---------------------------
+Section 2: Heuristics? Fitt's Law? Psychology?
+----------------------------------------------
 
-Part 4 goes here…
+All of the above could go here, but there might be too much in this scratch list. I'll return to this shortly, when I've mapped everything out on Post-Its.
 
 
 
-Part 5: XXXX
---------------------------
+Section 3: A Hierarchy of Needs
+-------------------------------
 
-Part 5 goes here…
+This title needs to be reworked (and it might change), but I need to cover somewhere – in a way that doesn't overlap too heavily with the IA chapter – the idea that a desktop interface needs a clear hierarchy…
+
+Think about what's presented up-front at the top of the page. Look at 'the inverted pyramid' from the world of journalism.
+
+As we progress further down a page we get into detail. What's at the top, however, needs to tick the boxes that the user needs ticked.
+
+Mention Maslow, it might also be worth mentioning Aarron Walter's thoughts on Maslow as reworked for the web.
+
+
+
+Section 4: The Importance of Clear Calls to Action
+--------------------------------------------------
+
+Calls to Action (CTAs) definitely need to be considered somewhere in the book and I think this, or the preceding – mobile – chapter, would be a good place to cover them.
+
+Talk about **a hierarchy of intent**. When a user looks at an interface they need to know what's the most important call to action.
+
+As applications become more complex, this need to be teased out. Designing pages that have **too many CTAs** lead to confusion and inaction. Users can become paralysed by choice.
+
+
+
+Section 5: Anatomy of a CTA
+---------------------------
+
+There's a great Medium article that Lee Munroe linked to a few years ago that undertakes an exhaustive analysis of CTA buttons.
+
+This could be reworked for 2019, but a great deal of it still stands. A CTA button might appear to be a simple component, but in reality it's much, much more complex. When designing a CTA button, you need to consider:
+
++ The form of the button (size, shape, color…);
++ The content of the button (words); and
++ What feedback is presented when a user clicks the button.
+
+Unpacking this we see that something as simple as a button is actually a complicated design challenge.
 
 
 

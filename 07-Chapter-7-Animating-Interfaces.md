@@ -1,20 +1,28 @@
 Chapter 7: Animating Interfaces
 ===============================
 
-<!-- XXXX Words -->
+<!-- 734 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
+
+/*
+
+There is a **tonne of content** for this chapter in my Simplenote scratch file. Port it all over and organise it.
+
+I've used the words 'element-level' and 'component-level' here and I'll need to change them give XD's May release.
+
+*/
 
 
 
 Table of Contents
 -----------------
 
-+ Part 1: Animation Communicates Intent
-+ Part 2: Analysis of an Interaction (Trigger, etc.)
-+ Part 3: Lessons From Disney
-+ Part 4: Macro-Interactions (Page-Level)
-+ Part 5: Micro-Interactions (Element– and Component-Level)
++ [Section 1: Animation Communicates Intent](#)
++ [Section 2: Analysis of an Interaction (Trigger, etc.)](#)
++ [Section 3: Lessons From Disney](#)
++ [Section 4: Macro-Interactions (Page-Level)](#)
++ [Section 5: Micro-Interactions (Element– and Component-Level)](#)
 
 <!--
 
@@ -40,8 +48,8 @@ Overview goes here…
 
 
 
-Part 1: Animation Communicates Intent
--------------------------------------
+Section 1: Animation Communicates Intent
+----------------------------------------
 
 Part 1 goes here…
 
@@ -51,8 +59,8 @@ The above feels like it needs to be in the first section, contextualising everyt
 
 
 
-Part 2: Analysis of an Interaction (Trigger, etc.)
---------------------------------------------------
+Section 2: Analysis of an Interaction (Trigger, etc.)
+-----------------------------------------------------
 
 Part 2 goes here…
 
@@ -63,8 +71,8 @@ Part 2 goes here…
 
 
 
-Part 3: Lessons From Disney
----------------------------
+Section 3: Lessons From Disney
+------------------------------
 
 This is about learning from Disney, etc.. Mapping over lessons.
 
@@ -76,8 +84,8 @@ Easing in and out, squash and stretch, etc..
 
 
 
-Part 4: Macro-Interactions (Page-Level)
----------------------------------------
+Section 4: Macro-Interactions (Page-Level)
+------------------------------------------
 
 I have lots of examples of this.
 
@@ -96,8 +104,8 @@ IMG: Different interactions between pages (page-to-page) and within pages (secti
 
 
 
-Part 5: Micro-Interactions (Element– and Component-Level)
----------------------------------------------------------
+Section 5: Micro-Interactions (Element– and Component-Level)
+------------------------------------------------------------
 
 In addition to page-level interactions, we can also design interactions at the element-level. For example, when a user interacts with a button on a web page, we might use animations for the button's different states:
 

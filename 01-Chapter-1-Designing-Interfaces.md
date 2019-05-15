@@ -16,11 +16,11 @@ Note to self: Should each chapter spell out user interface in full before subseq
 Table of Contents
 -----------------
 
-+ [Part 1: The ‘UI’ in ‘GUI’](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-1-the-ui-in-gui)
-+ [Part 2: Designing Human Interfaces](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-2-designing-human-interfaces)
-+ [Part 3: Desktops and Metaphors](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-3-desktops-and-metaphors)
-+ [Part 4: Establishing Clear Mental Models](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-4-establishing-clear-mental-models)
-+ [Part 5: UI, Here and Now](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-5-ui-here-and-now)
++ [Section 1: The ‘UI’ in ‘GUI’](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-1-the-ui-in-gui)
++ [Section 2: Designing Human Interfaces](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-2-designing-human-interfaces)
++ [Section 3: Desktops and Metaphors](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-3-desktops-and-metaphors)
++ [Section 4: Establishing Clear Mental Models](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-4-establishing-clear-mental-models)
++ [Section 5: UI, Here and Now](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-5-ui-here-and-now)
 
 
 
@@ -67,8 +67,8 @@ This intense period in computing history saw the emergence of the field of Human
 
 
 
-Part 1: The ‘UI’ in ‘GUI’
--------------------------
+Section 1: The ‘UI’ in ‘GUI’
+----------------------------
 
 Before I dive into the depths of user interfaces (UIs), I think it’s important to get some definitions out of the way. The term ‘UI’ we know and love today has its origins in the 70s term ‘GUI’, an abbreviation of **graphical user interface**.
 
@@ -110,8 +110,8 @@ If conversational and voice interfaces interest you, have no fear, I have you co
 
 
 
-Part 2: Designing Human Interfaces
-----------------------------------
+Section 2: Designing Human Interfaces
+-------------------------------------
 
 The trouble with the term ‘user interface’ is that it abstracts humans (messy, unpredictable and… human!) into an anonymous category of ‘users’. In fact these users are all different, above all, they’re all **humans**.
 
@@ -145,8 +145,8 @@ I’ll explore these in the next two sections. Unless you’re deeply aware of t
 
 
 
-Part 3: Desktops and Metaphors
-------------------------------
+Section 3: Desktops and Metaphors
+---------------------------------
 
 If you’ve ever bought anything from Amazon, you’ll have encountered metaphors. When you add something to your basket at Amazon, there is in fact no ‘basket’. The basket is just a metaphor – drawn from the real world – to help you understand where you store your items.
 
@@ -186,8 +186,8 @@ Designers have co-opted ‘real world’ objects to represent digital objects. W
 
 
 
-Part 4: Establishing Clear Mental Models
-----------------------------------------
+Section 4: Establishing Clear Mental Models
+-------------------------------------------
 
 Whatever the interfaces we design, it’s highly likely that **our users will have experienced other interfaces that will have established a ‘mental model’ in their mind of how things work**. As Jakob Nielsen puts it:
 
@@ -215,8 +215,8 @@ https://www.nngroup.com/articles/mental-models/
 
 
 
-Part 5: UI, Here and Now
-------------------------
+Section 5: UI, Here and Now
+---------------------------
 
 Fortunately there are a wealth of resources available to us that can inform our understanding of UI design. Apple’s [Human Interface Guidelines](#), Google’s [Material Design](#), and IBM’s [Living Language](#) all offer lessons we can learn from.
 

@@ -1,7 +1,7 @@
 Chapter 8: Project X-Rays
 =========================
 
-<!-- XXXX Words -->
+<!-- 556 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -10,9 +10,9 @@ Chapter 8: Project X-Rays
 Table of Contents
 -----------------
 
-+ Vic Bell (Iconography)
-+ Howard Pinsky (User Iinterface Design)
-+ Val Head (Animating Interfaces)
++ [Section 1: Vic Bell (Iconography)](#)
++ [Section 2: Howard Pinsky (User Iinterface Design)](#)
++ [Section 3: Val Head (Animating Interfaces)](#)
 
 
 
@@ -32,8 +32,8 @@ Everything’s taking a long time to complete and I think we could add a couple 
 
 
 
-Part 1: Vic Bell (Iconography)
-------------------------------
+Section 1: Vic Bell (Iconography)
+---------------------------------
 
 Interview with Vic Bell goes here.
 
@@ -43,8 +43,8 @@ Vic's work for world-class clients, including Uber, etc..
 
 
 
-Part 2: Howard Pinsky (UI)
---------------------------
+Section 2: Howard Pinsky (UI)
+-----------------------------
 
 Interview with Howard Pinsky goes here.
 
@@ -54,8 +54,8 @@ Howard's work on creating tutorials. Also his focus on helping other, in particu
 
 
 
-Part 3: Val Head (Animating Interfaces)
----------------------------------------
+Section 3: Val Head (Animating Interfaces)
+------------------------------------------
 
 Interview with Val Head goes here.
 

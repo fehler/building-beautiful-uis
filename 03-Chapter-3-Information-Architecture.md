@@ -1,26 +1,34 @@
 Chapter 3: Information Architecture
 ===================================
 
-<!-- 2,923 Words -->
+<!-- 2,959 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
-<!-- At the bottom of this file there's extra scratch content that needs to be folded in. -->
+<!--
+
+I’ve used a naming convention in Chapters 2–4 (and later) that’s as follows:
+
+Objects → Elements → Components → Pages → Flows
+
+The ‘Components’ in the new XD are what I call ‘Elements’. Gah! I’m going to go back over everything and change to:
+
+Objects → Components → Modules → Pages → Flows
+
+Modules, or Units? (I prefer Modules.)
+
+-->
 
 
 
 Table of Contents
 -----------------
 
-+ Part 1: Elements → Components → Pages
-+ Part 2: Typography at the Page Level
-+ Part 3: The Importance of a Clear Visual Hierarchy
-+ Part 4: Composition and Grid Systems
-+ Part 5: Iconic Layouts and Blockframes
-
-
-
-
++ [Section 1: Elements → Components → Pages](#)
++ [Section 2: Typography at the Page Level](#)
++ [Section 3: The Importance of a Clear Visual Hierarchy](#)
++ [Section 4: Composition and Grid Systems](#)
++ [Section 5: Iconic Layouts and Blockframes](#)
 
 
 
@@ -60,8 +68,8 @@ At the macro-level, we need to **consider the overall information architecture o
 
 
 
-Part 1: Elements → Components → Pages
--------------------------------------
+Section 1: Elements → Components → Pages
+----------------------------------------
 
 <!--
 
@@ -148,8 +156,8 @@ SHOW A MARKED UP VERSION WITH ANALYSIS, ASK FOR PERMISSION
 
 
 
-Part 3: Typography at the Page Level
-------------------------------------
+Section 3: Typography at the Page Level
+---------------------------------------
 
 I won't be covering typography in depth – that could be a standalone book in and of itself – what I'll cover are fundamental principles that you’ll find useful for managing information architecture.
 
@@ -201,8 +209,8 @@ Detail in typography… Is that a bit much for this?
 
 
 
-Part 3: The Importance of a Clear Visual Hierarchy
---------------------------------------------------
+Section 3: The Importance of a Clear Visual Hierarchy
+-----------------------------------------------------
 
 When we’re in an airport, we find our way around by following the signage provided. This ‘wayfinding’ material allows us to navigate through the airport to find our desired destination.
 
@@ -284,8 +292,8 @@ ADD 'UNIVERSAL PRINCIPLES OF DESIGN' TO FURTHER READING.
 
 
 
-Part 4: Composition and Grid Systems
-------------------------------------
+Section 4: Composition and Grid Systems
+---------------------------------------
 
 LOTS OF MATEJ LATIN HERE
 
@@ -299,8 +307,8 @@ There are whole books written about this. Don't re-invent the wheel, rather sign
 
 
 
-Part 5: Iconic Layouts and Blockframes
---------------------------------------
+Section 5: Iconic Layouts and Blockframes
+-----------------------------------------
 
 The idea for 'Iconic Layouts' is drawn from April Grieman's 1990 book 'Hybrid Imagery: The Fusion of Technology and Graphic Design'. The world has moved on a great deal since 1990, but one idea that Grieman explored has stuck with me over three decades later…
 

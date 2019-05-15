@@ -1,7 +1,7 @@
 Chapter 5: Designing Mobile Interfaces
 ======================================
 
-<!-- XXXX Words -->
+<!-- 539 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -10,27 +10,20 @@ Chapter 5: Designing Mobile Interfaces
 Table of Contents
 -----------------
 
-/* This is very rough and needs a day to tidy it all up. I'll Post-It out this chapter and the next chapter when I get to Donegal. */
+/* This is very rough and needs a day to tidy it all up. I'll Post-It out this chapter and the preceding chapter when I get to Donegal this weekend. [15 May, 2019] */
 
-+ XXXX
-+ XXXX
-+ XXXX
-+ XXXX
-+ XXXX
++ [Section 1: Mobile First](#)
++ [Section 2: Tap Targets (Sizes, etc.)](#)
++ [Section 3: Reachability](#)
++ [Section 4: Task-Focused User Interfaces](#)
++ [Section 5: ????](#)
 
-Reachability needs to be included here…
+/*
 
-Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys…
+Cross-reference Luke W's book.
 
-<!--
+*/
 
-Sections to consider:
-
-+ Task-Focused User Interfaces
-+ Reachability
-+ Tap Targets
-
--->
 
 
 Summary
@@ -58,35 +51,35 @@ A section needs to be dedicated to tap targets and reachability, which in a mobi
 
 
 
-Part 1: XXXX
+Section 1: XXXX
 --------------------------
 
 Part 1 goes here…
 
 
 
-Part 2: XXXX
+Section 2: XXXX
 --------------------------
 
 Part 2 goes here…
 
 
 
-Part 3: XXXX
+Section 3: XXXX
 --------------------------
 
 Part 3 goes here…
 
 
 
-Part 4: XXXX
+Section 4: XXXX
 --------------------------
 
 Part 4 goes here…
 
 
 
-Part 5: XXXX
+Section 5: XXXX
 --------------------------
 
 Part 5 goes here…
