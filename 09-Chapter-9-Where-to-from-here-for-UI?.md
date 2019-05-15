@@ -61,6 +61,11 @@ Stress the need for flow diagrams when designing for conversational interfaces. 
 Section 1: Where next for UI?
 -----------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 This section's all about the exciting developments that lie ahead of us. Conversational interfaces are – to a high degree – 'dissolving' what have been until very recently, largely visual interfaces.
 
 The opportunity ahead is exciting and Adobe XD is well-placed to drive these opportunities through its voice prototyping capabilities.
@@ -83,6 +88,11 @@ In this section I'll paint a broad brushstrokes picture of where UI design is he
 
 Section 2: Conversational User Interfaces
 -----------------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 Look at my responses to Neil Cybart on Twitter (14 May) and stress that 'voice interfaces' and 'conversational interfaces' are often used interchangeably and they are not the same thing. Expand on this and hammer home the difference…
 
@@ -115,6 +125,10 @@ Also, bring in XD. There's a lot of interesting work being done here.
 Section 3: Voice Interfaces
 ---------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 The emphasis in this section is on voice interfaces, with an emphasis on devices like Amazon's Echo, Google's Home and Apple's Homepod and underlying Siri technology.
 
@@ -129,6 +143,11 @@ Talk about AirPods and, "Hello, Siri." Explain how this changes things because t
 Section 4: An Augmented Future
 ------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 This section's all about the rise of Augmented Reality (AR) and the opportunities that it offers. The section should also touch on – and distinguish between – AR and VR experiences.
 
 Apple is leading the way here with its ARKit tools. Similarly, Microsoft's Hololens product is providing a glimpse of what's possible in an augmented future.
@@ -139,6 +158,11 @@ There's clearly a lot of exciting opportunities ahead and it's never been a more
 
 Section 5: Heads Up Displays
 ----------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 This might be rolled into the preceding section. Above all, the point I'm making is that Heads Up Displays (HUDs) are transforming the interaction paradigms of computing.
 

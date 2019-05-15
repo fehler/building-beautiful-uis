@@ -70,6 +70,11 @@ This intense period in computing history saw the emergence of the field of Human
 Section 1: The ‘UI’ in ‘GUI’
 ----------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Before I dive into the depths of user interfaces (UIs), I think it’s important to get some definitions out of the way. The term ‘UI’ we know and love today has its origins in the 70s term ‘GUI’, an abbreviation of **graphical user interface**.
 
 UIs might feel commonplace to us today, but when they were first imagined they represented a fundamental shift in how we interacted with computers. Before the emergence of GUIs, working with a computer involved typing arcane commands into it via a text-based terminal.
@@ -113,6 +118,11 @@ If conversational and voice interfaces interest you, have no fear, I have you co
 Section 2: Designing Human Interfaces
 -------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 The trouble with the term ‘user interface’ is that it abstracts humans (messy, unpredictable and… human!) into an anonymous category of ‘users’. In fact these users are all different, above all, they’re all **humans**.
 
 I’m not going to reinvent the wheel and call this book *Building Beautiful HIs*, but as you read it – and as you design – put some thought into the different humans that will use the designs you create. Consider:
@@ -147,6 +157,11 @@ I’ll explore these in the next two sections. Unless you’re deeply aware of t
 
 Section 3: Desktops and Metaphors
 ---------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 If you’ve ever bought anything from Amazon, you’ll have encountered metaphors. When you add something to your basket at Amazon, there is in fact no ‘basket’. The basket is just a metaphor – drawn from the real world – to help you understand where you store your items.
 
@@ -189,6 +204,11 @@ Designers have co-opted ‘real world’ objects to represent digital objects. W
 Section 4: Establishing Clear Mental Models
 -------------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Whatever the interfaces we design, it’s highly likely that **our users will have experienced other interfaces that will have established a ‘mental model’ in their mind of how things work**. As Jakob Nielsen puts it:
 
 > What users believe they know about a user interface strongly impacts how they use it. […] Mental models are one of the most important concepts in human-computer interaction.
@@ -217,6 +237,11 @@ https://www.nngroup.com/articles/mental-models/
 
 Section 5: UI, Here and Now
 ---------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 Fortunately there are a wealth of resources available to us that can inform our understanding of UI design. Apple’s [Human Interface Guidelines](#), Google’s [Material Design](#), and IBM’s [Living Language](#) all offer lessons we can learn from.
 

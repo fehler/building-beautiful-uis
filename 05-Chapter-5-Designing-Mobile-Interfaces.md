@@ -22,6 +22,13 @@ Table of Contents
 
 Cross-reference Luke W's book.
 
+The emergence of mobile contexts has changed interface design dramatically. We now have:
+
++ Touch
++ Force Touch
++ Voice
++ Etc..
+
 */
 
 
@@ -54,12 +61,22 @@ A section needs to be dedicated to tap targets and reachability, which in a mobi
 Section 1: XXXX
 --------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Part 1 goes here…
 
 
 
 Section 2: XXXX
 --------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 Part 2 goes here…
 
@@ -68,6 +85,11 @@ Part 2 goes here…
 Section 3: XXXX
 --------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Part 3 goes here…
 
 
@@ -75,12 +97,22 @@ Part 3 goes here…
 Section 4: XXXX
 --------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Part 4 goes here…
 
 
 
 Section 5: XXXX
 --------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 Part 5 goes here…
 

@@ -51,6 +51,11 @@ Overview goes here…
 Section 1: Animation Communicates Intent
 ----------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Part 1 goes here…
 
 [UI Animation and Microinteractions](https://www.awwwards.com/awwwards/collections/animation/)
@@ -62,17 +67,22 @@ The above feels like it needs to be in the first section, contextualising everyt
 Section 2: Analysis of an Interaction (Trigger, etc.)
 -----------------------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Part 2 goes here…
-
-
-
-
-
 
 
 
 Section 3: Lessons From Disney
 ------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 This is about learning from Disney, etc.. Mapping over lessons.
 
@@ -80,12 +90,13 @@ Easing in and out, squash and stretch, etc..
 
 
 
-
-
-
-
 Section 4: Macro-Interactions (Page-Level)
 ------------------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 I have lots of examples of this.
 
@@ -101,11 +112,13 @@ IMG: Different interactions between pages (page-to-page) and within pages (secti
 
 
 
-
-
-
 Section 5: Micro-Interactions (Element– and Component-Level)
 ------------------------------------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 In addition to page-level interactions, we can also design interactions at the element-level. For example, when a user interacts with a button on a web page, we might use animations for the button's different states:
 

@@ -45,7 +45,33 @@ Overview goes here…
 Section 1: A Different Interaction Paradigm
 -------------------------------------------
 
-Designing for desktop contexts is fundamentally different to designing for the considerably more constrained space of mobile interfaces. Certainly we need to discuss how desktop contexts require a different approach.
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
+Designing for desktop contexts is fundamentally different to designing for the considerably more constrained space of mobile interfaces. When designing interfaces for desktop contexts we need to adopt a different approach, tailored to the medium.
+
+Whilst a great deal of time may have elapsed since the first GUIs were designed in the late 60s and early 70s, desktop interfaces at their core have remained remarkably similar.
+
+As Craig Hockenberry, at [Iconfactory](https://iconfactory.com) – a company that has been reimagining computer desktops since 1996 – puts it:
+
+> [A great deal has] changed radically over the past 35 years, but it’s important to note what hasn’t changed during that same period of time. You still use a bitmap display for output with a keyboard and mouse for input.
+> 
+> The interaction model has changed, but only slightly. There are enhancements and refinements, like trackpads and gestures, but a Mac is completely usable using nothing but the basic concepts that were laid down by the original team.
+
+Whilst Hockenberry is exploring Apple's macOS environment specifically, the underlying fact remains that the interaction paradigms in a desktop context have remained largely similar.
+
+When we design desktop interfaces our users are primarily interacting with our interfaces using:
+
++ a mouse, which allows for more granular control; and
++ a keyboard, which allow for shortcuts to be used.
+
+In addition to the use of a mouse and a keyboard users now – albeit in a limited manner – are beginning to have access to voice controls, using Siri on macOS, for example. All of that said, the fact remains, when we design desktop interfaces we can draw on tried and tested heuristics that have stood the test of time.
+
+
+### White Space
+
 
 There's more space in a desktop context, but that doesn't mean we should fill every ounce of space. A subsection on white space would be useful. I often see students filling space with content and with additional UI elements, e.g. navigation or other components and modules.
 
@@ -60,12 +86,22 @@ Similarly, users have a keyboard at their disposal and we can provide supplement
 Section 2: Heuristics? Fitt's Law? Psychology?
 ----------------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 All of the above could go here, but there might be too much in this scratch list. I'll return to this shortly, when I've mapped everything out on Post-Its.
 
 
 
 Section 3: A Hierarchy of Needs
 -------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 This title needs to be reworked (and it might change), but I need to cover somewhere – in a way that doesn't overlap too heavily with the IA chapter – the idea that a desktop interface needs a clear hierarchy…
 
@@ -80,6 +116,11 @@ Mention Maslow, it might also be worth mentioning Aarron Walter's thoughts on Ma
 Section 4: The Importance of Clear Calls to Action
 --------------------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Calls to Action (CTAs) definitely need to be considered somewhere in the book and I think this, or the preceding – mobile – chapter, would be a good place to cover them.
 
 Talk about **a hierarchy of intent**. When a user looks at an interface they need to know what's the most important call to action.
@@ -90,6 +131,11 @@ As applications become more complex, this need to be teased out. Designing pages
 
 Section 5: Anatomy of a CTA
 ---------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 There's a great Medium article that Lee Munroe linked to a few years ago that undertakes an exhaustive analysis of CTA buttons.
 

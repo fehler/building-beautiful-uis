@@ -35,6 +35,11 @@ Overview goes here…
 Section 1: Considering User Flows
 ---------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 <!--
 
 This is all about getting from A-Z. There are many routes through content. Our role is to signpost and help the user. I've merged journey mapping in here. It should be a sub-section.
@@ -97,6 +102,11 @@ A minor side-note on the power of paper… Briefly mention paper prototypes. The
 Section 2: Choices and Branches
 -------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 As you map out your project consider the choices that users will be presented with. For example, when building an application you might offer users the opportunity to sign up and create an account, enabling them to log in when they return.
 
 As you design this, you’ll need to consider the different flows users will encounter. This is where choices and branches come in. It helps to map out the user journey in diagrammatic form so you can map out the process and identify the different pages you'll need to build.
@@ -130,6 +140,11 @@ As designers, we orchestrate these different design artefacts to present a round
 Section 3: Page-to-Page and State-to-State
 ------------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 <!-- Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys… -->
 
 As applications become more complex, we’ve begun to develop different design patterns to handle different flows.
@@ -156,7 +171,6 @@ The 'add a calendar event' shot (Yellow Plus Button – REDRAW THIS) is a nice e
 Also talk about pages within pages and the idea that we're augmenting page to page with more complex on-page journeys…
 
 
-
 ### Modals
 
 Overlays and modals merit a section in themselves. Users will undoubtedly have run into them.
@@ -171,10 +185,13 @@ Equally, it draws on users' **existing mental models**, so it's a pattern that d
 
 
 
-
-
 Section 4: Onboarding Users
 ---------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 This section stresses the importance of onboarding. <!-- I think I should mention CTAs in the desktop or mobile chapters, but mention it here? -->
 
@@ -189,7 +206,6 @@ With the sign up taken care of, we need to consider how we introduce the user to
 2. Walking users through various features; and
 3. ????
 
-
 It's about telling the story of an application – web or native – before the user actually starts using it.
 
 Explain what onboarding is and show some examples. The examples can be used to explain how a considered onboarding process helps users understand a user interface before they've actually started using it.
@@ -200,14 +216,17 @@ Apple is very good at this, with little modal overlays that explain what's happe
 
 Show some examples, e.g. Things 3, which is nicely considered. I have **lots of examples** in my Components deck.
 
-
-
 It's not about a sign up, for example, that will have happened before we get to this point. (Or we'll have downloaded an app, e.g.)
 
 
 
 Section 5: Empty States
 -----------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 After the user's completed the onboarding they may face an empty state…
 
@@ -230,9 +249,6 @@ A better approach is to ease a user in, perhaps providing some guidance. Indie H
 The short bio screen is particularly nice. The copy provided is a touch humorous, but it clearly points users in the right direction and – just as importantly – gives them a sense of how much content works.
 
 THERE'S MUCH MORE ON ENPTY STATES
-
-
-
 
 
 

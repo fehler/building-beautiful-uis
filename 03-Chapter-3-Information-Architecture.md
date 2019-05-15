@@ -71,6 +71,11 @@ At the macro-level, we need to **consider the overall information architecture o
 Section 1: Elements → Components → Pages
 ----------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 <!--
 
 It feels like there should be a part that comes before 'Elements → Components → Pages' that deals with the overall concept of signposting. That could use the following, airport content.
@@ -159,12 +164,14 @@ SHOW A MARKED UP VERSION WITH ANALYSIS, ASK FOR PERMISSION
 Section 3: Typography at the Page Level
 ---------------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 I won't be covering typography in depth – that could be a standalone book in and of itself – what I'll cover are fundamental principles that you’ll find useful for managing information architecture.
 
 All interfaces will feature language somewhere. In addition to developing an understanding of language, it’s important to develop an awareness of fundamental typographic principles.
-
-
-
 
 As the digital landscape evolves, offering us ever more exciting opportunities – and ever more information – well-structured information design will become more critical than ever. We need to make sense of the sea of information that surrounds us…
 
@@ -193,7 +200,6 @@ A decade has passed since I designed the above example and yet – thanks to HTM
 Typeface choice, in this instance, wasn't important (although Georgia is a beautifully designed typeface). What was important was the use of the different typographic elements at a designer's disposal - scale, tone, colour, space, rules... - to establish a clear information hierarchy. Using typography to tease out the underlying meaning of the elements.
 
 
-
 ### Macro-Typography
 
 Perhaps typographic scales? Certainly the relationship between different elements… headings, paragraphs and other semantic components, for example, blockquotes and footnotes… (Footnotes isn't really a mobile thing…)
@@ -205,12 +211,13 @@ Detail in typography… Is that a bit much for this?
 
 
 
-
-
-
-
 Section 3: The Importance of a Clear Visual Hierarchy
 -----------------------------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 When we’re in an airport, we find our way around by following the signage provided. This ‘wayfinding’ material allows us to navigate through the airport to find our desired destination.
 
@@ -288,14 +295,15 @@ ADD 'UNIVERSAL PRINCIPLES OF DESIGN' TO FURTHER READING.
 
 
 
-
-
-
-
 Section 4: Composition and Grid Systems
 ---------------------------------------
 
-LOTS OF MATEJ LATIN HERE
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
+<!-- LOTS OF MATEJ LATIN STYLE CONTENT HERE -->
 
 We can also put some thought into how our interface elements are arranged compositionally in relation to the page. Different pages – depending upon context (desktop, mobile, wrist…) – will lend themselves to different compositions.
 
@@ -305,10 +313,13 @@ There are whole books written about this. Don't re-invent the wheel, rather sign
 
 
 
-
-
 Section 5: Iconic Layouts and Blockframes
 -----------------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 The idea for 'Iconic Layouts' is drawn from April Grieman's 1990 book 'Hybrid Imagery: The Fusion of Technology and Graphic Design'. The world has moved on a great deal since 1990, but one idea that Grieman explored has stuck with me over three decades later…
 

@@ -11,6 +11,7 @@ The UI Glossary is structured with all the terms we need to define, but I haven�
 Overview
 --------
 
++ [X] Scratch (Text)
 + [X] Draft Chapter Content (Text)
 + [X] Final Chapter Content (Text)
 
@@ -19,6 +20,7 @@ Overview
 Chapter 1: Designing Interfaces
 -------------------------------
 
++ [X] Scratch (Text)
 + [X] Draft Chapter Content (Text)
 + [X] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -29,6 +31,7 @@ Chapter 1: Designing Interfaces
 Chapter 2: The Building Blocks of Interfaces
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -39,6 +42,7 @@ Chapter 2: The Building Blocks of Interfaces
 Chapter 3: Information Architecture
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -49,6 +53,7 @@ Chapter 3: Information Architecture
 Chapter 4: Getting From A → B
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -59,6 +64,7 @@ Chapter 4: Getting From A → B
 Chapter 5: Designing Mobile Interfaces
 --------------------------------------------
 
++ [ ] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -69,6 +75,7 @@ Chapter 5: Designing Mobile Interfaces
 Chapter 6: Designing Desktop Interfaces
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -79,6 +86,7 @@ Chapter 6: Designing Desktop Interfaces
 Chapter 7: Animating Interfaces
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -89,6 +97,7 @@ Chapter 7: Animating Interfaces
 Chapter 8: Project X-Rays
 --------------------------------------------
 
++ [ ] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -115,6 +124,7 @@ Chapter 8: Project X-Rays
 Chapter 9: Where to from here for UI?
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [ ] Draft Chapter Content (Text)
 + [ ] Final Chapter Content (Text)
 + [ ] Illustrations
@@ -125,6 +135,7 @@ Chapter 9: Where to from here for UI?
 Appendix: Master-Apprentice Exercises
 --------------------------------------------
 
++ [X] Scratch (Text)
 + [X] Draft Chapter Content (Text)
 + [X] Final Chapter Content (Text)
 + [X] Illustrations
@@ -152,6 +163,7 @@ The Master-Apprentice Files are built in Keynote, I need to rebuild them in XD. 
 Acknowledgements
 ----------------
 
++ [X] Scratch (Text)
 + [X] Draft Chapter Content (Text)
 + [X] Final Chapter Content (Text)
 + [ ] Add Becky, and others from Adobe, on completion.
@@ -172,8 +184,9 @@ Promotional Images, etc.
 Housekeeping
 ------------
 
-+ [ ] Sort ToCs and Cross-Reference to Body
-+ [ ] Remove Bonus Material
++ [ ] Add Summaries from Google Docs
++ [ ] Sort Chapter ToCs and Cross-Reference to Body
++ [X] Remove Bonus Material
 + [ ] Add book / URL ideas.
 + [X] Check opening note.
 + [X] Check closing copyright information.

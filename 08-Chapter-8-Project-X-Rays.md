@@ -35,6 +35,11 @@ Everything’s taking a long time to complete and I think we could add a couple 
 Section 1: Vic Bell (Iconography)
 ---------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Interview with Vic Bell goes here.
 
 Things to mention…
@@ -46,6 +51,11 @@ Vic's work for world-class clients, including Uber, etc..
 Section 2: Howard Pinsky (UI)
 -----------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 Interview with Howard Pinsky goes here.
 
 Things to mention…
@@ -56,6 +66,11 @@ Howard's work on creating tutorials. Also his focus on helping other, in particu
 
 Section 3: Val Head (Animating Interfaces)
 ------------------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 Interview with Val Head goes here.
 

@@ -161,6 +161,11 @@ Understanding how the basic building blocks of interfaces work – as a simple, 
 Section 3: Objects  → Elements /* THIS HAS MAYBE CHANGED? */
 ------------------------------
 
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
+
 This section is the heart of everything, it’s about how elements – the fundamental units from which we build interfaces – are created.
 
 The emphasis on this chapter is that everything we encounter in a user interface – an element, a component or a page – is comprised of other, simpler elements.
@@ -169,13 +174,13 @@ Understanding how the basic building blocks of interfaces work – as a simple, 
 
 
 
-
-
-
-
-
 Section 4: A Library of Elements
 --------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 This isn’t an exhaustive list, but it does provide an overview of some typical elements you’ll need to consider.
 
@@ -214,6 +219,11 @@ Providing user feedback is essential and tool tips are a helpful way to do this,
 
 Section 5: Overlays and Scrims /* THIS HAS CHANGED */
 ------------------------------
+
+![Placeholder Image](images/section-opening-placeholder-image.png)
+
+**CAPTION: Caption here.**
+
 
 This feels a little weak if it’s just overlays and scrims, perhaps widen the scope of this section to stress the need to legibility and accessibility.
 
