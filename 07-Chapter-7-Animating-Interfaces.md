@@ -1,7 +1,7 @@
 Chapter 7: Animating Interfaces
 ===============================
 
-<!-- 734 Words -->
+<!-- 829 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -35,16 +35,16 @@ There is *a lot* for this chapter in my Simplenote file. Check that before I sta
 Summary
 -------
 
-**We're kicking off this section by explaining the benefits of animation as part of a user interface designer's skillset.**
+**In this chapter I'll introduce principles of animation and how they apply to the design of user interfaces. I’ll show lots of examples and provide you with everything you need to know to create delightful interactions, which are increasingly expected in a digital context.**
 
-Stress the important role that animation plays in delight. Also stress that we – as UI designers – aren't creating static pages, we're creating rich, interactive pages and animation helps with this.
+**In short: I'll explain the benefits of learning about animation and building it in as a core part of your user interface skillset.**
 
 
 
 Overview
 --------
 
-Overview goes here…
+Stress the important role that animation plays in delight. Also stress that we – as UI designers – aren't creating static pages, we're creating rich, interactive pages and animation helps with this.
 
 
 

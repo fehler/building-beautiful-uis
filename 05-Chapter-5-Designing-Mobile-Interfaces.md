@@ -1,7 +1,7 @@
 Chapter 5: Designing Mobile Interfaces
 ======================================
 
-<!-- 539 Words -->
+<!-- 632 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -36,7 +36,7 @@ The emergence of mobile contexts has changed interface design dramatically. We n
 Summary
 -------
 
-**Summary goes here…**
+**In this chapter, I’ll focus on designing for mobile environments. I’ll stress the benefits of a ‘mobile-first’ approach and introduce the idea of tap targets and reachability.**
 
 
 

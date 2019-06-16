@@ -1,7 +1,7 @@
 Chapter 8: Project X-Rays
 =========================
 
-<!-- 556 Words -->
+<!-- 589 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -19,7 +19,7 @@ Table of Contents
 Summary
 -------
 
-In this chapter I’ve interviewed a cross-section of industry professionals who are all working in user interface design. I've interviewed three different – and very talented – designers who are working in user interface design in different ways.
+**In this chapter I’ve interviewed a cross-section of industry professionals who are all working in different aspects of user interface design. I've interviewed three different – and very talented – designers who are working in user interface design in different ways.**
 
 
 

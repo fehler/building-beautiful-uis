@@ -1,7 +1,7 @@
 Chapter 2: The Building Blocks of Interfaces
 ============================================
 
-<!-- 2,534 Words -->
+<!-- 2,564 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -92,6 +92,20 @@ To help you on your learning journey **I’ve provided a series of ‘Master-App
 
 I’ve provided examples of desktop, mobile (smartphone, tablet) and wrist UIs so **you can begin to develop an understanding across a range of contexts**. I created these myself so that I could develop my skills. I might be fast approaching 50 years old, but I’m still learning!
 
+<!--
+
+Somewhere, stress that this isn't just something beginners do. Professionals do this, too, including lots of well known folks. Here's something by Chris Coyier:
+
+https://culturedcode.com/status/
+
+https://codepen.io/chriscoyier/full/KLWgVy
+
+In the interview with Howard P, touch on this in one of the questions.
+
+-->
+
+
+
 
 ### LEGO FTW!
 
@@ -102,7 +116,7 @@ Just like LEGO blocks can be combined to create relatively complicated construct
 Break apart any page – whether it’s desktop-, mobile- or wrist-based – and you’ll see that it’s created from a series of elements and components. **Mastering how to draw these different elements and components will put you in a position to create anything your UI requires.**
 
 
-![Placeholder](images/ch2/ui-markup-placeholder.png)
+![Placeholder](images/inline-placeholder-image.png)
 
 **CAPTION: Break apart any page and you’ll see it’s create from elements and components. Mastering how to draw these building blocks is what will establish a firm foundation on which to build.**
 

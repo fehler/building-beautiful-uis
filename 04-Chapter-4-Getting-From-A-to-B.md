@@ -1,7 +1,7 @@
 Chapter 4: Getting From A → B
 =============================
 
-<!-- 2,088 Words -->
+<!-- 2,197 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -21,7 +21,9 @@ Table of Contents
 Summary
 -------
 
-With our pages built – whether they’re desktop, mobile or wrist-based – we need to focus on the flows through the user interface. In this chapter, I'll explore designing flows through interfaces, stressing the need to consider flows at different levels: page-to-page, and state-to-state.
+With our pages built, **we need to focus on the flows through the user interface**. In this chapter, I'll explore designing flows through interfaces, stressing the need to consider flows at different levels: page-to-page, and state-to-state.
+
+In short: we'll explore the idea of moving from A → B, ensuring users are guided by our user interface.
 
 
 
@@ -134,6 +136,22 @@ Increasingly when we present to clients we do so using a variety of different de
 A prototype – built in XD, for example – is useful for providing an immersive feel of what you're building. You might augment this with other design deliverables, for example, a 'visual grammar' document that provides an insight into different aesthetic directions.
 
 As designers, we orchestrate these different design artefacts to present a rounded view of the product we're building.
+
+<!--
+
+Find somewhere for this:
+
+Jakob Nielsen's heuristics. Look at the 10 principles posters and link to these in the relevant further reading section.
+
+Also by NN/g:
+
+1. Prevent Errors (Good microcopy helps, look in the Components folder.)
+
+2. Allow undo.
+
+3. Enable users to resolve situations.
+
+-->
 
 
 

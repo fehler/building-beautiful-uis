@@ -1,7 +1,7 @@
 Chapter 6: Designing Desktop Interfaces
 =======================================
 
-<!-- 880 Words -->
+<!-- 1,214 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -31,7 +31,7 @@ https://gameanalytics.com/blog/mobile-desktop-ui-design.html
 Summary
 -------
 
-**Summary goes here…**
+**In this chapter I'll focus designing interfaces in a desktop context. These might be native app, web app or websites. I'll explore how desktop interfaces differ from mobile interfaces and explore how mouse interfaces can be more granular.**
 
 
 

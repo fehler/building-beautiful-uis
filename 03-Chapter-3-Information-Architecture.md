@@ -1,7 +1,7 @@
 Chapter 3: Information Architecture
 ===================================
 
-<!-- 2,959 Words -->
+<!-- 3,011 Words -->
 
 **As I’ve noted in the [overview](https://github.com/fehler/building-beautiful-uis/blob/master/00-Overview.md), this is a work in progress and I’m sharing it here in draft form. It isn’t finished, but I hope it provides some value as I finalise all of the chapter content.**
 
@@ -195,9 +195,9 @@ Using a range of HTML elements:
 
 All of the above are at the service of **content hierarchy** through considered semantic markup.
 
-A decade has passed since I designed the above example and yet – thanks to HTML's longevity – I would change very little, other than to use HTML5 elements like `<small>` instead of classes, where possible. The information hierarchy remains the same.
+A decade has passed since I designed the above example and yet – thanks to HTML's longevity – I would change very little, other than to use HTML5 elements like `<small>` instead of classes, where new elements made this possible. The information hierarchy remains the same.
 
-Typeface choice, in this instance, wasn't important (although Georgia is a beautifully designed typeface). What was important was the use of the different typographic elements at a designer's disposal - scale, tone, colour, space, rules... - to establish a clear information hierarchy. Using typography to tease out the underlying meaning of the elements.
+Typeface choice, in this instance, wasn't important (although Georgia, designed by Matthew Carter, is a beautifully designed typeface). What was important was the use of the different typographic elements at a designer's disposal - scale, tone, colour, space, rules… - to establish a clear information hierarchy. Using typography to tease out the underlying meaning of the elements.
 
 
 ### Macro-Typography
