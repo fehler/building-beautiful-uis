@@ -172,13 +172,16 @@ Understanding how the basic building blocks of interfaces work – as a simple, 
 
 
 
-Section 3: Objects  → Elements /* THIS HAS MAYBE CHANGED? */
+Section 3: Objects  → Elements /* THIS HAS CHANGED */
 ------------------------------
 
 ![Placeholder Image](images/section-opening-placeholder-image.png)
 
 **CAPTION: Caption here.**
 
+**This section – and the whole book – needs to have references to ‘components’ removed. In the May, 2019 update Adobe changed its terminology and stopped using ‘symbols’ in favour of calling these ‘components’. GAH!**
+
+**It will lead to confusion if I refer to ‘components’ here, so I think I’m going to rename these groupings of elements to ‘modules’. (Although modules are also used when referencing APIs, so that might need a rethink, too.) In short this is a nightmare and I’m glad we picked it up now before the book was finished.**
 
 This section is the heart of everything, it’s about how elements – the fundamental units from which we build interfaces – are created.
 
@@ -274,11 +277,13 @@ Scrims (top, bottom)
 Further Reading
 ---------------
 
-+ Christian Leborg’s ‘Visual Grammar’ helps to explain the fundamental principles of visual grammar. It’s an excellent book that focuses on the foundations – point, line and plane – from which all interfaces are built.
+There are many great publications, offline and online, that will help further underpin your understanding of the building blocks of interfaces. I’ve included a few below to start you on your journey.
 
-+ Matej Latin’s typography book. An excellent guide to typography on the web (and also applicable beyond the web, to mobile and other contexts). Latin also has a free, six-part (?) email course that is well worth signing up for.
++ Christian Leborg’s [Visual Grammar](https://amzn.to/31EaRoa) helps to explain the fundamental principles of visual grammar, the core graphic building blocks from which we build elements. It’s an excellent book that focuses on the foundations – point, line and plane – from which all interfaces are built.
 
-+ ‘Universal Principles of Design’ is an excellent book… (I’ve enough in Chapter 3 to use this here.)
++ Matej Latin’s [Better Web Typography](https://betterwebtype.com) is a fantastic ‘course in a book’ that offers a wealth of typographic advice for web designers and web developers. Latin’s book is equally applicable beyond the web (in mobile and other contexts) and he offers [a free, seven-part email course](https://betterwebtype.com/web-typography-course/) that’s well worth signing up for.
+
++ Lastly, I’d strongly recommend [Universal Principles of Design](https://amzn.to/2Fdftbn). It covers ‘125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design’ and I’ve used it as a backbone for my teaching since it was published.
 
 
 

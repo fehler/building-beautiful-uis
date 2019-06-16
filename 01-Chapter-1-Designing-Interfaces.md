@@ -243,11 +243,11 @@ Section 5: UI, Here and Now
 **CAPTION: Caption here.**
 
 
-Fortunately there are a wealth of resources available to us that can inform our understanding of UI design. Apple’s [Human Interface Guidelines](#), Google’s [Material Design](#), and IBM’s [Living Language](#) all offer lessons we can learn from.
+Fortunately there are a wealth of resources available to us that can inform our understanding of UI design. Apple’s Human Interface Guidelines, Google’s Material Design, and IBM’s Living Language all offer lessons we can learn from.
 
 These provide a useful overview of designing interfaces at a high level and are well worth exploring before we get into analysing how interfaces are built in Chapter 2.
 
-As I noted earlier, I think the fact that Apple provides human interface guidelines – and not user interface guidelines – is an important distinction. We’re seeing a return to terms like human-centred design (as opposed to, say, user experience design) and Apple’s [Human Interface Guidelines](#) naming is prescient.
+As I noted earlier, I think the fact that Apple provides human interface guidelines – and not user interface guidelines – is an important distinction. We’re seeing a return to terms like human-centred design (as opposed to, say, user experience design) and Apple’s [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/) naming is prescient.
 
 Apple is treading a bit of a tightrope, clearly they don’t want to lose sight of their heritage (and their first set of groundbreaking Human Interface Guidelines), but – as you’ll see in the copy on their page – they use both terms: **human** interface and **user** interface.
 
@@ -255,7 +255,8 @@ Apple is treading a bit of a tightrope, clearly they don’t want to lose sight 
 
 Caption: Apple’s Human Interface Guidelines provide in-depth information and resources for designing interfaces that work on Apple’s various operating systems (macOS, iOs and watchOS).
 
-Developed in 2014, Google’s [Material Design] expanded on the ‘card’ motifs that debuted in Google Now. Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
+
+Developed in 2014, Google’s [Material Design](https://material.io/design/) expanded on the ‘card’ motifs that debuted in Google Now. Material Design uses more grid-based layouts, responsive animations and transitions, padding, and depth effects such as lighting and shadows.
 
 <!-- Check the above paragraph, it feels like it’s from Google’s Material Design copy. -->
 
@@ -263,7 +264,8 @@ Developed in 2014, Google’s [Material Design] expanded on the ‘card’ motif
 
 Caption: Google’s Material Design guidelines provide in-depth information and resources for designing interfaces that work.
 
-IBM’s [Living Language](#) – designed to be a shared vocabulary for design – represents IBM’s move into a design-driven culture and is well worth exploring. Currently on v2, IBM are also maintaining an archive of past versions, which offer a great deal of practical advice for designing user interfaces.
+
+IBM’s [Living Language](https://www.ibm.com/design/language/) – designed to be a shared vocabulary for design – represents IBM’s move into a design-driven culture and is well worth exploring. Currently on v2, IBM are also maintaining an archive of past versions, which offer a great deal of practical advice for designing user interfaces.
 
 As IBM put it in their Living Language: “Focus on users’ goals. Design tools that lead people to actionable insights. Be proactive, always anticipating users’ next moves and helping them prepare for change.”
 
@@ -285,11 +287,11 @@ Further Reading
 
 There are many great publications, offline and online, that will help further underpin your understanding of user interface design. I’ve included a few below to start you on your journey.
 
-I’d strongly suggest starting by exploring Apple’s [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/), Google’s [Material Design](https://www.dropbox.com/s/7t8w7su89ibpt3a/Screenshot%202019-05-03%2015.33.48.png?dl=0) resources, and IBM’s Living Language ([Version 1](https://www.ibm.com/design/v1/language/) and [Version 2](https://www.ibm.com/design/language/)). These provide a useful overview of designing interfaces at a high level and offer an insight into the design vocabularies of different platforms.
+I’d strongly suggest starting by exploring Apple’s [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/), Google’s [Material Design](https://material.io/design/) resources, and IBM’s Living Language ([Version 1](https://www.ibm.com/design/v1/language/) and [Version 2](https://www.ibm.com/design/language/)). These provide a useful overview of designing interfaces at a high level and offer an insight into the design vocabularies of different platforms.
 
-The Interaction Design Foundation have a useful overview of UI design titled [What is User Interface (UI) Design?](https://www.interaction-design.org/literature/topics/ui-design). It’s well worth a read for a high-level perspective.
+The Interaction Design Foundation have a useful overview of UI design titled [What is User Interface (UI) Design?](https://www.interaction-design.org/literature/topics/ui-design) It’s well worth a read for a high level introduction to user interface design.
 
-Lastly, usability.gov have a similarly high-level introduction to [User Interface Design Basics](https://www.usability.gov/what-and-why/user-interface-design.html). I’d strongly recommend exploring all of usability.gov, an initiative by the US government to champion user experience (UX) and user interface (UI) best practices.
+Lastly, Nielsen Norman Group have a comprehensive overview on [Mental Models](https://www.nngroup.com/articles/mental-models/) that is well worth reading. Additionally, they have [a wealth of additional articles and videos](https://www.nngroup.com/search/?q=mental+models) on the topic, that are worth exploring.
 
 
 
