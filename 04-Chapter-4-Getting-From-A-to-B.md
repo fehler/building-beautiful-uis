@@ -273,11 +273,13 @@ THERE'S MUCH MORE ON ENPTY STATES
 Further Reading
 ---------------
 
-+ Alexander Handley's [User Flow Is the New Wireframe](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a) – for UX Collective – is well worth reading, In particular it's emphasis on the different resolution of design deliverables is well worth noting.
+There are many great publications, offline and online, that will help further underpin your understanding of user journeys. I’ve included a few below to start you on your journey.
 
-+ Item 2
++ Alexander Handley’s [User Flow Is the New Wireframe](https://uxdesign.cc/when-to-use-user-flows-guide-8b26ca9aa36a) – for UX Collective – is well worth reading. Its emphasis on the different resolution of design deliverables (created at low-, mid- and high-fidelity) is well worth noting.
 
-+ Item 3
++ Donna Lichaw and Eva-Lotta Lamm’s [The User’s Journey: Storymapping Products That People Love](https://amzn.to/2WFmIig) is an excellent guide to user journeys, positioning users – as the heroes – at the heart of your product’s story.
+
++ Lastly – although its printing and production values leave a lot to be desired – Peter W. Szabo’s [User Experience Mapping](https://amzn.to/2FdVlWz) is a very comprehensive overview of user story maps and customer journey maps.
 
 
 

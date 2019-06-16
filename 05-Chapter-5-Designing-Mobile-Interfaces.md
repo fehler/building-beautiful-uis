@@ -121,11 +121,13 @@ Part 5 goes here…
 Further Reading
 ---------------
 
-+ Luke W's [Mobile First](#) book – despite being published in XXXX – is still worth reading for its focus on the benefits of a mobile-first approach.
+There are many great publications, offline and online, that will help further underpin your understanding of designing user interfaces for a mobile context. I’ve included a few below to start you on your journey.
 
-+ Item 2
++ Luke Wroblewski’s [Mobile First](https://amzn.to/2IK0PcF) – published in 2011 – is rightfully regarded as the book that encouraged designers to adopt a mobile first approach to designing for the web. It might be almost a decade old, but it’s still well worth reading for its focus on the benefits that a mobile first approach offers.
 
-+ Item 3
+Nick Babich’s [A Comprehensive Guide To Mobile App Design](https://www.smashingmagazine.com/2018/02/comprehensive-guide-to-mobile-app-design/) – sponsored by Adobe and published by the fine folks at Smashing Magazine – complements this chapter perfectly. Babich provides a thoroughly in-depth view of the challenges faced when designing for a mobile context and I’d strongly recommend reading his article, once you’ve completed this chapter.
+
++ Lastly, Giles Colborne’s [Simple and Usable Web, Mobile, and Interaction Design](https://amzn.to/2XPSn1P) – though not exclusively about designing mobile interfaces – is an excellent book that explores the user experience benefits of embracing simplicity and focusing on usability. It’s a short, sharp read that’s packed with useful advice.
 
 
 
