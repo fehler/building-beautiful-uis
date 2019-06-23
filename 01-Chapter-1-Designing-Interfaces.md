@@ -16,11 +16,11 @@ Note to self: Should each chapter spell out user interface in full before subseq
 Table of Contents
 -----------------
 
-+ [Section 1: The ‘UI’ in ‘GUI’](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-1-the-ui-in-gui)
-+ [Section 2: Designing Human Interfaces](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-2-designing-human-interfaces)
-+ [Section 3: Desktops and Metaphors](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-3-desktops-and-metaphors)
-+ [Section 4: Establishing Clear Mental Models](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-4-establishing-clear-mental-models)
-+ [Section 5: UI, Here and Now](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#part-5-ui-here-and-now)
++ [Section 1: The ‘UI’ in ‘GUI’](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#section-1-the-ui-in-gui)
++ [Section 2: Designing Human Interfaces](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#section-2-designing-human-interfaces)
++ [Section 3: Desktops and Metaphors](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#section-3-desktops-and-metaphors)
++ [Section 4: Establishing Clear Mental Models](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#section-4-establishing-clear-mental-models)
++ [Section 5: UI, Here and Now](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#section-5-ui-here-and-now)
 
 
 
