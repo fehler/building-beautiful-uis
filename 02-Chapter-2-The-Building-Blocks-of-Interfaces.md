@@ -27,8 +27,8 @@ Modules, or Units? (I prefer Modules.)
 Table of Contents
 -----------------
 
-+ [Section 1: Interfaces Are Like LEGO](#)
-+ [Section 2: Objects → Elements → Components → Pages → Flows](#)
++ [Section 1: Interfaces Are Like LEGO](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-1-interfaces-are-like-lego)
++ [Section 2: Objects → Elements → Components → Pages → Flows](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-2-objects--elements--components--pages--flows)
 + [Section 3: A Library of Elements](#)
 + [Section 4: The Wonderful World of Icons](#)
 + [Section 5: Design Systems](#)
@@ -94,7 +94,7 @@ I’ve provided examples of desktop, mobile (smartphone, tablet) and wrist UIs s
 
 <!--
 
-Somewhere, stress that this isn't just something beginners do. Professionals do this, too, including lots of well known folks. Here's something by Chris Coyier:
+Somewhere, stress that this isn’t just something beginners do. Professionals do this, too, including lots of well known folks. Here’s something by Chris Coyier:
 
 https://culturedcode.com/status/
 
@@ -147,15 +147,15 @@ Everything we create is built from smaller parts. At the simplest level, user in
 + Pages
 + Flows
 
-In this chapter, **I'll be focusing on elements, demonstrating how they can be built from simple objects**.
+In this chapter, **I’ll be focusing on elements, demonstrating how they can be built from simple objects**.
 
-In the next chapter, I'll show how these **elements can be combined to create components and pages**, which form the backbone of user interfaces. In the following chapter, I'll explore how we tie these separate pages together in flows.
+In the next chapter, I’ll show how these **elements can be combined to create components and pages**, which form the backbone of user interfaces. In the following chapter, I’ll explore how we tie these separate pages together in flows.
 
-This approach – Objects → Elements → Components → Pages → Flows – is similar to Brad Frost's [Atomic Design](http://atomicdesign.bradfrost.com/chapter-2/) methodology. I never studied chemistry, so I find Frost's naming convention – which features 'atoms' and 'molecules' from the world of chemistry, and 'organisms' from the world of biology – a little confusing.
+This approach – Objects → Elements → Components → Pages → Flows – is similar to Brad Frost’s [Atomic Design](http://atomicdesign.bradfrost.com/chapter-2/) methodology. I never studied chemistry, so I find Frost’s naming convention – which features ‘atoms’ and ‘molecules’ from the world of chemistry, and ‘organisms’ from the world of biology – a little confusing.
 
-<!-- Image: Brad Frost's Atomic Design? Or is this too confusing given my methodology. -->
+<!-- Image: Brad Frost’s Atomic Design? Or is this too confusing given my methodology. -->
 
-Frost's methodology is also directed primarily at front-end designers who are using HTML, CSS and JavaScript. Designing interfaces in a tool like Adobe XD is increasingly separated from the world of code. (Although – to be clear, in case I spark the 'designers should know how to code' debate – it helps to at least have an understanding of code!)  Given the specialism we're seeing emerging, I believe there's a need for a different naming convention.
+Frost’s methodology is also directed primarily at front-end designers who are using HTML, CSS and JavaScript. Designing interfaces in a tool like Adobe XD is increasingly separated from the world of code. (Although – to be clear, in case I spark the ‘designers should know how to code’ debate – it helps to at least have an understanding of code!)  Given the specialism we’re seeing emerging, I believe there’s a need for a different naming convention.
 
 Looking at the illustration at the beginning of this section, I prefer the labels: objects, elements, components, pages and flows. I find these labels easier to grasp and they should, I feel, need no explanation.
 
@@ -168,12 +168,12 @@ The emphasis on this chapter is that everything we encounter in a user interface
 
 Understanding how the basic building blocks of interfaces work – as a simple, element level – helps us to develop a language of elements that we can build into complex interfaces.
 
-<!-- This section feels short, but I'm struggling to think about what else I can add to it. Revisit this with a clear head. -->
+<!-- This section feels short, but I’m struggling to think about what else I can add to it. Revisit this with a clear head. -->
 
 
 
-Section 3: Objects  → Elements /* THIS HAS CHANGED */
-------------------------------
+Section 3: A Library of Elements
+--------------------------------
 
 ![Placeholder Image](images/section-opening-placeholder-image.png)
 
@@ -190,47 +190,58 @@ The emphasis on this chapter is that everything we encounter in a user interface
 Understanding how the basic building blocks of interfaces work – as a simple, element level – helps us to develop a language of elements that we can build into complex interfaces.
 
 
+### A List of Common Elements
 
-Section 4: A Library of Elements
---------------------------------
+This isn’t an exhaustive list, but it does provide an overview of some typical elements you’ll need to consider.
+
+There are many, many more elements in user interface design. Ever-helpful, usability.gov have put together lots of useful information at [User Interface Elements](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html). As they put it:
+
+> When designing your interface, try to be consistent and predictable in your choice of interface elements.
+> 
+> Whether they are aware of it or not, users have become familiar with elements acting in a certain way, so choosing to adopt those elements when appropriate will help with task completion, efficiency, and satisfaction.
+
+The interfaces you design won’t necessarily need **all** of the elements that usability.gov list, but it will include a substantial number. As ever, if a pattern for something exists, use it. As I explored in Chapter 1, users have mental models of how things work. Sticking to these mental models as closely as you can will result in a user interface that’s clearer and more easily understood.
+
+
+#### Buttons
+
+Buttons indicate an action on click or touch and are typically labelled with text, an icon or both.
+
+
+#### Toggles
+
+Toggles allow users to change settings between two states, for example: on and off. Ensuring the on and off states are visually distinct improves toggles usability.
+
+
+#### Tags
+
+Useful in lots of contexts, for example in profile components or on content-driven pages.
+
+
+#### Progress Bars
+
+Progress bars communicate what stage a user is as at as they progress through a series of tasks. They can also be used to indicate other types of information, for example the progress of a download.
+
+
+#### Tool Tips
+
+Providing user feedback is essential and tool tips are a helpful way to do this, providing users with guidance where it’s needed.
+
+
+
+Section 4: The Wonderful World of Icons
+---------------------------------------
 
 ![Placeholder Image](images/section-opening-placeholder-image.png)
 
 **CAPTION: Caption here.**
 
 
-This isn’t an exhaustive list, but it does provide an overview of some typical elements you’ll need to consider.
+This section is all about iconography…
 
-Somewhere I need to explain what the different elements are. There’s lots of useful information here, especially as regards naming elements:
+Icons aren't really the same as elements, rather you might use them within elements or in addition to elements to create a user interface that communicates clearly.
 
-http://bit.ly/namingelements
-
-I’m going to introduce ~5 and then link to the usability.gov page for a more comprehensive overview.
-
-
-### Buttons
-
-Buttons indicate an action on click or touch and are typically labelled with text, an icon or both.
-
-
-### Toggles
-
-Toggles allow users to change settings between two states, for example: on and off. Ensuring the on and off states are visually distinct improves toggles usability.
-
-
-### Tags
-
-Useful in lots of contexts, for example in profile components or on content-driven pages.
-
-
-### Progress Bars
-
-Progress bars communicate what stage a user is as at as they progress through a series of tasks. They can also be used to indicate other types of information, for example the progress of a download.
-
-
-### Tool Tips
-
-Providing user feedback is essential and tool tips are a helpful way to do this, providing users with guidance where it’s needed.
+MORE HERE ON ICONS
 
 
 
@@ -242,35 +253,13 @@ Section 5: Overlays and Scrims /* THIS HAS CHANGED */
 **CAPTION: Caption here.**
 
 
-This feels a little weak if it’s just overlays and scrims, perhaps widen the scope of this section to stress the need to legibility and accessibility.
+This is now design systems…
 
-**An overlay covers the entire image in a consistent tone, a scrim is a gradient.**
+As you design and build your user interface elements, it’s important to ensure they follow a consistent visual language. Do this at the element level and you will – by extension as you build modules from elements – have the basis of a design system.
 
-Somewhere, probably in the swipe files, I need to explain overlays and scrims. Reword the following:
+Design systems are beyond the scope of this book, but they are well worth reading up on. I’d strongly recommend Alla Kholmatova’s [Design Systems: A Practical Guide to Creating Design Languages for Digital Products](https://shop.smashingmagazine.com/products/design-systems-by-alla-kholmatova?utm_source=shop&utm_medium=sidebar-widget) as a starting point.
 
-> An alpha colored layer to increase contrast between your background image and content.
-
-http://thetheme.io/thesaas/uikit/overlay.html
-
-Combine and reword the following:
-
-> A scrim is a piece of photography equipment that makes light softer. Now it’s also a visual design technique for softening an image so overlaid text is more legible.
-
-> A scrim is a piece of translucent fabric, usually held together on some sort of frame, that defuses the light hitting your subject.
-
-An overlay covers the entire image in a consistent tone, a scrim is a gradient.
-
-Show light and dark overlays (look at my Photos, there’s good illustrations from the above article).
-
-Show top and bottom scrims. As above, there are screenshots in the article.
-
-Three art boards:
-
-Overlays (black, white)
-Overlays (color)
-Scrims (top, bottom)
-
-25, 50, 75%
+Kholmatova shephered the development of FutureLearn’s [Design System](https://design-system.futurelearn.com), which is also worth looking at. Her knowledge of design systems is unparalleled and her book is excellent and well worth owning.
 
 
 
