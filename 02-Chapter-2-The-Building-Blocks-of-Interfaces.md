@@ -29,9 +29,9 @@ Table of Contents
 
 + [Section 1: Interfaces Are Like LEGO](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-1-interfaces-are-like-lego)
 + [Section 2: Objects → Elements → Components → Pages → Flows](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-2-objects--elements--components--pages--flows)
-+ [Section 3: A Library of Elements](#)
-+ [Section 4: The Wonderful World of Icons](#)
-+ [Section 5: Design Systems](#)
++ [Section 3: A Library of Elements](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-3-a-library-of-elements)
++ [Section 4: The Wonderful World of Icons](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-4-the-wonderful-world-of-icons)
++ [Section 5: Design Systems](https://github.com/fehler/building-beautiful-uis/blob/master/02-Chapter-2-The-Building-Blocks-of-Interfaces.md#section-5-design-systems)
 
 
 
@@ -245,8 +245,8 @@ MORE HERE ON ICONS
 
 
 
-Section 5: Overlays and Scrims /* THIS HAS CHANGED */
-------------------------------
+Section 5: Design Systems
+-------------------------
 
 ![Placeholder Image](images/section-opening-placeholder-image.png)
 
