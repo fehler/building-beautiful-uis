@@ -11,7 +11,7 @@ Table of Contents
 -----------------
 
 + [Section 1: Vic Bell (Iconography)](#)
-+ [Section 2: Howard Pinsky (User Iinterface Design)](#)
++ [Section 2: Howard Pinsky (User Interface Design)](#)
 + [Section 3: Val Head (Animating Interfaces)](#)
 
 
@@ -48,8 +48,8 @@ Vic's work for world-class clients, including Uber, etc..
 
 
 
-Section 2: Howard Pinsky (UI)
------------------------------
+Section 2: Howard Pinsky (User Interface Design)
+------------------------------------------------
 
 ![Placeholder Image](images/section-opening-placeholder-image.png)
 

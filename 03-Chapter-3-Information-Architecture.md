@@ -29,6 +29,7 @@ Table of Contents
 + [Section 3: The Importance of a Clear Visual Hierarchy](#)
 + [Section 4: Composition and Grid Systems](#)
 + [Section 5: Iconic Layouts and Blockframes](#)
++ [Further Reading](#)
 
 
 

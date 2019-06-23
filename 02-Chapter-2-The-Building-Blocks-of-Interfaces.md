@@ -200,7 +200,7 @@ There are many, many more elements in user interface design. Ever-helpful, usabi
 > 
 > Whether they are aware of it or not, users have become familiar with elements acting in a certain way, so choosing to adopt those elements when appropriate will help with task completion, efficiency, and satisfaction.
 
-The interfaces you design won’t necessarily need **all** of the elements that usability.gov list, but it will include a substantial number. As ever, if a pattern for something exists, use it. As I explored in Chapter 1, users have mental models of how things work. Sticking to these mental models as closely as you can will result in a user interface that’s clearer and more easily understood.
+The interfaces you design won’t necessarily need **all** of the elements that usability.gov list, but it will include a substantial number. As ever, if a pattern for something exists, use it. As I explored in Chapter 1, users have [mental models](https://github.com/fehler/building-beautiful-uis/blob/master/01-Chapter-1-Designing-Interfaces.md#section-4-establishing-clear-mental-models) of how things work. Sticking to these mental models as closely as you can will result in a user interface that’s clearer and more easily understood.
 
 
 #### Buttons
@@ -239,7 +239,7 @@ Section 4: The Wonderful World of Icons
 
 This section is all about iconography…
 
-Icons aren't really the same as elements, rather you might use them within elements or in addition to elements to create a user interface that communicates clearly.
+Icons aren’t really the same as elements, rather you might use them within elements or in addition to elements to create a user interface that communicates clearly.
 
 MORE HERE ON ICONS
 
@@ -260,6 +260,8 @@ As you design and build your user interface elements, it’s important to ensure
 Design systems are beyond the scope of this book, but they are well worth reading up on. I’d strongly recommend Alla Kholmatova’s [Design Systems: A Practical Guide to Creating Design Languages for Digital Products](https://shop.smashingmagazine.com/products/design-systems-by-alla-kholmatova?utm_source=shop&utm_medium=sidebar-widget) as a starting point.
 
 Kholmatova shephered the development of FutureLearn’s [Design System](https://design-system.futurelearn.com), which is also worth looking at. Her knowledge of design systems is unparalleled and her book is excellent and well worth owning.
+
+EXPLAIN - IN AN OVERVIEW WAY – WHAT A DESIGN SYSTEM IS.
 
 
 
